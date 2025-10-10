@@ -1,0 +1,10002 @@
+[
+  {
+    "id_profesor": "1",
+    "sueldo_profesor": "6054354",
+    "col3": "987"
+  },
+  {
+    "id_profesor": "2",
+    "sueldo_profesor": "6879126",
+    "col3": "5824"
+  },
+  {
+    "id_profesor": "3",
+    "sueldo_profesor": "4123957",
+    "col3": "4060"
+  },
+  {
+    "id_profesor": "4",
+    "sueldo_profesor": "4170182",
+    "col3": "869"
+  },
+  {
+    "id_profesor": "5",
+    "sueldo_profesor": "4068153",
+    "col3": "5224"
+  },
+  {
+    "id_profesor": "6",
+    "sueldo_profesor": "3441218",
+    "col3": "6411"
+  },
+  {
+    "id_profesor": "7",
+    "sueldo_profesor": "4048309",
+    "col3": "6231"
+  },
+  {
+    "id_profesor": "8",
+    "sueldo_profesor": "4277732",
+    "col3": "4854"
+  },
+  {
+    "id_profesor": "9",
+    "sueldo_profesor": "5003507",
+    "col3": "5422"
+  },
+  {
+    "id_profesor": "10",
+    "sueldo_profesor": "7598882",
+    "col3": "8016"
+  },
+  {
+    "id_profesor": "11",
+    "sueldo_profesor": "3918724",
+    "col3": "6639"
+  },
+  {
+    "id_profesor": "12",
+    "sueldo_profesor": "7752480",
+    "col3": "5794"
+  },
+  {
+    "id_profesor": "13",
+    "sueldo_profesor": "5989474",
+    "col3": "3991"
+  },
+  {
+    "id_profesor": "14",
+    "sueldo_profesor": "6119358",
+    "col3": "6035"
+  },
+  {
+    "id_profesor": "15",
+    "sueldo_profesor": "7274656",
+    "col3": "4385"
+  },
+  {
+    "id_profesor": "16",
+    "sueldo_profesor": "7876343",
+    "col3": "3235"
+  },
+  {
+    "id_profesor": "17",
+    "sueldo_profesor": "7288538",
+    "col3": "8173"
+  },
+  {
+    "id_profesor": "18",
+    "sueldo_profesor": "7162520",
+    "col3": "2426"
+  },
+  {
+    "id_profesor": "19",
+    "sueldo_profesor": "7840570",
+    "col3": "8132"
+  },
+  {
+    "id_profesor": "20",
+    "sueldo_profesor": "7428900",
+    "col3": "3116"
+  },
+  {
+    "id_profesor": "21",
+    "sueldo_profesor": "1691919",
+    "col3": "1592"
+  },
+  {
+    "id_profesor": "22",
+    "sueldo_profesor": "6147313",
+    "col3": "1656"
+  },
+  {
+    "id_profesor": "23",
+    "sueldo_profesor": "4067540",
+    "col3": "3392"
+  },
+  {
+    "id_profesor": "24",
+    "sueldo_profesor": "5721339",
+    "col3": "4357"
+  },
+  {
+    "id_profesor": "25",
+    "sueldo_profesor": "6054032",
+    "col3": "4327"
+  },
+  {
+    "id_profesor": "26",
+    "sueldo_profesor": "5389362",
+    "col3": "8471"
+  },
+  {
+    "id_profesor": "27",
+    "sueldo_profesor": "2251393",
+    "col3": "6987"
+  },
+  {
+    "id_profesor": "28",
+    "sueldo_profesor": "4421646",
+    "col3": "2476"
+  },
+  {
+    "id_profesor": "29",
+    "sueldo_profesor": "2778135",
+    "col3": "434"
+  },
+  {
+    "id_profesor": "30",
+    "sueldo_profesor": "1665253",
+    "col3": "7768"
+  },
+  {
+    "id_profesor": "31",
+    "sueldo_profesor": "4012886",
+    "col3": "5864"
+  },
+  {
+    "id_profesor": "32",
+    "sueldo_profesor": "7760840",
+    "col3": "1481"
+  },
+  {
+    "id_profesor": "33",
+    "sueldo_profesor": "2667119",
+    "col3": "5300"
+  },
+  {
+    "id_profesor": "34",
+    "sueldo_profesor": "7024785",
+    "col3": "6296"
+  },
+  {
+    "id_profesor": "35",
+    "sueldo_profesor": "7094790",
+    "col3": "3720"
+  },
+  {
+    "id_profesor": "36",
+    "sueldo_profesor": "6306158",
+    "col3": "3337"
+  },
+  {
+    "id_profesor": "37",
+    "sueldo_profesor": "4196922",
+    "col3": "6683"
+  },
+  {
+    "id_profesor": "38",
+    "sueldo_profesor": "1865815",
+    "col3": "7697"
+  },
+  {
+    "id_profesor": "39",
+    "sueldo_profesor": "3061571",
+    "col3": "4930"
+  },
+  {
+    "id_profesor": "40",
+    "sueldo_profesor": "7858023",
+    "col3": "8878"
+  },
+  {
+    "id_profesor": "41",
+    "sueldo_profesor": "1653702",
+    "col3": "2844"
+  },
+  {
+    "id_profesor": "42",
+    "sueldo_profesor": "1982884",
+    "col3": "9200"
+  },
+  {
+    "id_profesor": "43",
+    "sueldo_profesor": "6178173",
+    "col3": "8167"
+  },
+  {
+    "id_profesor": "44",
+    "sueldo_profesor": "4169910",
+    "col3": "3892"
+  },
+  {
+    "id_profesor": "45",
+    "sueldo_profesor": "7987519",
+    "col3": "8811"
+  },
+  {
+    "id_profesor": "46",
+    "sueldo_profesor": "7600502",
+    "col3": "306"
+  },
+  {
+    "id_profesor": "47",
+    "sueldo_profesor": "4493004",
+    "col3": "5381"
+  },
+  {
+    "id_profesor": "48",
+    "sueldo_profesor": "3835419",
+    "col3": "3720"
+  },
+  {
+    "id_profesor": "49",
+    "sueldo_profesor": "2695905",
+    "col3": "2902"
+  },
+  {
+    "id_profesor": "50",
+    "sueldo_profesor": "5469975",
+    "col3": "860"
+  },
+  {
+    "id_profesor": "51",
+    "sueldo_profesor": "1587970",
+    "col3": "1302"
+  },
+  {
+    "id_profesor": "52",
+    "sueldo_profesor": "3979764",
+    "col3": "8650"
+  },
+  {
+    "id_profesor": "53",
+    "sueldo_profesor": "2172027",
+    "col3": "4527"
+  },
+  {
+    "id_profesor": "54",
+    "sueldo_profesor": "7833972",
+    "col3": "7641"
+  },
+  {
+    "id_profesor": "55",
+    "sueldo_profesor": "5981046",
+    "col3": "4536"
+  },
+  {
+    "id_profesor": "56",
+    "sueldo_profesor": "4960406",
+    "col3": "3206"
+  },
+  {
+    "id_profesor": "57",
+    "sueldo_profesor": "5568582",
+    "col3": "6333"
+  },
+  {
+    "id_profesor": "58",
+    "sueldo_profesor": "5381433",
+    "col3": "5814"
+  },
+  {
+    "id_profesor": "59",
+    "sueldo_profesor": "4290250",
+    "col3": "639"
+  },
+  {
+    "id_profesor": "60",
+    "sueldo_profesor": "3530007",
+    "col3": "4274"
+  },
+  {
+    "id_profesor": "61",
+    "sueldo_profesor": "6020125",
+    "col3": "7107"
+  },
+  {
+    "id_profesor": "62",
+    "sueldo_profesor": "3869500",
+    "col3": "526"
+  },
+  {
+    "id_profesor": "63",
+    "sueldo_profesor": "4083650",
+    "col3": "9039"
+  },
+  {
+    "id_profesor": "64",
+    "sueldo_profesor": "4050779",
+    "col3": "2467"
+  },
+  {
+    "id_profesor": "65",
+    "sueldo_profesor": "5911220",
+    "col3": "7758"
+  },
+  {
+    "id_profesor": "66",
+    "sueldo_profesor": "5558609",
+    "col3": "4746"
+  },
+  {
+    "id_profesor": "67",
+    "sueldo_profesor": "3207380",
+    "col3": "4242"
+  },
+  {
+    "id_profesor": "68",
+    "sueldo_profesor": "2678230",
+    "col3": "1784"
+  },
+  {
+    "id_profesor": "69",
+    "sueldo_profesor": "2079785",
+    "col3": "7929"
+  },
+  {
+    "id_profesor": "70",
+    "sueldo_profesor": "4116065",
+    "col3": "2066"
+  },
+  {
+    "id_profesor": "71",
+    "sueldo_profesor": "7013822",
+    "col3": "3176"
+  },
+  {
+    "id_profesor": "72",
+    "sueldo_profesor": "3275125",
+    "col3": "3134"
+  },
+  {
+    "id_profesor": "73",
+    "sueldo_profesor": "2391566",
+    "col3": "9988"
+  },
+  {
+    "id_profesor": "74",
+    "sueldo_profesor": "6572574",
+    "col3": "1380"
+  },
+  {
+    "id_profesor": "75",
+    "sueldo_profesor": "2430660",
+    "col3": "1476"
+  },
+  {
+    "id_profesor": "76",
+    "sueldo_profesor": "3492036",
+    "col3": "3989"
+  },
+  {
+    "id_profesor": "77",
+    "sueldo_profesor": "6055035",
+    "col3": "4735"
+  },
+  {
+    "id_profesor": "78",
+    "sueldo_profesor": "2587054",
+    "col3": "5193"
+  },
+  {
+    "id_profesor": "79",
+    "sueldo_profesor": "2437138",
+    "col3": "5183"
+  },
+  {
+    "id_profesor": "80",
+    "sueldo_profesor": "5867319",
+    "col3": "6115"
+  },
+  {
+    "id_profesor": "81",
+    "sueldo_profesor": "2900528",
+    "col3": "9348"
+  },
+  {
+    "id_profesor": "82",
+    "sueldo_profesor": "6487325",
+    "col3": "6528"
+  },
+  {
+    "id_profesor": "83",
+    "sueldo_profesor": "2169342",
+    "col3": "1542"
+  },
+  {
+    "id_profesor": "84",
+    "sueldo_profesor": "4592714",
+    "col3": "6890"
+  },
+  {
+    "id_profesor": "85",
+    "sueldo_profesor": "3796829",
+    "col3": "6845"
+  },
+  {
+    "id_profesor": "86",
+    "sueldo_profesor": "2266574",
+    "col3": "996"
+  },
+  {
+    "id_profesor": "87",
+    "sueldo_profesor": "1608650",
+    "col3": "5727"
+  },
+  {
+    "id_profesor": "88",
+    "sueldo_profesor": "4593778",
+    "col3": "5272"
+  },
+  {
+    "id_profesor": "89",
+    "sueldo_profesor": "7510945",
+    "col3": "2532"
+  },
+  {
+    "id_profesor": "90",
+    "sueldo_profesor": "2344111",
+    "col3": "7266"
+  },
+  {
+    "id_profesor": "91",
+    "sueldo_profesor": "5279231",
+    "col3": "9596"
+  },
+  {
+    "id_profesor": "92",
+    "sueldo_profesor": "5508695",
+    "col3": "1080"
+  },
+  {
+    "id_profesor": "93",
+    "sueldo_profesor": "7957420",
+    "col3": "7767"
+  },
+  {
+    "id_profesor": "94",
+    "sueldo_profesor": "4012422",
+    "col3": "4220"
+  },
+  {
+    "id_profesor": "95",
+    "sueldo_profesor": "4590103",
+    "col3": "9398"
+  },
+  {
+    "id_profesor": "96",
+    "sueldo_profesor": "3747945",
+    "col3": "2282"
+  },
+  {
+    "id_profesor": "97",
+    "sueldo_profesor": "3819722",
+    "col3": "9764"
+  },
+  {
+    "id_profesor": "98",
+    "sueldo_profesor": "3072759",
+    "col3": "835"
+  },
+  {
+    "id_profesor": "99",
+    "sueldo_profesor": "6109925",
+    "col3": "8445"
+  },
+  {
+    "id_profesor": "100",
+    "sueldo_profesor": "6685494",
+    "col3": "4777"
+  },
+  {
+    "id_profesor": "101",
+    "sueldo_profesor": "4396065",
+    "col3": "7742"
+  },
+  {
+    "id_profesor": "102",
+    "sueldo_profesor": "2827648",
+    "col3": "5340"
+  },
+  {
+    "id_profesor": "103",
+    "sueldo_profesor": "5158000",
+    "col3": "311"
+  },
+  {
+    "id_profesor": "104",
+    "sueldo_profesor": "7823583",
+    "col3": "7440"
+  },
+  {
+    "id_profesor": "105",
+    "sueldo_profesor": "7050852",
+    "col3": "4536"
+  },
+  {
+    "id_profesor": "106",
+    "sueldo_profesor": "6217518",
+    "col3": "9144"
+  },
+  {
+    "id_profesor": "107",
+    "sueldo_profesor": "6637654",
+    "col3": "3223"
+  },
+  {
+    "id_profesor": "108",
+    "sueldo_profesor": "2297765",
+    "col3": "6908"
+  },
+  {
+    "id_profesor": "109",
+    "sueldo_profesor": "5122747",
+    "col3": "9909"
+  },
+  {
+    "id_profesor": "110",
+    "sueldo_profesor": "4674013",
+    "col3": "6260"
+  },
+  {
+    "id_profesor": "111",
+    "sueldo_profesor": "7330061",
+    "col3": "5957"
+  },
+  {
+    "id_profesor": "112",
+    "sueldo_profesor": "7780305",
+    "col3": "4032"
+  },
+  {
+    "id_profesor": "113",
+    "sueldo_profesor": "4760036",
+    "col3": "3012"
+  },
+  {
+    "id_profesor": "114",
+    "sueldo_profesor": "1639040",
+    "col3": "8820"
+  },
+  {
+    "id_profesor": "115",
+    "sueldo_profesor": "4675598",
+    "col3": "1335"
+  },
+  {
+    "id_profesor": "116",
+    "sueldo_profesor": "2999924",
+    "col3": "6339"
+  },
+  {
+    "id_profesor": "117",
+    "sueldo_profesor": "7072517",
+    "col3": "7681"
+  },
+  {
+    "id_profesor": "118",
+    "sueldo_profesor": "6799839",
+    "col3": "7835"
+  },
+  {
+    "id_profesor": "119",
+    "sueldo_profesor": "4864827",
+    "col3": "8592"
+  },
+  {
+    "id_profesor": "120",
+    "sueldo_profesor": "3821116",
+    "col3": "9298"
+  },
+  {
+    "id_profesor": "121",
+    "sueldo_profesor": "4070484",
+    "col3": "7489"
+  },
+  {
+    "id_profesor": "122",
+    "sueldo_profesor": "6654261",
+    "col3": "6375"
+  },
+  {
+    "id_profesor": "123",
+    "sueldo_profesor": "3201373",
+    "col3": "6346"
+  },
+  {
+    "id_profesor": "124",
+    "sueldo_profesor": "4977738",
+    "col3": "3245"
+  },
+  {
+    "id_profesor": "125",
+    "sueldo_profesor": "2089836",
+    "col3": "8249"
+  },
+  {
+    "id_profesor": "126",
+    "sueldo_profesor": "5765861",
+    "col3": "3186"
+  },
+  {
+    "id_profesor": "127",
+    "sueldo_profesor": "6969610",
+    "col3": "5456"
+  },
+  {
+    "id_profesor": "128",
+    "sueldo_profesor": "3977636",
+    "col3": "8974"
+  },
+  {
+    "id_profesor": "129",
+    "sueldo_profesor": "7880831",
+    "col3": "9495"
+  },
+  {
+    "id_profesor": "130",
+    "sueldo_profesor": "1599548",
+    "col3": "5797"
+  },
+  {
+    "id_profesor": "131",
+    "sueldo_profesor": "5200938",
+    "col3": "5635"
+  },
+  {
+    "id_profesor": "132",
+    "sueldo_profesor": "4563643",
+    "col3": "1935"
+  },
+  {
+    "id_profesor": "133",
+    "sueldo_profesor": "6180136",
+    "col3": "5813"
+  },
+  {
+    "id_profesor": "134",
+    "sueldo_profesor": "2088810",
+    "col3": "3862"
+  },
+  {
+    "id_profesor": "135",
+    "sueldo_profesor": "7626083",
+    "col3": "4271"
+  },
+  {
+    "id_profesor": "136",
+    "sueldo_profesor": "6108409",
+    "col3": "6684"
+  },
+  {
+    "id_profesor": "137",
+    "sueldo_profesor": "2158480",
+    "col3": "84"
+  },
+  {
+    "id_profesor": "138",
+    "sueldo_profesor": "6944291",
+    "col3": "1205"
+  },
+  {
+    "id_profesor": "139",
+    "sueldo_profesor": "4575284",
+    "col3": "3596"
+  },
+  {
+    "id_profesor": "140",
+    "sueldo_profesor": "5438820",
+    "col3": "7293"
+  },
+  {
+    "id_profesor": "141",
+    "sueldo_profesor": "1577873",
+    "col3": "3008"
+  },
+  {
+    "id_profesor": "142",
+    "sueldo_profesor": "6067250",
+    "col3": "4386"
+  },
+  {
+    "id_profesor": "143",
+    "sueldo_profesor": "6931315",
+    "col3": "822"
+  },
+  {
+    "id_profesor": "144",
+    "sueldo_profesor": "6148404",
+    "col3": "5228"
+  },
+  {
+    "id_profesor": "145",
+    "sueldo_profesor": "7137624",
+    "col3": "9757"
+  },
+  {
+    "id_profesor": "146",
+    "sueldo_profesor": "7631755",
+    "col3": "2456"
+  },
+  {
+    "id_profesor": "147",
+    "sueldo_profesor": "3291368",
+    "col3": "373"
+  },
+  {
+    "id_profesor": "148",
+    "sueldo_profesor": "2826201",
+    "col3": "9599"
+  },
+  {
+    "id_profesor": "149",
+    "sueldo_profesor": "5230319",
+    "col3": "1271"
+  },
+  {
+    "id_profesor": "150",
+    "sueldo_profesor": "3504237",
+    "col3": "9709"
+  },
+  {
+    "id_profesor": "151",
+    "sueldo_profesor": "3895628",
+    "col3": "5074"
+  },
+  {
+    "id_profesor": "152",
+    "sueldo_profesor": "4342953",
+    "col3": "2305"
+  },
+  {
+    "id_profesor": "153",
+    "sueldo_profesor": "5591116",
+    "col3": "6549"
+  },
+  {
+    "id_profesor": "154",
+    "sueldo_profesor": "2195474",
+    "col3": "6222"
+  },
+  {
+    "id_profesor": "155",
+    "sueldo_profesor": "5203428",
+    "col3": "9347"
+  },
+  {
+    "id_profesor": "156",
+    "sueldo_profesor": "2837962",
+    "col3": "5688"
+  },
+  {
+    "id_profesor": "157",
+    "sueldo_profesor": "2719421",
+    "col3": "7579"
+  },
+  {
+    "id_profesor": "158",
+    "sueldo_profesor": "7996950",
+    "col3": "1541"
+  },
+  {
+    "id_profesor": "159",
+    "sueldo_profesor": "7494990",
+    "col3": "4265"
+  },
+  {
+    "id_profesor": "160",
+    "sueldo_profesor": "2767823",
+    "col3": "2657"
+  },
+  {
+    "id_profesor": "161",
+    "sueldo_profesor": "2062650",
+    "col3": "5266"
+  },
+  {
+    "id_profesor": "162",
+    "sueldo_profesor": "3229742",
+    "col3": "6872"
+  },
+  {
+    "id_profesor": "163",
+    "sueldo_profesor": "7884761",
+    "col3": "7481"
+  },
+  {
+    "id_profesor": "164",
+    "sueldo_profesor": "1941869",
+    "col3": "9677"
+  },
+  {
+    "id_profesor": "165",
+    "sueldo_profesor": "6537434",
+    "col3": "1473"
+  },
+  {
+    "id_profesor": "166",
+    "sueldo_profesor": "6911859",
+    "col3": "6063"
+  },
+  {
+    "id_profesor": "167",
+    "sueldo_profesor": "3417453",
+    "col3": "5569"
+  },
+  {
+    "id_profesor": "168",
+    "sueldo_profesor": "3950234",
+    "col3": "3599"
+  },
+  {
+    "id_profesor": "169",
+    "sueldo_profesor": "5459107",
+    "col3": "4006"
+  },
+  {
+    "id_profesor": "170",
+    "sueldo_profesor": "1643782",
+    "col3": "5657"
+  },
+  {
+    "id_profesor": "171",
+    "sueldo_profesor": "3072469",
+    "col3": "7879"
+  },
+  {
+    "id_profesor": "172",
+    "sueldo_profesor": "6416534",
+    "col3": "5276"
+  },
+  {
+    "id_profesor": "173",
+    "sueldo_profesor": "5444939",
+    "col3": "9758"
+  },
+  {
+    "id_profesor": "174",
+    "sueldo_profesor": "4238904",
+    "col3": "9333"
+  },
+  {
+    "id_profesor": "175",
+    "sueldo_profesor": "1909196",
+    "col3": "2826"
+  },
+  {
+    "id_profesor": "176",
+    "sueldo_profesor": "2821645",
+    "col3": "8166"
+  },
+  {
+    "id_profesor": "177",
+    "sueldo_profesor": "2183105",
+    "col3": "2253"
+  },
+  {
+    "id_profesor": "178",
+    "sueldo_profesor": "2514863",
+    "col3": "3866"
+  },
+  {
+    "id_profesor": "179",
+    "sueldo_profesor": "2306974",
+    "col3": "9662"
+  },
+  {
+    "id_profesor": "180",
+    "sueldo_profesor": "6753671",
+    "col3": "8437"
+  },
+  {
+    "id_profesor": "181",
+    "sueldo_profesor": "4833009",
+    "col3": "2544"
+  },
+  {
+    "id_profesor": "182",
+    "sueldo_profesor": "3693134",
+    "col3": "1095"
+  },
+  {
+    "id_profesor": "183",
+    "sueldo_profesor": "4976920",
+    "col3": "8624"
+  },
+  {
+    "id_profesor": "184",
+    "sueldo_profesor": "2586037",
+    "col3": "853"
+  },
+  {
+    "id_profesor": "185",
+    "sueldo_profesor": "3100957",
+    "col3": "6657"
+  },
+  {
+    "id_profesor": "186",
+    "sueldo_profesor": "2882432",
+    "col3": "3654"
+  },
+  {
+    "id_profesor": "187",
+    "sueldo_profesor": "3602551",
+    "col3": "3538"
+  },
+  {
+    "id_profesor": "188",
+    "sueldo_profesor": "3575026",
+    "col3": "6850"
+  },
+  {
+    "id_profesor": "189",
+    "sueldo_profesor": "3951076",
+    "col3": "8571"
+  },
+  {
+    "id_profesor": "190",
+    "sueldo_profesor": "1741273",
+    "col3": "5732"
+  },
+  {
+    "id_profesor": "191",
+    "sueldo_profesor": "4645361",
+    "col3": "5300"
+  },
+  {
+    "id_profesor": "192",
+    "sueldo_profesor": "3368504",
+    "col3": "6445"
+  },
+  {
+    "id_profesor": "193",
+    "sueldo_profesor": "6845766",
+    "col3": "2035"
+  },
+  {
+    "id_profesor": "194",
+    "sueldo_profesor": "7058351",
+    "col3": "6877"
+  },
+  {
+    "id_profesor": "195",
+    "sueldo_profesor": "7948202",
+    "col3": "9716"
+  },
+  {
+    "id_profesor": "196",
+    "sueldo_profesor": "6005246",
+    "col3": "6016"
+  },
+  {
+    "id_profesor": "197",
+    "sueldo_profesor": "1819168",
+    "col3": "6397"
+  },
+  {
+    "id_profesor": "198",
+    "sueldo_profesor": "7672532",
+    "col3": "7320"
+  },
+  {
+    "id_profesor": "199",
+    "sueldo_profesor": "2725618",
+    "col3": "6513"
+  },
+  {
+    "id_profesor": "200",
+    "sueldo_profesor": "1680528",
+    "col3": "7372"
+  },
+  {
+    "id_profesor": "201",
+    "sueldo_profesor": "6676994",
+    "col3": "489"
+  },
+  {
+    "id_profesor": "202",
+    "sueldo_profesor": "7782555",
+    "col3": "9506"
+  },
+  {
+    "id_profesor": "203",
+    "sueldo_profesor": "3028250",
+    "col3": "7388"
+  },
+  {
+    "id_profesor": "204",
+    "sueldo_profesor": "6315571",
+    "col3": "8808"
+  },
+  {
+    "id_profesor": "205",
+    "sueldo_profesor": "6875224",
+    "col3": "4202"
+  },
+  {
+    "id_profesor": "206",
+    "sueldo_profesor": "3948967",
+    "col3": "3527"
+  },
+  {
+    "id_profesor": "207",
+    "sueldo_profesor": "2851398",
+    "col3": "4659"
+  },
+  {
+    "id_profesor": "208",
+    "sueldo_profesor": "4075938",
+    "col3": "317"
+  },
+  {
+    "id_profesor": "209",
+    "sueldo_profesor": "4314693",
+    "col3": "2910"
+  },
+  {
+    "id_profesor": "210",
+    "sueldo_profesor": "5329816",
+    "col3": "7227"
+  },
+  {
+    "id_profesor": "211",
+    "sueldo_profesor": "7672719",
+    "col3": "3355"
+  },
+  {
+    "id_profesor": "212",
+    "sueldo_profesor": "3385600",
+    "col3": "8324"
+  },
+  {
+    "id_profesor": "213",
+    "sueldo_profesor": "1725989",
+    "col3": "8694"
+  },
+  {
+    "id_profesor": "214",
+    "sueldo_profesor": "6621887",
+    "col3": "7604"
+  },
+  {
+    "id_profesor": "215",
+    "sueldo_profesor": "2866824",
+    "col3": "8289"
+  },
+  {
+    "id_profesor": "216",
+    "sueldo_profesor": "4326834",
+    "col3": "9029"
+  },
+  {
+    "id_profesor": "217",
+    "sueldo_profesor": "2222340",
+    "col3": "4271"
+  },
+  {
+    "id_profesor": "218",
+    "sueldo_profesor": "4537855",
+    "col3": "9285"
+  },
+  {
+    "id_profesor": "219",
+    "sueldo_profesor": "2033426",
+    "col3": "8661"
+  },
+  {
+    "id_profesor": "220",
+    "sueldo_profesor": "3684889",
+    "col3": "9710"
+  },
+  {
+    "id_profesor": "221",
+    "sueldo_profesor": "2979486",
+    "col3": "2568"
+  },
+  {
+    "id_profesor": "222",
+    "sueldo_profesor": "6612632",
+    "col3": "3383"
+  },
+  {
+    "id_profesor": "223",
+    "sueldo_profesor": "3669349",
+    "col3": "8503"
+  },
+  {
+    "id_profesor": "224",
+    "sueldo_profesor": "4100178",
+    "col3": "2050"
+  },
+  {
+    "id_profesor": "225",
+    "sueldo_profesor": "5124752",
+    "col3": "7530"
+  },
+  {
+    "id_profesor": "226",
+    "sueldo_profesor": "6365109",
+    "col3": "169"
+  },
+  {
+    "id_profesor": "227",
+    "sueldo_profesor": "5196300",
+    "col3": "3402"
+  },
+  {
+    "id_profesor": "228",
+    "sueldo_profesor": "4447085",
+    "col3": "9229"
+  },
+  {
+    "id_profesor": "229",
+    "sueldo_profesor": "5337385",
+    "col3": "6010"
+  },
+  {
+    "id_profesor": "230",
+    "sueldo_profesor": "7679295",
+    "col3": "9515"
+  },
+  {
+    "id_profesor": "231",
+    "sueldo_profesor": "6753977",
+    "col3": "3194"
+  },
+  {
+    "id_profesor": "232",
+    "sueldo_profesor": "2185618",
+    "col3": "4954"
+  },
+  {
+    "id_profesor": "233",
+    "sueldo_profesor": "2175701",
+    "col3": "8640"
+  },
+  {
+    "id_profesor": "234",
+    "sueldo_profesor": "4391166",
+    "col3": "5456"
+  },
+  {
+    "id_profesor": "235",
+    "sueldo_profesor": "3178490",
+    "col3": "1425"
+  },
+  {
+    "id_profesor": "236",
+    "sueldo_profesor": "7703099",
+    "col3": "8621"
+  },
+  {
+    "id_profesor": "237",
+    "sueldo_profesor": "4020892",
+    "col3": "9539"
+  },
+  {
+    "id_profesor": "238",
+    "sueldo_profesor": "2470954",
+    "col3": "8572"
+  },
+  {
+    "id_profesor": "239",
+    "sueldo_profesor": "4811600",
+    "col3": "7506"
+  },
+  {
+    "id_profesor": "240",
+    "sueldo_profesor": "3808976",
+    "col3": "2970"
+  },
+  {
+    "id_profesor": "241",
+    "sueldo_profesor": "3336568",
+    "col3": "2247"
+  },
+  {
+    "id_profesor": "242",
+    "sueldo_profesor": "7234996",
+    "col3": "1833"
+  },
+  {
+    "id_profesor": "243",
+    "sueldo_profesor": "7302735",
+    "col3": "1295"
+  },
+  {
+    "id_profesor": "244",
+    "sueldo_profesor": "1940953",
+    "col3": "3632"
+  },
+  {
+    "id_profesor": "245",
+    "sueldo_profesor": "3376764",
+    "col3": "9872"
+  },
+  {
+    "id_profesor": "246",
+    "sueldo_profesor": "5157740",
+    "col3": "7536"
+  },
+  {
+    "id_profesor": "247",
+    "sueldo_profesor": "6924734",
+    "col3": "5409"
+  },
+  {
+    "id_profesor": "248",
+    "sueldo_profesor": "2026695",
+    "col3": "331"
+  },
+  {
+    "id_profesor": "249",
+    "sueldo_profesor": "2344702",
+    "col3": "9503"
+  },
+  {
+    "id_profesor": "250",
+    "sueldo_profesor": "3537091",
+    "col3": "9438"
+  },
+  {
+    "id_profesor": "251",
+    "sueldo_profesor": "4339729",
+    "col3": "7102"
+  },
+  {
+    "id_profesor": "252",
+    "sueldo_profesor": "4424040",
+    "col3": "2202"
+  },
+  {
+    "id_profesor": "253",
+    "sueldo_profesor": "2782783",
+    "col3": "8269"
+  },
+  {
+    "id_profesor": "254",
+    "sueldo_profesor": "3240628",
+    "col3": "2395"
+  },
+  {
+    "id_profesor": "255",
+    "sueldo_profesor": "6398750",
+    "col3": "3584"
+  },
+  {
+    "id_profesor": "256",
+    "sueldo_profesor": "3245043",
+    "col3": "1887"
+  },
+  {
+    "id_profesor": "257",
+    "sueldo_profesor": "7657782",
+    "col3": "5105"
+  },
+  {
+    "id_profesor": "258",
+    "sueldo_profesor": "6835664",
+    "col3": "4680"
+  },
+  {
+    "id_profesor": "259",
+    "sueldo_profesor": "5753416",
+    "col3": "1838"
+  },
+  {
+    "id_profesor": "260",
+    "sueldo_profesor": "4607090",
+    "col3": "3911"
+  },
+  {
+    "id_profesor": "261",
+    "sueldo_profesor": "5482124",
+    "col3": "2376"
+  },
+  {
+    "id_profesor": "262",
+    "sueldo_profesor": "5311313",
+    "col3": "3435"
+  },
+  {
+    "id_profesor": "263",
+    "sueldo_profesor": "4083525",
+    "col3": "7582"
+  },
+  {
+    "id_profesor": "264",
+    "sueldo_profesor": "4397313",
+    "col3": "2889"
+  },
+  {
+    "id_profesor": "265",
+    "sueldo_profesor": "2000609",
+    "col3": "4423"
+  },
+  {
+    "id_profesor": "266",
+    "sueldo_profesor": "6480206",
+    "col3": "4754"
+  },
+  {
+    "id_profesor": "267",
+    "sueldo_profesor": "7206397",
+    "col3": "9974"
+  },
+  {
+    "id_profesor": "268",
+    "sueldo_profesor": "2002397",
+    "col3": "800"
+  },
+  {
+    "id_profesor": "269",
+    "sueldo_profesor": "2114693",
+    "col3": "628"
+  },
+  {
+    "id_profesor": "270",
+    "sueldo_profesor": "2911181",
+    "col3": "1994"
+  },
+  {
+    "id_profesor": "271",
+    "sueldo_profesor": "5519481",
+    "col3": "8163"
+  },
+  {
+    "id_profesor": "272",
+    "sueldo_profesor": "4613677",
+    "col3": "5562"
+  },
+  {
+    "id_profesor": "273",
+    "sueldo_profesor": "1581147",
+    "col3": "1687"
+  },
+  {
+    "id_profesor": "274",
+    "sueldo_profesor": "5087142",
+    "col3": "9780"
+  },
+  {
+    "id_profesor": "275",
+    "sueldo_profesor": "6812422",
+    "col3": "2291"
+  },
+  {
+    "id_profesor": "276",
+    "sueldo_profesor": "6540955",
+    "col3": "453"
+  },
+  {
+    "id_profesor": "277",
+    "sueldo_profesor": "1976056",
+    "col3": "2266"
+  },
+  {
+    "id_profesor": "278",
+    "sueldo_profesor": "1559725",
+    "col3": "6622"
+  },
+  {
+    "id_profesor": "279",
+    "sueldo_profesor": "6132390",
+    "col3": "4356"
+  },
+  {
+    "id_profesor": "280",
+    "sueldo_profesor": "5602197",
+    "col3": "6620"
+  },
+  {
+    "id_profesor": "281",
+    "sueldo_profesor": "4655422",
+    "col3": "8375"
+  },
+  {
+    "id_profesor": "282",
+    "sueldo_profesor": "6724761",
+    "col3": "8992"
+  },
+  {
+    "id_profesor": "283",
+    "sueldo_profesor": "7619946",
+    "col3": "3458"
+  },
+  {
+    "id_profesor": "284",
+    "sueldo_profesor": "6315845",
+    "col3": "3325"
+  },
+  {
+    "id_profesor": "285",
+    "sueldo_profesor": "2866051",
+    "col3": "2009"
+  },
+  {
+    "id_profesor": "286",
+    "sueldo_profesor": "2913597",
+    "col3": "9466"
+  },
+  {
+    "id_profesor": "287",
+    "sueldo_profesor": "5128550",
+    "col3": "1566"
+  },
+  {
+    "id_profesor": "288",
+    "sueldo_profesor": "6574048",
+    "col3": "2764"
+  },
+  {
+    "id_profesor": "289",
+    "sueldo_profesor": "6191778",
+    "col3": "7064"
+  },
+  {
+    "id_profesor": "290",
+    "sueldo_profesor": "7654031",
+    "col3": "2584"
+  },
+  {
+    "id_profesor": "291",
+    "sueldo_profesor": "5602356",
+    "col3": "4933"
+  },
+  {
+    "id_profesor": "292",
+    "sueldo_profesor": "5379970",
+    "col3": "7348"
+  },
+  {
+    "id_profesor": "293",
+    "sueldo_profesor": "3310886",
+    "col3": "9196"
+  },
+  {
+    "id_profesor": "294",
+    "sueldo_profesor": "7308963",
+    "col3": "5052"
+  },
+  {
+    "id_profesor": "295",
+    "sueldo_profesor": "5633683",
+    "col3": "3196"
+  },
+  {
+    "id_profesor": "296",
+    "sueldo_profesor": "6397569",
+    "col3": "9191"
+  },
+  {
+    "id_profesor": "297",
+    "sueldo_profesor": "7724838",
+    "col3": "9670"
+  },
+  {
+    "id_profesor": "298",
+    "sueldo_profesor": "2364582",
+    "col3": "3434"
+  },
+  {
+    "id_profesor": "299",
+    "sueldo_profesor": "6538651",
+    "col3": "1161"
+  },
+  {
+    "id_profesor": "300",
+    "sueldo_profesor": "4363749",
+    "col3": "5705"
+  },
+  {
+    "id_profesor": "301",
+    "sueldo_profesor": "3518920",
+    "col3": "7567"
+  },
+  {
+    "id_profesor": "302",
+    "sueldo_profesor": "6582131",
+    "col3": "3240"
+  },
+  {
+    "id_profesor": "303",
+    "sueldo_profesor": "3618962",
+    "col3": "6018"
+  },
+  {
+    "id_profesor": "304",
+    "sueldo_profesor": "5214479",
+    "col3": "3378"
+  },
+  {
+    "id_profesor": "305",
+    "sueldo_profesor": "6373289",
+    "col3": "4980"
+  },
+  {
+    "id_profesor": "306",
+    "sueldo_profesor": "7788093",
+    "col3": "1506"
+  },
+  {
+    "id_profesor": "307",
+    "sueldo_profesor": "4636339",
+    "col3": "4543"
+  },
+  {
+    "id_profesor": "308",
+    "sueldo_profesor": "6175054",
+    "col3": "3330"
+  },
+  {
+    "id_profesor": "309",
+    "sueldo_profesor": "4352884",
+    "col3": "6500"
+  },
+  {
+    "id_profesor": "310",
+    "sueldo_profesor": "6463674",
+    "col3": "9572"
+  },
+  {
+    "id_profesor": "311",
+    "sueldo_profesor": "2529808",
+    "col3": "6417"
+  },
+  {
+    "id_profesor": "312",
+    "sueldo_profesor": "4553297",
+    "col3": "2192"
+  },
+  {
+    "id_profesor": "313",
+    "sueldo_profesor": "3011779",
+    "col3": "6417"
+  },
+  {
+    "id_profesor": "314",
+    "sueldo_profesor": "7237713",
+    "col3": "6440"
+  },
+  {
+    "id_profesor": "315",
+    "sueldo_profesor": "2959548",
+    "col3": "9337"
+  },
+  {
+    "id_profesor": "316",
+    "sueldo_profesor": "4029784",
+    "col3": "6653"
+  },
+  {
+    "id_profesor": "317",
+    "sueldo_profesor": "7278197",
+    "col3": "6601"
+  },
+  {
+    "id_profesor": "318",
+    "sueldo_profesor": "2708082",
+    "col3": "3210"
+  },
+  {
+    "id_profesor": "319",
+    "sueldo_profesor": "6216306",
+    "col3": "8275"
+  },
+  {
+    "id_profesor": "320",
+    "sueldo_profesor": "4262896",
+    "col3": "1123"
+  },
+  {
+    "id_profesor": "321",
+    "sueldo_profesor": "2889838",
+    "col3": "6294"
+  },
+  {
+    "id_profesor": "322",
+    "sueldo_profesor": "7385194",
+    "col3": "2441"
+  },
+  {
+    "id_profesor": "323",
+    "sueldo_profesor": "3678809",
+    "col3": "4892"
+  },
+  {
+    "id_profesor": "324",
+    "sueldo_profesor": "2072722",
+    "col3": "6752"
+  },
+  {
+    "id_profesor": "325",
+    "sueldo_profesor": "3249875",
+    "col3": "9432"
+  },
+  {
+    "id_profesor": "326",
+    "sueldo_profesor": "5523770",
+    "col3": "844"
+  },
+  {
+    "id_profesor": "327",
+    "sueldo_profesor": "6480877",
+    "col3": "6672"
+  },
+  {
+    "id_profesor": "328",
+    "sueldo_profesor": "4663942",
+    "col3": "3623"
+  },
+  {
+    "id_profesor": "329",
+    "sueldo_profesor": "2653384",
+    "col3": "7653"
+  },
+  {
+    "id_profesor": "330",
+    "sueldo_profesor": "4009586",
+    "col3": "9384"
+  },
+  {
+    "id_profesor": "331",
+    "sueldo_profesor": "2728026",
+    "col3": "2321"
+  },
+  {
+    "id_profesor": "332",
+    "sueldo_profesor": "4358993",
+    "col3": "6318"
+  },
+  {
+    "id_profesor": "333",
+    "sueldo_profesor": "1742453",
+    "col3": "1388"
+  },
+  {
+    "id_profesor": "334",
+    "sueldo_profesor": "5742746",
+    "col3": "8056"
+  },
+  {
+    "id_profesor": "335",
+    "sueldo_profesor": "7502105",
+    "col3": "9958"
+  },
+  {
+    "id_profesor": "336",
+    "sueldo_profesor": "7190390",
+    "col3": "7397"
+  },
+  {
+    "id_profesor": "337",
+    "sueldo_profesor": "5014937",
+    "col3": "5715"
+  },
+  {
+    "id_profesor": "338",
+    "sueldo_profesor": "4079934",
+    "col3": "8478"
+  },
+  {
+    "id_profesor": "339",
+    "sueldo_profesor": "4866034",
+    "col3": "2627"
+  },
+  {
+    "id_profesor": "340",
+    "sueldo_profesor": "3127620",
+    "col3": "415"
+  },
+  {
+    "id_profesor": "341",
+    "sueldo_profesor": "6260698",
+    "col3": "7226"
+  },
+  {
+    "id_profesor": "342",
+    "sueldo_profesor": "2985007",
+    "col3": "5192"
+  },
+  {
+    "id_profesor": "343",
+    "sueldo_profesor": "3591902",
+    "col3": "6395"
+  },
+  {
+    "id_profesor": "344",
+    "sueldo_profesor": "5320845",
+    "col3": "5977"
+  },
+  {
+    "id_profesor": "345",
+    "sueldo_profesor": "4874412",
+    "col3": "7099"
+  },
+  {
+    "id_profesor": "346",
+    "sueldo_profesor": "2044864",
+    "col3": "6094"
+  },
+  {
+    "id_profesor": "347",
+    "sueldo_profesor": "6760852",
+    "col3": "918"
+  },
+  {
+    "id_profesor": "348",
+    "sueldo_profesor": "5978220",
+    "col3": "3655"
+  },
+  {
+    "id_profesor": "349",
+    "sueldo_profesor": "1800272",
+    "col3": "9423"
+  },
+  {
+    "id_profesor": "350",
+    "sueldo_profesor": "7241232",
+    "col3": "601"
+  },
+  {
+    "id_profesor": "351",
+    "sueldo_profesor": "4993744",
+    "col3": "5019"
+  },
+  {
+    "id_profesor": "352",
+    "sueldo_profesor": "2692767",
+    "col3": "2970"
+  },
+  {
+    "id_profesor": "353",
+    "sueldo_profesor": "3152683",
+    "col3": "2382"
+  },
+  {
+    "id_profesor": "354",
+    "sueldo_profesor": "5253195",
+    "col3": "8014"
+  },
+  {
+    "id_profesor": "355",
+    "sueldo_profesor": "7021435",
+    "col3": "628"
+  },
+  {
+    "id_profesor": "356",
+    "sueldo_profesor": "1836385",
+    "col3": "6652"
+  },
+  {
+    "id_profesor": "357",
+    "sueldo_profesor": "6351424",
+    "col3": "826"
+  },
+  {
+    "id_profesor": "358",
+    "sueldo_profesor": "4482013",
+    "col3": "5724"
+  },
+  {
+    "id_profesor": "359",
+    "sueldo_profesor": "3892905",
+    "col3": "1621"
+  },
+  {
+    "id_profesor": "360",
+    "sueldo_profesor": "6872838",
+    "col3": "5807"
+  },
+  {
+    "id_profesor": "361",
+    "sueldo_profesor": "3649153",
+    "col3": "5731"
+  },
+  {
+    "id_profesor": "362",
+    "sueldo_profesor": "3895095",
+    "col3": "9671"
+  },
+  {
+    "id_profesor": "363",
+    "sueldo_profesor": "3226438",
+    "col3": "40"
+  },
+  {
+    "id_profesor": "364",
+    "sueldo_profesor": "1782265",
+    "col3": "947"
+  },
+  {
+    "id_profesor": "365",
+    "sueldo_profesor": "1662255",
+    "col3": "1155"
+  },
+  {
+    "id_profesor": "366",
+    "sueldo_profesor": "6629509",
+    "col3": "6963"
+  },
+  {
+    "id_profesor": "367",
+    "sueldo_profesor": "4063609",
+    "col3": "1219"
+  },
+  {
+    "id_profesor": "368",
+    "sueldo_profesor": "1812910",
+    "col3": "6424"
+  },
+  {
+    "id_profesor": "369",
+    "sueldo_profesor": "7036737",
+    "col3": "1120"
+  },
+  {
+    "id_profesor": "370",
+    "sueldo_profesor": "6056925",
+    "col3": "8785"
+  },
+  {
+    "id_profesor": "371",
+    "sueldo_profesor": "6960940",
+    "col3": "6310"
+  },
+  {
+    "id_profesor": "372",
+    "sueldo_profesor": "4592870",
+    "col3": "867"
+  },
+  {
+    "id_profesor": "373",
+    "sueldo_profesor": "2246662",
+    "col3": "264"
+  },
+  {
+    "id_profesor": "374",
+    "sueldo_profesor": "1503983",
+    "col3": "5978"
+  },
+  {
+    "id_profesor": "375",
+    "sueldo_profesor": "6609058",
+    "col3": "3210"
+  },
+  {
+    "id_profesor": "376",
+    "sueldo_profesor": "5193687",
+    "col3": "9996"
+  },
+  {
+    "id_profesor": "377",
+    "sueldo_profesor": "1723789",
+    "col3": "4398"
+  },
+  {
+    "id_profesor": "378",
+    "sueldo_profesor": "6529144",
+    "col3": "6796"
+  },
+  {
+    "id_profesor": "379",
+    "sueldo_profesor": "3705800",
+    "col3": "9346"
+  },
+  {
+    "id_profesor": "380",
+    "sueldo_profesor": "6779093",
+    "col3": "5158"
+  },
+  {
+    "id_profesor": "381",
+    "sueldo_profesor": "5121707",
+    "col3": "5349"
+  },
+  {
+    "id_profesor": "382",
+    "sueldo_profesor": "5025344",
+    "col3": "8915"
+  },
+  {
+    "id_profesor": "383",
+    "sueldo_profesor": "1919920",
+    "col3": "6190"
+  },
+  {
+    "id_profesor": "384",
+    "sueldo_profesor": "6769004",
+    "col3": "3699"
+  },
+  {
+    "id_profesor": "385",
+    "sueldo_profesor": "7429197",
+    "col3": "687"
+  },
+  {
+    "id_profesor": "386",
+    "sueldo_profesor": "7336378",
+    "col3": "6127"
+  },
+  {
+    "id_profesor": "387",
+    "sueldo_profesor": "1898665",
+    "col3": "8527"
+  },
+  {
+    "id_profesor": "388",
+    "sueldo_profesor": "4255658",
+    "col3": "2142"
+  },
+  {
+    "id_profesor": "389",
+    "sueldo_profesor": "2757776",
+    "col3": "5428"
+  },
+  {
+    "id_profesor": "390",
+    "sueldo_profesor": "6515885",
+    "col3": "8328"
+  },
+  {
+    "id_profesor": "391",
+    "sueldo_profesor": "3195748",
+    "col3": "3626"
+  },
+  {
+    "id_profesor": "392",
+    "sueldo_profesor": "2964328",
+    "col3": "4818"
+  },
+  {
+    "id_profesor": "393",
+    "sueldo_profesor": "3821579",
+    "col3": "5973"
+  },
+  {
+    "id_profesor": "394",
+    "sueldo_profesor": "3838910",
+    "col3": "8591"
+  },
+  {
+    "id_profesor": "395",
+    "sueldo_profesor": "3556036",
+    "col3": "5135"
+  },
+  {
+    "id_profesor": "396",
+    "sueldo_profesor": "5044891",
+    "col3": "9918"
+  },
+  {
+    "id_profesor": "397",
+    "sueldo_profesor": "7220038",
+    "col3": "8195"
+  },
+  {
+    "id_profesor": "398",
+    "sueldo_profesor": "3468374",
+    "col3": "9833"
+  },
+  {
+    "id_profesor": "399",
+    "sueldo_profesor": "6122145",
+    "col3": "1341"
+  },
+  {
+    "id_profesor": "400",
+    "sueldo_profesor": "4145613",
+    "col3": "2758"
+  },
+  {
+    "id_profesor": "401",
+    "sueldo_profesor": "1675042",
+    "col3": "5088"
+  },
+  {
+    "id_profesor": "402",
+    "sueldo_profesor": "3656853",
+    "col3": "8038"
+  },
+  {
+    "id_profesor": "403",
+    "sueldo_profesor": "2021290",
+    "col3": "5550"
+  },
+  {
+    "id_profesor": "404",
+    "sueldo_profesor": "1787547",
+    "col3": "8309"
+  },
+  {
+    "id_profesor": "405",
+    "sueldo_profesor": "4641111",
+    "col3": "9728"
+  },
+  {
+    "id_profesor": "406",
+    "sueldo_profesor": "3455124",
+    "col3": "1402"
+  },
+  {
+    "id_profesor": "407",
+    "sueldo_profesor": "3800133",
+    "col3": "5839"
+  },
+  {
+    "id_profesor": "408",
+    "sueldo_profesor": "5877543",
+    "col3": "7319"
+  },
+  {
+    "id_profesor": "409",
+    "sueldo_profesor": "5166973",
+    "col3": "5643"
+  },
+  {
+    "id_profesor": "410",
+    "sueldo_profesor": "7972535",
+    "col3": "9982"
+  },
+  {
+    "id_profesor": "411",
+    "sueldo_profesor": "6334123",
+    "col3": "124"
+  },
+  {
+    "id_profesor": "412",
+    "sueldo_profesor": "7324169",
+    "col3": "9593"
+  },
+  {
+    "id_profesor": "413",
+    "sueldo_profesor": "2708535",
+    "col3": "2854"
+  },
+  {
+    "id_profesor": "414",
+    "sueldo_profesor": "5610258",
+    "col3": "7340"
+  },
+  {
+    "id_profesor": "415",
+    "sueldo_profesor": "4712824",
+    "col3": "200"
+  },
+  {
+    "id_profesor": "416",
+    "sueldo_profesor": "3418130",
+    "col3": "3912"
+  },
+  {
+    "id_profesor": "417",
+    "sueldo_profesor": "6862802",
+    "col3": "3626"
+  },
+  {
+    "id_profesor": "418",
+    "sueldo_profesor": "6568400",
+    "col3": "8134"
+  },
+  {
+    "id_profesor": "419",
+    "sueldo_profesor": "7831728",
+    "col3": "5843"
+  },
+  {
+    "id_profesor": "420",
+    "sueldo_profesor": "3486478",
+    "col3": "2545"
+  },
+  {
+    "id_profesor": "421",
+    "sueldo_profesor": "7145438",
+    "col3": "8258"
+  },
+  {
+    "id_profesor": "422",
+    "sueldo_profesor": "1596890",
+    "col3": "5806"
+  },
+  {
+    "id_profesor": "423",
+    "sueldo_profesor": "5834419",
+    "col3": "9869"
+  },
+  {
+    "id_profesor": "424",
+    "sueldo_profesor": "7927610",
+    "col3": "9727"
+  },
+  {
+    "id_profesor": "425",
+    "sueldo_profesor": "6265482",
+    "col3": "3895"
+  },
+  {
+    "id_profesor": "426",
+    "sueldo_profesor": "2821305",
+    "col3": "4557"
+  },
+  {
+    "id_profesor": "427",
+    "sueldo_profesor": "6920303",
+    "col3": "681"
+  },
+  {
+    "id_profesor": "428",
+    "sueldo_profesor": "3653491",
+    "col3": "5465"
+  },
+  {
+    "id_profesor": "429",
+    "sueldo_profesor": "1715230",
+    "col3": "4341"
+  },
+  {
+    "id_profesor": "430",
+    "sueldo_profesor": "4213904",
+    "col3": "8112"
+  },
+  {
+    "id_profesor": "431",
+    "sueldo_profesor": "2495772",
+    "col3": "283"
+  },
+  {
+    "id_profesor": "432",
+    "sueldo_profesor": "2106524",
+    "col3": "9082"
+  },
+  {
+    "id_profesor": "433",
+    "sueldo_profesor": "6726720",
+    "col3": "3814"
+  },
+  {
+    "id_profesor": "434",
+    "sueldo_profesor": "5585188",
+    "col3": "1843"
+  },
+  {
+    "id_profesor": "435",
+    "sueldo_profesor": "7190653",
+    "col3": "1718"
+  },
+  {
+    "id_profesor": "436",
+    "sueldo_profesor": "6292240",
+    "col3": "3622"
+  },
+  {
+    "id_profesor": "437",
+    "sueldo_profesor": "4839529",
+    "col3": "8447"
+  },
+  {
+    "id_profesor": "438",
+    "sueldo_profesor": "5912864",
+    "col3": "8216"
+  },
+  {
+    "id_profesor": "439",
+    "sueldo_profesor": "4417062",
+    "col3": "8350"
+  },
+  {
+    "id_profesor": "440",
+    "sueldo_profesor": "3285685",
+    "col3": "7795"
+  },
+  {
+    "id_profesor": "441",
+    "sueldo_profesor": "7491690",
+    "col3": "8462"
+  },
+  {
+    "id_profesor": "442",
+    "sueldo_profesor": "2827071",
+    "col3": "4567"
+  },
+  {
+    "id_profesor": "443",
+    "sueldo_profesor": "5716324",
+    "col3": "377"
+  },
+  {
+    "id_profesor": "444",
+    "sueldo_profesor": "4792981",
+    "col3": "5593"
+  },
+  {
+    "id_profesor": "445",
+    "sueldo_profesor": "1907309",
+    "col3": "7567"
+  },
+  {
+    "id_profesor": "446",
+    "sueldo_profesor": "2961079",
+    "col3": "6039"
+  },
+  {
+    "id_profesor": "447",
+    "sueldo_profesor": "1820798",
+    "col3": "8157"
+  },
+  {
+    "id_profesor": "448",
+    "sueldo_profesor": "3173144",
+    "col3": "8902"
+  },
+  {
+    "id_profesor": "449",
+    "sueldo_profesor": "2666847",
+    "col3": "6902"
+  },
+  {
+    "id_profesor": "450",
+    "sueldo_profesor": "5921767",
+    "col3": "8751"
+  },
+  {
+    "id_profesor": "451",
+    "sueldo_profesor": "6864681",
+    "col3": "4417"
+  },
+  {
+    "id_profesor": "452",
+    "sueldo_profesor": "3749117",
+    "col3": "7600"
+  },
+  {
+    "id_profesor": "453",
+    "sueldo_profesor": "5741283",
+    "col3": "2009"
+  },
+  {
+    "id_profesor": "454",
+    "sueldo_profesor": "5466973",
+    "col3": "4599"
+  },
+  {
+    "id_profesor": "455",
+    "sueldo_profesor": "2029350",
+    "col3": "9694"
+  },
+  {
+    "id_profesor": "456",
+    "sueldo_profesor": "2816426",
+    "col3": "5634"
+  },
+  {
+    "id_profesor": "457",
+    "sueldo_profesor": "5115085",
+    "col3": "3320"
+  },
+  {
+    "id_profesor": "458",
+    "sueldo_profesor": "3256710",
+    "col3": "1571"
+  },
+  {
+    "id_profesor": "459",
+    "sueldo_profesor": "6248202",
+    "col3": "3934"
+  },
+  {
+    "id_profesor": "460",
+    "sueldo_profesor": "6674970",
+    "col3": "4763"
+  },
+  {
+    "id_profesor": "461",
+    "sueldo_profesor": "7921986",
+    "col3": "3862"
+  },
+  {
+    "id_profesor": "462",
+    "sueldo_profesor": "3939420",
+    "col3": "6700"
+  },
+  {
+    "id_profesor": "463",
+    "sueldo_profesor": "5802334",
+    "col3": "8935"
+  },
+  {
+    "id_profesor": "464",
+    "sueldo_profesor": "6363358",
+    "col3": "8824"
+  },
+  {
+    "id_profesor": "465",
+    "sueldo_profesor": "6184629",
+    "col3": "6952"
+  },
+  {
+    "id_profesor": "466",
+    "sueldo_profesor": "3338599",
+    "col3": "3497"
+  },
+  {
+    "id_profesor": "467",
+    "sueldo_profesor": "3147313",
+    "col3": "7294"
+  },
+  {
+    "id_profesor": "468",
+    "sueldo_profesor": "3344334",
+    "col3": "7828"
+  },
+  {
+    "id_profesor": "469",
+    "sueldo_profesor": "2800622",
+    "col3": "5166"
+  },
+  {
+    "id_profesor": "470",
+    "sueldo_profesor": "4871327",
+    "col3": "7497"
+  },
+  {
+    "id_profesor": "471",
+    "sueldo_profesor": "5385364",
+    "col3": "6157"
+  },
+  {
+    "id_profesor": "472",
+    "sueldo_profesor": "1910577",
+    "col3": "1306"
+  },
+  {
+    "id_profesor": "473",
+    "sueldo_profesor": "1618405",
+    "col3": "8855"
+  },
+  {
+    "id_profesor": "474",
+    "sueldo_profesor": "5256149",
+    "col3": "6269"
+  },
+  {
+    "id_profesor": "475",
+    "sueldo_profesor": "7941352",
+    "col3": "8586"
+  },
+  {
+    "id_profesor": "476",
+    "sueldo_profesor": "5231224",
+    "col3": "9697"
+  },
+  {
+    "id_profesor": "477",
+    "sueldo_profesor": "6494254",
+    "col3": "6726"
+  },
+  {
+    "id_profesor": "478",
+    "sueldo_profesor": "5305136",
+    "col3": "6494"
+  },
+  {
+    "id_profesor": "479",
+    "sueldo_profesor": "3983346",
+    "col3": "462"
+  },
+  {
+    "id_profesor": "480",
+    "sueldo_profesor": "2115860",
+    "col3": "1530"
+  },
+  {
+    "id_profesor": "481",
+    "sueldo_profesor": "5974597",
+    "col3": "9953"
+  },
+  {
+    "id_profesor": "482",
+    "sueldo_profesor": "6757649",
+    "col3": "4180"
+  },
+  {
+    "id_profesor": "483",
+    "sueldo_profesor": "7308657",
+    "col3": "2582"
+  },
+  {
+    "id_profesor": "484",
+    "sueldo_profesor": "7147595",
+    "col3": "4534"
+  },
+  {
+    "id_profesor": "485",
+    "sueldo_profesor": "1975457",
+    "col3": "3530"
+  },
+  {
+    "id_profesor": "486",
+    "sueldo_profesor": "4245361",
+    "col3": "9319"
+  },
+  {
+    "id_profesor": "487",
+    "sueldo_profesor": "7235583",
+    "col3": "5546"
+  },
+  {
+    "id_profesor": "488",
+    "sueldo_profesor": "3094374",
+    "col3": "7425"
+  },
+  {
+    "id_profesor": "489",
+    "sueldo_profesor": "4279645",
+    "col3": "8958"
+  },
+  {
+    "id_profesor": "490",
+    "sueldo_profesor": "6947522",
+    "col3": "153"
+  },
+  {
+    "id_profesor": "491",
+    "sueldo_profesor": "4840382",
+    "col3": "1497"
+  },
+  {
+    "id_profesor": "492",
+    "sueldo_profesor": "4479260",
+    "col3": "6375"
+  },
+  {
+    "id_profesor": "493",
+    "sueldo_profesor": "4452125",
+    "col3": "5797"
+  },
+  {
+    "id_profesor": "494",
+    "sueldo_profesor": "3802226",
+    "col3": "1071"
+  },
+  {
+    "id_profesor": "495",
+    "sueldo_profesor": "5306848",
+    "col3": "5885"
+  },
+  {
+    "id_profesor": "496",
+    "sueldo_profesor": "1975009",
+    "col3": "952"
+  },
+  {
+    "id_profesor": "497",
+    "sueldo_profesor": "7852683",
+    "col3": "4707"
+  },
+  {
+    "id_profesor": "498",
+    "sueldo_profesor": "1981631",
+    "col3": "40"
+  },
+  {
+    "id_profesor": "499",
+    "sueldo_profesor": "3454409",
+    "col3": "8375"
+  },
+  {
+    "id_profesor": "500",
+    "sueldo_profesor": "2014184",
+    "col3": "4579"
+  },
+  {
+    "id_profesor": "501",
+    "sueldo_profesor": "6709152",
+    "col3": "6589"
+  },
+  {
+    "id_profesor": "502",
+    "sueldo_profesor": "5329561",
+    "col3": "8824"
+  },
+  {
+    "id_profesor": "503",
+    "sueldo_profesor": "6847746",
+    "col3": "7882"
+  },
+  {
+    "id_profesor": "504",
+    "sueldo_profesor": "5627961",
+    "col3": "997"
+  },
+  {
+    "id_profesor": "505",
+    "sueldo_profesor": "5286185",
+    "col3": "9469"
+  },
+  {
+    "id_profesor": "506",
+    "sueldo_profesor": "6134122",
+    "col3": "2069"
+  },
+  {
+    "id_profesor": "507",
+    "sueldo_profesor": "1584951",
+    "col3": "1764"
+  },
+  {
+    "id_profesor": "508",
+    "sueldo_profesor": "3470432",
+    "col3": "8651"
+  },
+  {
+    "id_profesor": "509",
+    "sueldo_profesor": "6752820",
+    "col3": "5047"
+  },
+  {
+    "id_profesor": "510",
+    "sueldo_profesor": "6611716",
+    "col3": "447"
+  },
+  {
+    "id_profesor": "511",
+    "sueldo_profesor": "2961308",
+    "col3": "4426"
+  },
+  {
+    "id_profesor": "512",
+    "sueldo_profesor": "6217609",
+    "col3": "1290"
+  },
+  {
+    "id_profesor": "513",
+    "sueldo_profesor": "2816669",
+    "col3": "5058"
+  },
+  {
+    "id_profesor": "514",
+    "sueldo_profesor": "5535765",
+    "col3": "213"
+  },
+  {
+    "id_profesor": "515",
+    "sueldo_profesor": "3854123",
+    "col3": "6161"
+  },
+  {
+    "id_profesor": "516",
+    "sueldo_profesor": "4304219",
+    "col3": "6378"
+  },
+  {
+    "id_profesor": "517",
+    "sueldo_profesor": "4467869",
+    "col3": "829"
+  },
+  {
+    "id_profesor": "518",
+    "sueldo_profesor": "7644059",
+    "col3": "2936"
+  },
+  {
+    "id_profesor": "519",
+    "sueldo_profesor": "5958944",
+    "col3": "7689"
+  },
+  {
+    "id_profesor": "520",
+    "sueldo_profesor": "1878400",
+    "col3": "7754"
+  },
+  {
+    "id_profesor": "521",
+    "sueldo_profesor": "6846755",
+    "col3": "2470"
+  },
+  {
+    "id_profesor": "522",
+    "sueldo_profesor": "1900383",
+    "col3": "3361"
+  },
+  {
+    "id_profesor": "523",
+    "sueldo_profesor": "5276729",
+    "col3": "4510"
+  },
+  {
+    "id_profesor": "524",
+    "sueldo_profesor": "4655254",
+    "col3": "7183"
+  },
+  {
+    "id_profesor": "525",
+    "sueldo_profesor": "3018376",
+    "col3": "1074"
+  },
+  {
+    "id_profesor": "526",
+    "sueldo_profesor": "5898841",
+    "col3": "9944"
+  },
+  {
+    "id_profesor": "527",
+    "sueldo_profesor": "7954039",
+    "col3": "2852"
+  },
+  {
+    "id_profesor": "528",
+    "sueldo_profesor": "1531920",
+    "col3": "7716"
+  },
+  {
+    "id_profesor": "529",
+    "sueldo_profesor": "7110301",
+    "col3": "9466"
+  },
+  {
+    "id_profesor": "530",
+    "sueldo_profesor": "3243593",
+    "col3": "2174"
+  },
+  {
+    "id_profesor": "531",
+    "sueldo_profesor": "5035492",
+    "col3": "2791"
+  },
+  {
+    "id_profesor": "532",
+    "sueldo_profesor": "4046078",
+    "col3": "7308"
+  },
+  {
+    "id_profesor": "533",
+    "sueldo_profesor": "1591374",
+    "col3": "247"
+  },
+  {
+    "id_profesor": "534",
+    "sueldo_profesor": "6819997",
+    "col3": "9589"
+  },
+  {
+    "id_profesor": "535",
+    "sueldo_profesor": "5058927",
+    "col3": "6126"
+  },
+  {
+    "id_profesor": "536",
+    "sueldo_profesor": "1931492",
+    "col3": "3811"
+  },
+  {
+    "id_profesor": "537",
+    "sueldo_profesor": "2337283",
+    "col3": "2357"
+  },
+  {
+    "id_profesor": "538",
+    "sueldo_profesor": "3576695",
+    "col3": "4257"
+  },
+  {
+    "id_profesor": "539",
+    "sueldo_profesor": "4893722",
+    "col3": "7397"
+  },
+  {
+    "id_profesor": "540",
+    "sueldo_profesor": "1891385",
+    "col3": "2922"
+  },
+  {
+    "id_profesor": "541",
+    "sueldo_profesor": "7168794",
+    "col3": "613"
+  },
+  {
+    "id_profesor": "542",
+    "sueldo_profesor": "7594458",
+    "col3": "8071"
+  },
+  {
+    "id_profesor": "543",
+    "sueldo_profesor": "4651076",
+    "col3": "4422"
+  },
+  {
+    "id_profesor": "544",
+    "sueldo_profesor": "4089851",
+    "col3": "6254"
+  },
+  {
+    "id_profesor": "545",
+    "sueldo_profesor": "3039740",
+    "col3": "4937"
+  },
+  {
+    "id_profesor": "546",
+    "sueldo_profesor": "2429687",
+    "col3": "9"
+  },
+  {
+    "id_profesor": "547",
+    "sueldo_profesor": "4250271",
+    "col3": "3498"
+  },
+  {
+    "id_profesor": "548",
+    "sueldo_profesor": "7828228",
+    "col3": "8782"
+  },
+  {
+    "id_profesor": "549",
+    "sueldo_profesor": "4048604",
+    "col3": "4442"
+  },
+  {
+    "id_profesor": "550",
+    "sueldo_profesor": "1733634",
+    "col3": "7093"
+  },
+  {
+    "id_profesor": "551",
+    "sueldo_profesor": "7530671",
+    "col3": "5651"
+  },
+  {
+    "id_profesor": "552",
+    "sueldo_profesor": "4177695",
+    "col3": "2403"
+  },
+  {
+    "id_profesor": "553",
+    "sueldo_profesor": "5554461",
+    "col3": "7744"
+  },
+  {
+    "id_profesor": "554",
+    "sueldo_profesor": "3863051",
+    "col3": "7511"
+  },
+  {
+    "id_profesor": "555",
+    "sueldo_profesor": "3855783",
+    "col3": "9849"
+  },
+  {
+    "id_profesor": "556",
+    "sueldo_profesor": "3669156",
+    "col3": "9957"
+  },
+  {
+    "id_profesor": "557",
+    "sueldo_profesor": "7908386",
+    "col3": "2968"
+  },
+  {
+    "id_profesor": "558",
+    "sueldo_profesor": "5552127",
+    "col3": "9422"
+  },
+  {
+    "id_profesor": "559",
+    "sueldo_profesor": "4141508",
+    "col3": "7507"
+  },
+  {
+    "id_profesor": "560",
+    "sueldo_profesor": "5037844",
+    "col3": "5265"
+  },
+  {
+    "id_profesor": "561",
+    "sueldo_profesor": "5862623",
+    "col3": "5332"
+  },
+  {
+    "id_profesor": "562",
+    "sueldo_profesor": "3673159",
+    "col3": "5800"
+  },
+  {
+    "id_profesor": "563",
+    "sueldo_profesor": "3338169",
+    "col3": "4837"
+  },
+  {
+    "id_profesor": "564",
+    "sueldo_profesor": "7748008",
+    "col3": "937"
+  },
+  {
+    "id_profesor": "565",
+    "sueldo_profesor": "4426478",
+    "col3": "2225"
+  },
+  {
+    "id_profesor": "566",
+    "sueldo_profesor": "7144800",
+    "col3": "9588"
+  },
+  {
+    "id_profesor": "567",
+    "sueldo_profesor": "6438304",
+    "col3": "1619"
+  },
+  {
+    "id_profesor": "568",
+    "sueldo_profesor": "3432399",
+    "col3": "5463"
+  },
+  {
+    "id_profesor": "569",
+    "sueldo_profesor": "4706547",
+    "col3": "8811"
+  },
+  {
+    "id_profesor": "570",
+    "sueldo_profesor": "7595370",
+    "col3": "5568"
+  },
+  {
+    "id_profesor": "571",
+    "sueldo_profesor": "7372302",
+    "col3": "4141"
+  },
+  {
+    "id_profesor": "572",
+    "sueldo_profesor": "5364352",
+    "col3": "4970"
+  },
+  {
+    "id_profesor": "573",
+    "sueldo_profesor": "5951556",
+    "col3": "8845"
+  },
+  {
+    "id_profesor": "574",
+    "sueldo_profesor": "7110137",
+    "col3": "7811"
+  },
+  {
+    "id_profesor": "575",
+    "sueldo_profesor": "2660495",
+    "col3": "2064"
+  },
+  {
+    "id_profesor": "576",
+    "sueldo_profesor": "5742379",
+    "col3": "2518"
+  },
+  {
+    "id_profesor": "577",
+    "sueldo_profesor": "7268531",
+    "col3": "4209"
+  },
+  {
+    "id_profesor": "578",
+    "sueldo_profesor": "7862848",
+    "col3": "854"
+  },
+  {
+    "id_profesor": "579",
+    "sueldo_profesor": "3534215",
+    "col3": "4301"
+  },
+  {
+    "id_profesor": "580",
+    "sueldo_profesor": "7533441",
+    "col3": "8367"
+  },
+  {
+    "id_profesor": "581",
+    "sueldo_profesor": "4056072",
+    "col3": "5337"
+  },
+  {
+    "id_profesor": "582",
+    "sueldo_profesor": "1578255",
+    "col3": "9868"
+  },
+  {
+    "id_profesor": "583",
+    "sueldo_profesor": "6647334",
+    "col3": "4814"
+  },
+  {
+    "id_profesor": "584",
+    "sueldo_profesor": "7061052",
+    "col3": "3596"
+  },
+  {
+    "id_profesor": "585",
+    "sueldo_profesor": "7953206",
+    "col3": "7313"
+  },
+  {
+    "id_profesor": "586",
+    "sueldo_profesor": "2728126",
+    "col3": "6986"
+  },
+  {
+    "id_profesor": "587",
+    "sueldo_profesor": "4082839",
+    "col3": "9850"
+  },
+  {
+    "id_profesor": "588",
+    "sueldo_profesor": "6193432",
+    "col3": "47"
+  },
+  {
+    "id_profesor": "589",
+    "sueldo_profesor": "6783138",
+    "col3": "1020"
+  },
+  {
+    "id_profesor": "590",
+    "sueldo_profesor": "7707624",
+    "col3": "3929"
+  },
+  {
+    "id_profesor": "591",
+    "sueldo_profesor": "2854459",
+    "col3": "8844"
+  },
+  {
+    "id_profesor": "592",
+    "sueldo_profesor": "4926495",
+    "col3": "4244"
+  },
+  {
+    "id_profesor": "593",
+    "sueldo_profesor": "4777177",
+    "col3": "5481"
+  },
+  {
+    "id_profesor": "594",
+    "sueldo_profesor": "7698040",
+    "col3": "5201"
+  },
+  {
+    "id_profesor": "595",
+    "sueldo_profesor": "1563788",
+    "col3": "876"
+  },
+  {
+    "id_profesor": "596",
+    "sueldo_profesor": "6299197",
+    "col3": "3485"
+  },
+  {
+    "id_profesor": "597",
+    "sueldo_profesor": "6328383",
+    "col3": "7628"
+  },
+  {
+    "id_profesor": "598",
+    "sueldo_profesor": "7048363",
+    "col3": "7161"
+  },
+  {
+    "id_profesor": "599",
+    "sueldo_profesor": "5624081",
+    "col3": "7676"
+  },
+  {
+    "id_profesor": "600",
+    "sueldo_profesor": "6898008",
+    "col3": "2895"
+  },
+  {
+    "id_profesor": "601",
+    "sueldo_profesor": "3575817",
+    "col3": "3572"
+  },
+  {
+    "id_profesor": "602",
+    "sueldo_profesor": "6780848",
+    "col3": "5748"
+  },
+  {
+    "id_profesor": "603",
+    "sueldo_profesor": "3361931",
+    "col3": "1539"
+  },
+  {
+    "id_profesor": "604",
+    "sueldo_profesor": "1760485",
+    "col3": "7710"
+  },
+  {
+    "id_profesor": "605",
+    "sueldo_profesor": "4070405",
+    "col3": "6987"
+  },
+  {
+    "id_profesor": "606",
+    "sueldo_profesor": "2473151",
+    "col3": "2624"
+  },
+  {
+    "id_profesor": "607",
+    "sueldo_profesor": "2147555",
+    "col3": "5998"
+  },
+  {
+    "id_profesor": "608",
+    "sueldo_profesor": "6185160",
+    "col3": "4762"
+  },
+  {
+    "id_profesor": "609",
+    "sueldo_profesor": "2066483",
+    "col3": "6145"
+  },
+  {
+    "id_profesor": "610",
+    "sueldo_profesor": "4410162",
+    "col3": "6789"
+  },
+  {
+    "id_profesor": "611",
+    "sueldo_profesor": "1959566",
+    "col3": "9361"
+  },
+  {
+    "id_profesor": "612",
+    "sueldo_profesor": "3709100",
+    "col3": "8801"
+  },
+  {
+    "id_profesor": "613",
+    "sueldo_profesor": "5480655",
+    "col3": "9060"
+  },
+  {
+    "id_profesor": "614",
+    "sueldo_profesor": "2117203",
+    "col3": "3572"
+  },
+  {
+    "id_profesor": "615",
+    "sueldo_profesor": "1531112",
+    "col3": "1126"
+  },
+  {
+    "id_profesor": "616",
+    "sueldo_profesor": "5734515",
+    "col3": "5871"
+  },
+  {
+    "id_profesor": "617",
+    "sueldo_profesor": "4211169",
+    "col3": "6881"
+  },
+  {
+    "id_profesor": "618",
+    "sueldo_profesor": "4025432",
+    "col3": "4553"
+  },
+  {
+    "id_profesor": "619",
+    "sueldo_profesor": "4380110",
+    "col3": "5170"
+  },
+  {
+    "id_profesor": "620",
+    "sueldo_profesor": "7546635",
+    "col3": "1263"
+  },
+  {
+    "id_profesor": "621",
+    "sueldo_profesor": "5026011",
+    "col3": "9256"
+  },
+  {
+    "id_profesor": "622",
+    "sueldo_profesor": "3774682",
+    "col3": "4114"
+  },
+  {
+    "id_profesor": "623",
+    "sueldo_profesor": "4050163",
+    "col3": "798"
+  },
+  {
+    "id_profesor": "624",
+    "sueldo_profesor": "3954809",
+    "col3": "867"
+  },
+  {
+    "id_profesor": "625",
+    "sueldo_profesor": "3652953",
+    "col3": "3016"
+  },
+  {
+    "id_profesor": "626",
+    "sueldo_profesor": "2447259",
+    "col3": "1863"
+  },
+  {
+    "id_profesor": "627",
+    "sueldo_profesor": "7299932",
+    "col3": "3353"
+  },
+  {
+    "id_profesor": "628",
+    "sueldo_profesor": "7232823",
+    "col3": "8025"
+  },
+  {
+    "id_profesor": "629",
+    "sueldo_profesor": "6833527",
+    "col3": "1761"
+  },
+  {
+    "id_profesor": "630",
+    "sueldo_profesor": "7324155",
+    "col3": "591"
+  },
+  {
+    "id_profesor": "631",
+    "sueldo_profesor": "2380141",
+    "col3": "4037"
+  },
+  {
+    "id_profesor": "632",
+    "sueldo_profesor": "6903281",
+    "col3": "6718"
+  },
+  {
+    "id_profesor": "633",
+    "sueldo_profesor": "6401671",
+    "col3": "7196"
+  },
+  {
+    "id_profesor": "634",
+    "sueldo_profesor": "7921097",
+    "col3": "9284"
+  },
+  {
+    "id_profesor": "635",
+    "sueldo_profesor": "7038116",
+    "col3": "9458"
+  },
+  {
+    "id_profesor": "636",
+    "sueldo_profesor": "5983065",
+    "col3": "7312"
+  },
+  {
+    "id_profesor": "637",
+    "sueldo_profesor": "2452265",
+    "col3": "5700"
+  },
+  {
+    "id_profesor": "638",
+    "sueldo_profesor": "7280982",
+    "col3": "5747"
+  },
+  {
+    "id_profesor": "639",
+    "sueldo_profesor": "5386960",
+    "col3": "8963"
+  },
+  {
+    "id_profesor": "640",
+    "sueldo_profesor": "4796743",
+    "col3": "9078"
+  },
+  {
+    "id_profesor": "641",
+    "sueldo_profesor": "1546359",
+    "col3": "8200"
+  },
+  {
+    "id_profesor": "642",
+    "sueldo_profesor": "2744455",
+    "col3": "2335"
+  },
+  {
+    "id_profesor": "643",
+    "sueldo_profesor": "3221662",
+    "col3": "6855"
+  },
+  {
+    "id_profesor": "644",
+    "sueldo_profesor": "6623099",
+    "col3": "5961"
+  },
+  {
+    "id_profesor": "645",
+    "sueldo_profesor": "5530349",
+    "col3": "392"
+  },
+  {
+    "id_profesor": "646",
+    "sueldo_profesor": "6916810",
+    "col3": "5790"
+  },
+  {
+    "id_profesor": "647",
+    "sueldo_profesor": "2705104",
+    "col3": "9854"
+  },
+  {
+    "id_profesor": "648",
+    "sueldo_profesor": "6233022",
+    "col3": "9181"
+  },
+  {
+    "id_profesor": "649",
+    "sueldo_profesor": "3869041",
+    "col3": "3683"
+  },
+  {
+    "id_profesor": "650",
+    "sueldo_profesor": "5802543",
+    "col3": "4324"
+  },
+  {
+    "id_profesor": "651",
+    "sueldo_profesor": "6770984",
+    "col3": "1093"
+  },
+  {
+    "id_profesor": "652",
+    "sueldo_profesor": "3166990",
+    "col3": "3589"
+  },
+  {
+    "id_profesor": "653",
+    "sueldo_profesor": "6558773",
+    "col3": "5293"
+  },
+  {
+    "id_profesor": "654",
+    "sueldo_profesor": "6901586",
+    "col3": "1476"
+  },
+  {
+    "id_profesor": "655",
+    "sueldo_profesor": "2966618",
+    "col3": "8038"
+  },
+  {
+    "id_profesor": "656",
+    "sueldo_profesor": "5274258",
+    "col3": "6744"
+  },
+  {
+    "id_profesor": "657",
+    "sueldo_profesor": "3186171",
+    "col3": "7093"
+  },
+  {
+    "id_profesor": "658",
+    "sueldo_profesor": "1637996",
+    "col3": "1473"
+  },
+  {
+    "id_profesor": "659",
+    "sueldo_profesor": "5485011",
+    "col3": "9749"
+  },
+  {
+    "id_profesor": "660",
+    "sueldo_profesor": "4819212",
+    "col3": "2353"
+  },
+  {
+    "id_profesor": "661",
+    "sueldo_profesor": "4335371",
+    "col3": "9421"
+  },
+  {
+    "id_profesor": "662",
+    "sueldo_profesor": "4513517",
+    "col3": "8335"
+  },
+  {
+    "id_profesor": "663",
+    "sueldo_profesor": "3740100",
+    "col3": "4673"
+  },
+  {
+    "id_profesor": "664",
+    "sueldo_profesor": "5078076",
+    "col3": "2330"
+  },
+  {
+    "id_profesor": "665",
+    "sueldo_profesor": "4612400",
+    "col3": "9268"
+  },
+  {
+    "id_profesor": "666",
+    "sueldo_profesor": "2723719",
+    "col3": "5465"
+  },
+  {
+    "id_profesor": "667",
+    "sueldo_profesor": "3275994",
+    "col3": "4356"
+  },
+  {
+    "id_profesor": "668",
+    "sueldo_profesor": "4545378",
+    "col3": "4140"
+  },
+  {
+    "id_profesor": "669",
+    "sueldo_profesor": "2257263",
+    "col3": "6574"
+  },
+  {
+    "id_profesor": "670",
+    "sueldo_profesor": "3263472",
+    "col3": "8780"
+  },
+  {
+    "id_profesor": "671",
+    "sueldo_profesor": "7074937",
+    "col3": "8891"
+  },
+  {
+    "id_profesor": "672",
+    "sueldo_profesor": "1870230",
+    "col3": "5732"
+  },
+  {
+    "id_profesor": "673",
+    "sueldo_profesor": "2806349",
+    "col3": "2018"
+  },
+  {
+    "id_profesor": "674",
+    "sueldo_profesor": "2741399",
+    "col3": "923"
+  },
+  {
+    "id_profesor": "675",
+    "sueldo_profesor": "5430992",
+    "col3": "6688"
+  },
+  {
+    "id_profesor": "676",
+    "sueldo_profesor": "3124516",
+    "col3": "5499"
+  },
+  {
+    "id_profesor": "677",
+    "sueldo_profesor": "7703206",
+    "col3": "2165"
+  },
+  {
+    "id_profesor": "678",
+    "sueldo_profesor": "2164644",
+    "col3": "4751"
+  },
+  {
+    "id_profesor": "679",
+    "sueldo_profesor": "7129605",
+    "col3": "2580"
+  },
+  {
+    "id_profesor": "680",
+    "sueldo_profesor": "3706050",
+    "col3": "6186"
+  },
+  {
+    "id_profesor": "681",
+    "sueldo_profesor": "2523407",
+    "col3": "2764"
+  },
+  {
+    "id_profesor": "682",
+    "sueldo_profesor": "3437888",
+    "col3": "9852"
+  },
+  {
+    "id_profesor": "683",
+    "sueldo_profesor": "1804989",
+    "col3": "4538"
+  },
+  {
+    "id_profesor": "684",
+    "sueldo_profesor": "7394775",
+    "col3": "9330"
+  },
+  {
+    "id_profesor": "685",
+    "sueldo_profesor": "3730587",
+    "col3": "370"
+  },
+  {
+    "id_profesor": "686",
+    "sueldo_profesor": "5133183",
+    "col3": "7464"
+  },
+  {
+    "id_profesor": "687",
+    "sueldo_profesor": "5224366",
+    "col3": "4889"
+  },
+  {
+    "id_profesor": "688",
+    "sueldo_profesor": "4702421",
+    "col3": "1186"
+  },
+  {
+    "id_profesor": "689",
+    "sueldo_profesor": "6621216",
+    "col3": "14"
+  },
+  {
+    "id_profesor": "690",
+    "sueldo_profesor": "7631647",
+    "col3": "1569"
+  },
+  {
+    "id_profesor": "691",
+    "sueldo_profesor": "5470852",
+    "col3": "598"
+  },
+  {
+    "id_profesor": "692",
+    "sueldo_profesor": "7397768",
+    "col3": "8583"
+  },
+  {
+    "id_profesor": "693",
+    "sueldo_profesor": "6722147",
+    "col3": "6635"
+  },
+  {
+    "id_profesor": "694",
+    "sueldo_profesor": "4348037",
+    "col3": "8539"
+  },
+  {
+    "id_profesor": "695",
+    "sueldo_profesor": "2134299",
+    "col3": "6866"
+  },
+  {
+    "id_profesor": "696",
+    "sueldo_profesor": "1801929",
+    "col3": "315"
+  },
+  {
+    "id_profesor": "697",
+    "sueldo_profesor": "5964748",
+    "col3": "4108"
+  },
+  {
+    "id_profesor": "698",
+    "sueldo_profesor": "7320085",
+    "col3": "5103"
+  },
+  {
+    "id_profesor": "699",
+    "sueldo_profesor": "7309047",
+    "col3": "8330"
+  },
+  {
+    "id_profesor": "700",
+    "sueldo_profesor": "5070061",
+    "col3": "7808"
+  },
+  {
+    "id_profesor": "701",
+    "sueldo_profesor": "1966795",
+    "col3": "4075"
+  },
+  {
+    "id_profesor": "702",
+    "sueldo_profesor": "4273389",
+    "col3": "944"
+  },
+  {
+    "id_profesor": "703",
+    "sueldo_profesor": "3796708",
+    "col3": "8338"
+  },
+  {
+    "id_profesor": "704",
+    "sueldo_profesor": "4068470",
+    "col3": "5203"
+  },
+  {
+    "id_profesor": "705",
+    "sueldo_profesor": "6945298",
+    "col3": "7347"
+  },
+  {
+    "id_profesor": "706",
+    "sueldo_profesor": "6651748",
+    "col3": "8684"
+  },
+  {
+    "id_profesor": "707",
+    "sueldo_profesor": "3382034",
+    "col3": "1314"
+  },
+  {
+    "id_profesor": "708",
+    "sueldo_profesor": "4707399",
+    "col3": "1794"
+  },
+  {
+    "id_profesor": "709",
+    "sueldo_profesor": "5321170",
+    "col3": "9521"
+  },
+  {
+    "id_profesor": "710",
+    "sueldo_profesor": "2754339",
+    "col3": "5227"
+  },
+  {
+    "id_profesor": "711",
+    "sueldo_profesor": "6709741",
+    "col3": "1506"
+  },
+  {
+    "id_profesor": "712",
+    "sueldo_profesor": "7548362",
+    "col3": "1877"
+  },
+  {
+    "id_profesor": "713",
+    "sueldo_profesor": "2525658",
+    "col3": "6496"
+  },
+  {
+    "id_profesor": "714",
+    "sueldo_profesor": "3547056",
+    "col3": "8479"
+  },
+  {
+    "id_profesor": "715",
+    "sueldo_profesor": "6004991",
+    "col3": "2367"
+  },
+  {
+    "id_profesor": "716",
+    "sueldo_profesor": "4214244",
+    "col3": "8561"
+  },
+  {
+    "id_profesor": "717",
+    "sueldo_profesor": "7101256",
+    "col3": "1761"
+  },
+  {
+    "id_profesor": "718",
+    "sueldo_profesor": "6175697",
+    "col3": "9399"
+  },
+  {
+    "id_profesor": "719",
+    "sueldo_profesor": "3307153",
+    "col3": "7606"
+  },
+  {
+    "id_profesor": "720",
+    "sueldo_profesor": "2855170",
+    "col3": "570"
+  },
+  {
+    "id_profesor": "721",
+    "sueldo_profesor": "4997334",
+    "col3": "5399"
+  },
+  {
+    "id_profesor": "722",
+    "sueldo_profesor": "5081363",
+    "col3": "9935"
+  },
+  {
+    "id_profesor": "723",
+    "sueldo_profesor": "1756945",
+    "col3": "54"
+  },
+  {
+    "id_profesor": "724",
+    "sueldo_profesor": "7603081",
+    "col3": "2002"
+  },
+  {
+    "id_profesor": "725",
+    "sueldo_profesor": "7215513",
+    "col3": "2486"
+  },
+  {
+    "id_profesor": "726",
+    "sueldo_profesor": "6014200",
+    "col3": "6472"
+  },
+  {
+    "id_profesor": "727",
+    "sueldo_profesor": "6994059",
+    "col3": "3595"
+  },
+  {
+    "id_profesor": "728",
+    "sueldo_profesor": "3344160",
+    "col3": "9304"
+  },
+  {
+    "id_profesor": "729",
+    "sueldo_profesor": "2425564",
+    "col3": "5127"
+  },
+  {
+    "id_profesor": "730",
+    "sueldo_profesor": "6707162",
+    "col3": "9702"
+  },
+  {
+    "id_profesor": "731",
+    "sueldo_profesor": "4268451",
+    "col3": "366"
+  },
+  {
+    "id_profesor": "732",
+    "sueldo_profesor": "6036096",
+    "col3": "1704"
+  },
+  {
+    "id_profesor": "733",
+    "sueldo_profesor": "2791090",
+    "col3": "2430"
+  },
+  {
+    "id_profesor": "734",
+    "sueldo_profesor": "3053645",
+    "col3": "7370"
+  },
+  {
+    "id_profesor": "735",
+    "sueldo_profesor": "4051752",
+    "col3": "1706"
+  },
+  {
+    "id_profesor": "736",
+    "sueldo_profesor": "4701869",
+    "col3": "4564"
+  },
+  {
+    "id_profesor": "737",
+    "sueldo_profesor": "7211759",
+    "col3": "3734"
+  },
+  {
+    "id_profesor": "738",
+    "sueldo_profesor": "5030039",
+    "col3": "9175"
+  },
+  {
+    "id_profesor": "739",
+    "sueldo_profesor": "4866036",
+    "col3": "9124"
+  },
+  {
+    "id_profesor": "740",
+    "sueldo_profesor": "3490821",
+    "col3": "50"
+  },
+  {
+    "id_profesor": "741",
+    "sueldo_profesor": "4045273",
+    "col3": "7876"
+  },
+  {
+    "id_profesor": "742",
+    "sueldo_profesor": "6381215",
+    "col3": "5768"
+  },
+  {
+    "id_profesor": "743",
+    "sueldo_profesor": "6630852",
+    "col3": "5948"
+  },
+  {
+    "id_profesor": "744",
+    "sueldo_profesor": "5761488",
+    "col3": "111"
+  },
+  {
+    "id_profesor": "745",
+    "sueldo_profesor": "3829592",
+    "col3": "6475"
+  },
+  {
+    "id_profesor": "746",
+    "sueldo_profesor": "5688576",
+    "col3": "6594"
+  },
+  {
+    "id_profesor": "747",
+    "sueldo_profesor": "7822498",
+    "col3": "6319"
+  },
+  {
+    "id_profesor": "748",
+    "sueldo_profesor": "7823700",
+    "col3": "6543"
+  },
+  {
+    "id_profesor": "749",
+    "sueldo_profesor": "5003364",
+    "col3": "5065"
+  },
+  {
+    "id_profesor": "750",
+    "sueldo_profesor": "6098985",
+    "col3": "7328"
+  },
+  {
+    "id_profesor": "751",
+    "sueldo_profesor": "6736202",
+    "col3": "1479"
+  },
+  {
+    "id_profesor": "752",
+    "sueldo_profesor": "5915014",
+    "col3": "9637"
+  },
+  {
+    "id_profesor": "753",
+    "sueldo_profesor": "2758897",
+    "col3": "9864"
+  },
+  {
+    "id_profesor": "754",
+    "sueldo_profesor": "4358966",
+    "col3": "4706"
+  },
+  {
+    "id_profesor": "755",
+    "sueldo_profesor": "3994620",
+    "col3": "954"
+  },
+  {
+    "id_profesor": "756",
+    "sueldo_profesor": "1975455",
+    "col3": "6694"
+  },
+  {
+    "id_profesor": "757",
+    "sueldo_profesor": "6324138",
+    "col3": "157"
+  },
+  {
+    "id_profesor": "758",
+    "sueldo_profesor": "2102900",
+    "col3": "3255"
+  },
+  {
+    "id_profesor": "759",
+    "sueldo_profesor": "5809041",
+    "col3": "1837"
+  },
+  {
+    "id_profesor": "760",
+    "sueldo_profesor": "2029761",
+    "col3": "1604"
+  },
+  {
+    "id_profesor": "761",
+    "sueldo_profesor": "5995282",
+    "col3": "3407"
+  },
+  {
+    "id_profesor": "762",
+    "sueldo_profesor": "4155613",
+    "col3": "9411"
+  },
+  {
+    "id_profesor": "763",
+    "sueldo_profesor": "6319423",
+    "col3": "2278"
+  },
+  {
+    "id_profesor": "764",
+    "sueldo_profesor": "7488994",
+    "col3": "462"
+  },
+  {
+    "id_profesor": "765",
+    "sueldo_profesor": "2265903",
+    "col3": "5965"
+  },
+  {
+    "id_profesor": "766",
+    "sueldo_profesor": "4307587",
+    "col3": "6555"
+  },
+  {
+    "id_profesor": "767",
+    "sueldo_profesor": "6760825",
+    "col3": "9687"
+  },
+  {
+    "id_profesor": "768",
+    "sueldo_profesor": "7388932",
+    "col3": "2653"
+  },
+  {
+    "id_profesor": "769",
+    "sueldo_profesor": "2553657",
+    "col3": "482"
+  },
+  {
+    "id_profesor": "770",
+    "sueldo_profesor": "2268913",
+    "col3": "101"
+  },
+  {
+    "id_profesor": "771",
+    "sueldo_profesor": "4138618",
+    "col3": "4183"
+  },
+  {
+    "id_profesor": "772",
+    "sueldo_profesor": "4058724",
+    "col3": "7705"
+  },
+  {
+    "id_profesor": "773",
+    "sueldo_profesor": "2779180",
+    "col3": "5812"
+  },
+  {
+    "id_profesor": "774",
+    "sueldo_profesor": "7166377",
+    "col3": "2030"
+  },
+  {
+    "id_profesor": "775",
+    "sueldo_profesor": "6223847",
+    "col3": "7156"
+  },
+  {
+    "id_profesor": "776",
+    "sueldo_profesor": "7863789",
+    "col3": "5785"
+  },
+  {
+    "id_profesor": "777",
+    "sueldo_profesor": "3224404",
+    "col3": "643"
+  },
+  {
+    "id_profesor": "778",
+    "sueldo_profesor": "3453858",
+    "col3": "4195"
+  },
+  {
+    "id_profesor": "779",
+    "sueldo_profesor": "2390474",
+    "col3": "8639"
+  },
+  {
+    "id_profesor": "780",
+    "sueldo_profesor": "3569589",
+    "col3": "3853"
+  },
+  {
+    "id_profesor": "781",
+    "sueldo_profesor": "4934618",
+    "col3": "781"
+  },
+  {
+    "id_profesor": "782",
+    "sueldo_profesor": "5936102",
+    "col3": "2597"
+  },
+  {
+    "id_profesor": "783",
+    "sueldo_profesor": "7542081",
+    "col3": "7585"
+  },
+  {
+    "id_profesor": "784",
+    "sueldo_profesor": "3232060",
+    "col3": "3761"
+  },
+  {
+    "id_profesor": "785",
+    "sueldo_profesor": "7743549",
+    "col3": "415"
+  },
+  {
+    "id_profesor": "786",
+    "sueldo_profesor": "4304333",
+    "col3": "7556"
+  },
+  {
+    "id_profesor": "787",
+    "sueldo_profesor": "7549266",
+    "col3": "7799"
+  },
+  {
+    "id_profesor": "788",
+    "sueldo_profesor": "5551591",
+    "col3": "5297"
+  },
+  {
+    "id_profesor": "789",
+    "sueldo_profesor": "6714239",
+    "col3": "6286"
+  },
+  {
+    "id_profesor": "790",
+    "sueldo_profesor": "5970794",
+    "col3": "364"
+  },
+  {
+    "id_profesor": "791",
+    "sueldo_profesor": "6829165",
+    "col3": "6164"
+  },
+  {
+    "id_profesor": "792",
+    "sueldo_profesor": "7392065",
+    "col3": "3112"
+  },
+  {
+    "id_profesor": "793",
+    "sueldo_profesor": "4186417",
+    "col3": "4515"
+  },
+  {
+    "id_profesor": "794",
+    "sueldo_profesor": "5795715",
+    "col3": "5373"
+  },
+  {
+    "id_profesor": "795",
+    "sueldo_profesor": "6281035",
+    "col3": "73"
+  },
+  {
+    "id_profesor": "796",
+    "sueldo_profesor": "3467527",
+    "col3": "9497"
+  },
+  {
+    "id_profesor": "797",
+    "sueldo_profesor": "3219620",
+    "col3": "7129"
+  },
+  {
+    "id_profesor": "798",
+    "sueldo_profesor": "6825346",
+    "col3": "9501"
+  },
+  {
+    "id_profesor": "799",
+    "sueldo_profesor": "2536591",
+    "col3": "9527"
+  },
+  {
+    "id_profesor": "800",
+    "sueldo_profesor": "4033808",
+    "col3": "6607"
+  },
+  {
+    "id_profesor": "801",
+    "sueldo_profesor": "2404532",
+    "col3": "566"
+  },
+  {
+    "id_profesor": "802",
+    "sueldo_profesor": "3818410",
+    "col3": "3576"
+  },
+  {
+    "id_profesor": "803",
+    "sueldo_profesor": "2227143",
+    "col3": "974"
+  },
+  {
+    "id_profesor": "804",
+    "sueldo_profesor": "4647782",
+    "col3": "8962"
+  },
+  {
+    "id_profesor": "805",
+    "sueldo_profesor": "6455651",
+    "col3": "5015"
+  },
+  {
+    "id_profesor": "806",
+    "sueldo_profesor": "2979120",
+    "col3": "3948"
+  },
+  {
+    "id_profesor": "807",
+    "sueldo_profesor": "6812078",
+    "col3": "3113"
+  },
+  {
+    "id_profesor": "808",
+    "sueldo_profesor": "6669505",
+    "col3": "2008"
+  },
+  {
+    "id_profesor": "809",
+    "sueldo_profesor": "7129042",
+    "col3": "9895"
+  },
+  {
+    "id_profesor": "810",
+    "sueldo_profesor": "1678596",
+    "col3": "2339"
+  },
+  {
+    "id_profesor": "811",
+    "sueldo_profesor": "3823324",
+    "col3": "6871"
+  },
+  {
+    "id_profesor": "812",
+    "sueldo_profesor": "3451834",
+    "col3": "5889"
+  },
+  {
+    "id_profesor": "813",
+    "sueldo_profesor": "5862555",
+    "col3": "4950"
+  },
+  {
+    "id_profesor": "814",
+    "sueldo_profesor": "7652785",
+    "col3": "5112"
+  },
+  {
+    "id_profesor": "815",
+    "sueldo_profesor": "7864215",
+    "col3": "6140"
+  },
+  {
+    "id_profesor": "816",
+    "sueldo_profesor": "4986490",
+    "col3": "1125"
+  },
+  {
+    "id_profesor": "817",
+    "sueldo_profesor": "5907865",
+    "col3": "2493"
+  },
+  {
+    "id_profesor": "818",
+    "sueldo_profesor": "2692996",
+    "col3": "7585"
+  },
+  {
+    "id_profesor": "819",
+    "sueldo_profesor": "7563283",
+    "col3": "1381"
+  },
+  {
+    "id_profesor": "820",
+    "sueldo_profesor": "6531122",
+    "col3": "8309"
+  },
+  {
+    "id_profesor": "821",
+    "sueldo_profesor": "2911884",
+    "col3": "6954"
+  },
+  {
+    "id_profesor": "822",
+    "sueldo_profesor": "4784494",
+    "col3": "8185"
+  },
+  {
+    "id_profesor": "823",
+    "sueldo_profesor": "5630003",
+    "col3": "9393"
+  },
+  {
+    "id_profesor": "824",
+    "sueldo_profesor": "5333121",
+    "col3": "3095"
+  },
+  {
+    "id_profesor": "825",
+    "sueldo_profesor": "4983610",
+    "col3": "7759"
+  },
+  {
+    "id_profesor": "826",
+    "sueldo_profesor": "4250486",
+    "col3": "5654"
+  },
+  {
+    "id_profesor": "827",
+    "sueldo_profesor": "4784352",
+    "col3": "1239"
+  },
+  {
+    "id_profesor": "828",
+    "sueldo_profesor": "5844836",
+    "col3": "798"
+  },
+  {
+    "id_profesor": "829",
+    "sueldo_profesor": "2173286",
+    "col3": "1828"
+  },
+  {
+    "id_profesor": "830",
+    "sueldo_profesor": "4779389",
+    "col3": "3271"
+  },
+  {
+    "id_profesor": "831",
+    "sueldo_profesor": "1658432",
+    "col3": "1121"
+  },
+  {
+    "id_profesor": "832",
+    "sueldo_profesor": "4696486",
+    "col3": "8436"
+  },
+  {
+    "id_profesor": "833",
+    "sueldo_profesor": "3298192",
+    "col3": "8636"
+  },
+  {
+    "id_profesor": "834",
+    "sueldo_profesor": "1769318",
+    "col3": "9610"
+  },
+  {
+    "id_profesor": "835",
+    "sueldo_profesor": "5732325",
+    "col3": "4560"
+  },
+  {
+    "id_profesor": "836",
+    "sueldo_profesor": "4073069",
+    "col3": "9038"
+  },
+  {
+    "id_profesor": "837",
+    "sueldo_profesor": "2765061",
+    "col3": "8023"
+  },
+  {
+    "id_profesor": "838",
+    "sueldo_profesor": "4373253",
+    "col3": "7903"
+  },
+  {
+    "id_profesor": "839",
+    "sueldo_profesor": "2809939",
+    "col3": "215"
+  },
+  {
+    "id_profesor": "840",
+    "sueldo_profesor": "2420037",
+    "col3": "2575"
+  },
+  {
+    "id_profesor": "841",
+    "sueldo_profesor": "2509484",
+    "col3": "2560"
+  },
+  {
+    "id_profesor": "842",
+    "sueldo_profesor": "6635687",
+    "col3": "2931"
+  },
+  {
+    "id_profesor": "843",
+    "sueldo_profesor": "3820310",
+    "col3": "8151"
+  },
+  {
+    "id_profesor": "844",
+    "sueldo_profesor": "1679851",
+    "col3": "224"
+  },
+  {
+    "id_profesor": "845",
+    "sueldo_profesor": "3695803",
+    "col3": "3666"
+  },
+  {
+    "id_profesor": "846",
+    "sueldo_profesor": "4248589",
+    "col3": "8140"
+  },
+  {
+    "id_profesor": "847",
+    "sueldo_profesor": "1545204",
+    "col3": "4918"
+  },
+  {
+    "id_profesor": "848",
+    "sueldo_profesor": "5110011",
+    "col3": "7026"
+  },
+  {
+    "id_profesor": "849",
+    "sueldo_profesor": "7515063",
+    "col3": "133"
+  },
+  {
+    "id_profesor": "850",
+    "sueldo_profesor": "7451760",
+    "col3": "1893"
+  },
+  {
+    "id_profesor": "851",
+    "sueldo_profesor": "4308820",
+    "col3": "380"
+  },
+  {
+    "id_profesor": "852",
+    "sueldo_profesor": "2215828",
+    "col3": "5105"
+  },
+  {
+    "id_profesor": "853",
+    "sueldo_profesor": "7735598",
+    "col3": "6880"
+  },
+  {
+    "id_profesor": "854",
+    "sueldo_profesor": "7490606",
+    "col3": "5485"
+  },
+  {
+    "id_profesor": "855",
+    "sueldo_profesor": "5012877",
+    "col3": "7449"
+  },
+  {
+    "id_profesor": "856",
+    "sueldo_profesor": "7817309",
+    "col3": "1881"
+  },
+  {
+    "id_profesor": "857",
+    "sueldo_profesor": "4104759",
+    "col3": "5411"
+  },
+  {
+    "id_profesor": "858",
+    "sueldo_profesor": "7982247",
+    "col3": "9584"
+  },
+  {
+    "id_profesor": "859",
+    "sueldo_profesor": "6509878",
+    "col3": "5673"
+  },
+  {
+    "id_profesor": "860",
+    "sueldo_profesor": "3760692",
+    "col3": "6033"
+  },
+  {
+    "id_profesor": "861",
+    "sueldo_profesor": "6606709",
+    "col3": "7672"
+  },
+  {
+    "id_profesor": "862",
+    "sueldo_profesor": "4032483",
+    "col3": "2907"
+  },
+  {
+    "id_profesor": "863",
+    "sueldo_profesor": "3730239",
+    "col3": "4596"
+  },
+  {
+    "id_profesor": "864",
+    "sueldo_profesor": "7692669",
+    "col3": "1030"
+  },
+  {
+    "id_profesor": "865",
+    "sueldo_profesor": "4892498",
+    "col3": "4184"
+  },
+  {
+    "id_profesor": "866",
+    "sueldo_profesor": "6146798",
+    "col3": "5791"
+  },
+  {
+    "id_profesor": "867",
+    "sueldo_profesor": "3693988",
+    "col3": "3672"
+  },
+  {
+    "id_profesor": "868",
+    "sueldo_profesor": "5074779",
+    "col3": "8338"
+  },
+  {
+    "id_profesor": "869",
+    "sueldo_profesor": "1719025",
+    "col3": "3915"
+  },
+  {
+    "id_profesor": "870",
+    "sueldo_profesor": "1701453",
+    "col3": "710"
+  },
+  {
+    "id_profesor": "871",
+    "sueldo_profesor": "2633460",
+    "col3": "4214"
+  },
+  {
+    "id_profesor": "872",
+    "sueldo_profesor": "5607162",
+    "col3": "1005"
+  },
+  {
+    "id_profesor": "873",
+    "sueldo_profesor": "3733892",
+    "col3": "2607"
+  },
+  {
+    "id_profesor": "874",
+    "sueldo_profesor": "3456218",
+    "col3": "3303"
+  },
+  {
+    "id_profesor": "875",
+    "sueldo_profesor": "7777630",
+    "col3": "5258"
+  },
+  {
+    "id_profesor": "876",
+    "sueldo_profesor": "6591484",
+    "col3": "5519"
+  },
+  {
+    "id_profesor": "877",
+    "sueldo_profesor": "2564547",
+    "col3": "4798"
+  },
+  {
+    "id_profesor": "878",
+    "sueldo_profesor": "5886501",
+    "col3": "9340"
+  },
+  {
+    "id_profesor": "879",
+    "sueldo_profesor": "4460208",
+    "col3": "2257"
+  },
+  {
+    "id_profesor": "880",
+    "sueldo_profesor": "7787619",
+    "col3": "8723"
+  },
+  {
+    "id_profesor": "881",
+    "sueldo_profesor": "6259092",
+    "col3": "1248"
+  },
+  {
+    "id_profesor": "882",
+    "sueldo_profesor": "7633560",
+    "col3": "7914"
+  },
+  {
+    "id_profesor": "883",
+    "sueldo_profesor": "4149519",
+    "col3": "5313"
+  },
+  {
+    "id_profesor": "884",
+    "sueldo_profesor": "5335633",
+    "col3": "4809"
+  },
+  {
+    "id_profesor": "885",
+    "sueldo_profesor": "4102133",
+    "col3": "7505"
+  },
+  {
+    "id_profesor": "886",
+    "sueldo_profesor": "5250035",
+    "col3": "5019"
+  },
+  {
+    "id_profesor": "887",
+    "sueldo_profesor": "5100739",
+    "col3": "9043"
+  },
+  {
+    "id_profesor": "888",
+    "sueldo_profesor": "2310627",
+    "col3": "9292"
+  },
+  {
+    "id_profesor": "889",
+    "sueldo_profesor": "6365713",
+    "col3": "664"
+  },
+  {
+    "id_profesor": "890",
+    "sueldo_profesor": "2520335",
+    "col3": "6872"
+  },
+  {
+    "id_profesor": "891",
+    "sueldo_profesor": "7037524",
+    "col3": "7489"
+  },
+  {
+    "id_profesor": "892",
+    "sueldo_profesor": "1972441",
+    "col3": "1761"
+  },
+  {
+    "id_profesor": "893",
+    "sueldo_profesor": "6569029",
+    "col3": "8242"
+  },
+  {
+    "id_profesor": "894",
+    "sueldo_profesor": "6318710",
+    "col3": "6713"
+  },
+  {
+    "id_profesor": "895",
+    "sueldo_profesor": "2340517",
+    "col3": "3675"
+  },
+  {
+    "id_profesor": "896",
+    "sueldo_profesor": "2947609",
+    "col3": "7676"
+  },
+  {
+    "id_profesor": "897",
+    "sueldo_profesor": "5589373",
+    "col3": "4929"
+  },
+  {
+    "id_profesor": "898",
+    "sueldo_profesor": "2266528",
+    "col3": "7287"
+  },
+  {
+    "id_profesor": "899",
+    "sueldo_profesor": "5001228",
+    "col3": "931"
+  },
+  {
+    "id_profesor": "900",
+    "sueldo_profesor": "4026587",
+    "col3": "8265"
+  },
+  {
+    "id_profesor": "901",
+    "sueldo_profesor": "7296584",
+    "col3": "3402"
+  },
+  {
+    "id_profesor": "902",
+    "sueldo_profesor": "1942708",
+    "col3": "1595"
+  },
+  {
+    "id_profesor": "903",
+    "sueldo_profesor": "2723888",
+    "col3": "873"
+  },
+  {
+    "id_profesor": "904",
+    "sueldo_profesor": "7115719",
+    "col3": "548"
+  },
+  {
+    "id_profesor": "905",
+    "sueldo_profesor": "5275143",
+    "col3": "4190"
+  },
+  {
+    "id_profesor": "906",
+    "sueldo_profesor": "7608704",
+    "col3": "7825"
+  },
+  {
+    "id_profesor": "907",
+    "sueldo_profesor": "2727607",
+    "col3": "9404"
+  },
+  {
+    "id_profesor": "908",
+    "sueldo_profesor": "5788000",
+    "col3": "9397"
+  },
+  {
+    "id_profesor": "909",
+    "sueldo_profesor": "6077502",
+    "col3": "6917"
+  },
+  {
+    "id_profesor": "910",
+    "sueldo_profesor": "5084607",
+    "col3": "9238"
+  },
+  {
+    "id_profesor": "911",
+    "sueldo_profesor": "7041848",
+    "col3": "7642"
+  },
+  {
+    "id_profesor": "912",
+    "sueldo_profesor": "1826067",
+    "col3": "7792"
+  },
+  {
+    "id_profesor": "913",
+    "sueldo_profesor": "5114683",
+    "col3": "1035"
+  },
+  {
+    "id_profesor": "914",
+    "sueldo_profesor": "6462892",
+    "col3": "8346"
+  },
+  {
+    "id_profesor": "915",
+    "sueldo_profesor": "4321498",
+    "col3": "8857"
+  },
+  {
+    "id_profesor": "916",
+    "sueldo_profesor": "5134934",
+    "col3": "7659"
+  },
+  {
+    "id_profesor": "917",
+    "sueldo_profesor": "3957066",
+    "col3": "3040"
+  },
+  {
+    "id_profesor": "918",
+    "sueldo_profesor": "5493601",
+    "col3": "6626"
+  },
+  {
+    "id_profesor": "919",
+    "sueldo_profesor": "1979211",
+    "col3": "6248"
+  },
+  {
+    "id_profesor": "920",
+    "sueldo_profesor": "7729982",
+    "col3": "8099"
+  },
+  {
+    "id_profesor": "921",
+    "sueldo_profesor": "4448089",
+    "col3": "203"
+  },
+  {
+    "id_profesor": "922",
+    "sueldo_profesor": "7781391",
+    "col3": "5199"
+  },
+  {
+    "id_profesor": "923",
+    "sueldo_profesor": "3150180",
+    "col3": "5978"
+  },
+  {
+    "id_profesor": "924",
+    "sueldo_profesor": "4216744",
+    "col3": "800"
+  },
+  {
+    "id_profesor": "925",
+    "sueldo_profesor": "5431158",
+    "col3": "6770"
+  },
+  {
+    "id_profesor": "926",
+    "sueldo_profesor": "1746705",
+    "col3": "7274"
+  },
+  {
+    "id_profesor": "927",
+    "sueldo_profesor": "3409983",
+    "col3": "6594"
+  },
+  {
+    "id_profesor": "928",
+    "sueldo_profesor": "4730887",
+    "col3": "3021"
+  },
+  {
+    "id_profesor": "929",
+    "sueldo_profesor": "4007097",
+    "col3": "6330"
+  },
+  {
+    "id_profesor": "930",
+    "sueldo_profesor": "7900094",
+    "col3": "6473"
+  },
+  {
+    "id_profesor": "931",
+    "sueldo_profesor": "6315105",
+    "col3": "5323"
+  },
+  {
+    "id_profesor": "932",
+    "sueldo_profesor": "6564554",
+    "col3": "9204"
+  },
+  {
+    "id_profesor": "933",
+    "sueldo_profesor": "1830225",
+    "col3": "8476"
+  },
+  {
+    "id_profesor": "934",
+    "sueldo_profesor": "1562088",
+    "col3": "419"
+  },
+  {
+    "id_profesor": "935",
+    "sueldo_profesor": "1624401",
+    "col3": "6036"
+  },
+  {
+    "id_profesor": "936",
+    "sueldo_profesor": "4767016",
+    "col3": "1957"
+  },
+  {
+    "id_profesor": "937",
+    "sueldo_profesor": "3738445",
+    "col3": "7015"
+  },
+  {
+    "id_profesor": "938",
+    "sueldo_profesor": "5358876",
+    "col3": "3964"
+  },
+  {
+    "id_profesor": "939",
+    "sueldo_profesor": "1787015",
+    "col3": "4302"
+  },
+  {
+    "id_profesor": "940",
+    "sueldo_profesor": "7466587",
+    "col3": "2040"
+  },
+  {
+    "id_profesor": "941",
+    "sueldo_profesor": "7099223",
+    "col3": "5453"
+  },
+  {
+    "id_profesor": "942",
+    "sueldo_profesor": "2926188",
+    "col3": "3640"
+  },
+  {
+    "id_profesor": "943",
+    "sueldo_profesor": "2939684",
+    "col3": "889"
+  },
+  {
+    "id_profesor": "944",
+    "sueldo_profesor": "4221545",
+    "col3": "7160"
+  },
+  {
+    "id_profesor": "945",
+    "sueldo_profesor": "7652135",
+    "col3": "9435"
+  },
+  {
+    "id_profesor": "946",
+    "sueldo_profesor": "3514529",
+    "col3": "7534"
+  },
+  {
+    "id_profesor": "947",
+    "sueldo_profesor": "1566075",
+    "col3": "5477"
+  },
+  {
+    "id_profesor": "948",
+    "sueldo_profesor": "5245694",
+    "col3": "9556"
+  },
+  {
+    "id_profesor": "949",
+    "sueldo_profesor": "7866126",
+    "col3": "2862"
+  },
+  {
+    "id_profesor": "950",
+    "sueldo_profesor": "5521815",
+    "col3": "5414"
+  },
+  {
+    "id_profesor": "951",
+    "sueldo_profesor": "3338211",
+    "col3": "2523"
+  },
+  {
+    "id_profesor": "952",
+    "sueldo_profesor": "4782017",
+    "col3": "1335"
+  },
+  {
+    "id_profesor": "953",
+    "sueldo_profesor": "4766571",
+    "col3": "6381"
+  },
+  {
+    "id_profesor": "954",
+    "sueldo_profesor": "3045076",
+    "col3": "855"
+  },
+  {
+    "id_profesor": "955",
+    "sueldo_profesor": "2489009",
+    "col3": "2407"
+  },
+  {
+    "id_profesor": "956",
+    "sueldo_profesor": "5701032",
+    "col3": "1365"
+  },
+  {
+    "id_profesor": "957",
+    "sueldo_profesor": "7004138",
+    "col3": "2368"
+  },
+  {
+    "id_profesor": "958",
+    "sueldo_profesor": "3705568",
+    "col3": "7837"
+  },
+  {
+    "id_profesor": "959",
+    "sueldo_profesor": "4460151",
+    "col3": "5764"
+  },
+  {
+    "id_profesor": "960",
+    "sueldo_profesor": "3548388",
+    "col3": "5022"
+  },
+  {
+    "id_profesor": "961",
+    "sueldo_profesor": "1624972",
+    "col3": "5448"
+  },
+  {
+    "id_profesor": "962",
+    "sueldo_profesor": "3620454",
+    "col3": "3642"
+  },
+  {
+    "id_profesor": "963",
+    "sueldo_profesor": "5060979",
+    "col3": "3330"
+  },
+  {
+    "id_profesor": "964",
+    "sueldo_profesor": "7830004",
+    "col3": "8463"
+  },
+  {
+    "id_profesor": "965",
+    "sueldo_profesor": "6102088",
+    "col3": "884"
+  },
+  {
+    "id_profesor": "966",
+    "sueldo_profesor": "7362910",
+    "col3": "8589"
+  },
+  {
+    "id_profesor": "967",
+    "sueldo_profesor": "5031711",
+    "col3": "4870"
+  },
+  {
+    "id_profesor": "968",
+    "sueldo_profesor": "4820989",
+    "col3": "9470"
+  },
+  {
+    "id_profesor": "969",
+    "sueldo_profesor": "2167605",
+    "col3": "3623"
+  },
+  {
+    "id_profesor": "970",
+    "sueldo_profesor": "6961529",
+    "col3": "6284"
+  },
+  {
+    "id_profesor": "971",
+    "sueldo_profesor": "6041581",
+    "col3": "4966"
+  },
+  {
+    "id_profesor": "972",
+    "sueldo_profesor": "1859949",
+    "col3": "2249"
+  },
+  {
+    "id_profesor": "973",
+    "sueldo_profesor": "4949482",
+    "col3": "4504"
+  },
+  {
+    "id_profesor": "974",
+    "sueldo_profesor": "2047331",
+    "col3": "7864"
+  },
+  {
+    "id_profesor": "975",
+    "sueldo_profesor": "3238898",
+    "col3": "4841"
+  },
+  {
+    "id_profesor": "976",
+    "sueldo_profesor": "1677671",
+    "col3": "5762"
+  },
+  {
+    "id_profesor": "977",
+    "sueldo_profesor": "7942029",
+    "col3": "3785"
+  },
+  {
+    "id_profesor": "978",
+    "sueldo_profesor": "6300732",
+    "col3": "7128"
+  },
+  {
+    "id_profesor": "979",
+    "sueldo_profesor": "1548507",
+    "col3": "7859"
+  },
+  {
+    "id_profesor": "980",
+    "sueldo_profesor": "1587911",
+    "col3": "7922"
+  },
+  {
+    "id_profesor": "981",
+    "sueldo_profesor": "1591132",
+    "col3": "1836"
+  },
+  {
+    "id_profesor": "982",
+    "sueldo_profesor": "1514408",
+    "col3": "7438"
+  },
+  {
+    "id_profesor": "983",
+    "sueldo_profesor": "4969321",
+    "col3": "5167"
+  },
+  {
+    "id_profesor": "984",
+    "sueldo_profesor": "5527152",
+    "col3": "8190"
+  },
+  {
+    "id_profesor": "985",
+    "sueldo_profesor": "5113075",
+    "col3": "6679"
+  },
+  {
+    "id_profesor": "986",
+    "sueldo_profesor": "4487435",
+    "col3": "4436"
+  },
+  {
+    "id_profesor": "987",
+    "sueldo_profesor": "6114606",
+    "col3": "398"
+  },
+  {
+    "id_profesor": "988",
+    "sueldo_profesor": "4354387",
+    "col3": "5972"
+  },
+  {
+    "id_profesor": "989",
+    "sueldo_profesor": "2285093",
+    "col3": "6546"
+  },
+  {
+    "id_profesor": "990",
+    "sueldo_profesor": "6435857",
+    "col3": "1307"
+  },
+  {
+    "id_profesor": "991",
+    "sueldo_profesor": "1782307",
+    "col3": "3473"
+  },
+  {
+    "id_profesor": "992",
+    "sueldo_profesor": "5493179",
+    "col3": "8791"
+  },
+  {
+    "id_profesor": "993",
+    "sueldo_profesor": "5325934",
+    "col3": "7737"
+  },
+  {
+    "id_profesor": "994",
+    "sueldo_profesor": "6341590",
+    "col3": "2475"
+  },
+  {
+    "id_profesor": "995",
+    "sueldo_profesor": "6983713",
+    "col3": "1568"
+  },
+  {
+    "id_profesor": "996",
+    "sueldo_profesor": "2903869",
+    "col3": "746"
+  },
+  {
+    "id_profesor": "997",
+    "sueldo_profesor": "6133761",
+    "col3": "8813"
+  },
+  {
+    "id_profesor": "998",
+    "sueldo_profesor": "5557122",
+    "col3": "1588"
+  },
+  {
+    "id_profesor": "999",
+    "sueldo_profesor": "7856635",
+    "col3": "9943"
+  },
+  {
+    "id_profesor": "1000",
+    "sueldo_profesor": "7461214",
+    "col3": "7468"
+  },
+  {
+    "id_profesor": "1001",
+    "sueldo_profesor": "7713052",
+    "col3": "6074"
+  },
+  {
+    "id_profesor": "1002",
+    "sueldo_profesor": "6211887",
+    "col3": "7250"
+  },
+  {
+    "id_profesor": "1003",
+    "sueldo_profesor": "2349983",
+    "col3": "6314"
+  },
+  {
+    "id_profesor": "1004",
+    "sueldo_profesor": "4053095",
+    "col3": "5063"
+  },
+  {
+    "id_profesor": "1005",
+    "sueldo_profesor": "2054180",
+    "col3": "9359"
+  },
+  {
+    "id_profesor": "1006",
+    "sueldo_profesor": "5848780",
+    "col3": "24"
+  },
+  {
+    "id_profesor": "1007",
+    "sueldo_profesor": "5797178",
+    "col3": "5017"
+  },
+  {
+    "id_profesor": "1008",
+    "sueldo_profesor": "1769253",
+    "col3": "7885"
+  },
+  {
+    "id_profesor": "1009",
+    "sueldo_profesor": "4172117",
+    "col3": "3917"
+  },
+  {
+    "id_profesor": "1010",
+    "sueldo_profesor": "3906410",
+    "col3": "2362"
+  },
+  {
+    "id_profesor": "1011",
+    "sueldo_profesor": "1517170",
+    "col3": "1730"
+  },
+  {
+    "id_profesor": "1012",
+    "sueldo_profesor": "3354722",
+    "col3": "63"
+  },
+  {
+    "id_profesor": "1013",
+    "sueldo_profesor": "7495072",
+    "col3": "4759"
+  },
+  {
+    "id_profesor": "1014",
+    "sueldo_profesor": "4484320",
+    "col3": "3924"
+  },
+  {
+    "id_profesor": "1015",
+    "sueldo_profesor": "3187143",
+    "col3": "2322"
+  },
+  {
+    "id_profesor": "1016",
+    "sueldo_profesor": "6483311",
+    "col3": "2718"
+  },
+  {
+    "id_profesor": "1017",
+    "sueldo_profesor": "2187764",
+    "col3": "2432"
+  },
+  {
+    "id_profesor": "1018",
+    "sueldo_profesor": "4221672",
+    "col3": "3872"
+  },
+  {
+    "id_profesor": "1019",
+    "sueldo_profesor": "6908527",
+    "col3": "6964"
+  },
+  {
+    "id_profesor": "1020",
+    "sueldo_profesor": "3059512",
+    "col3": "1747"
+  },
+  {
+    "id_profesor": "1021",
+    "sueldo_profesor": "5831871",
+    "col3": "4259"
+  },
+  {
+    "id_profesor": "1022",
+    "sueldo_profesor": "3537455",
+    "col3": "9491"
+  },
+  {
+    "id_profesor": "1023",
+    "sueldo_profesor": "4924508",
+    "col3": "2249"
+  },
+  {
+    "id_profesor": "1024",
+    "sueldo_profesor": "4299505",
+    "col3": "2362"
+  },
+  {
+    "id_profesor": "1025",
+    "sueldo_profesor": "4910730",
+    "col3": "5988"
+  },
+  {
+    "id_profesor": "1026",
+    "sueldo_profesor": "4676575",
+    "col3": "3907"
+  },
+  {
+    "id_profesor": "1027",
+    "sueldo_profesor": "6481555",
+    "col3": "671"
+  },
+  {
+    "id_profesor": "1028",
+    "sueldo_profesor": "3016307",
+    "col3": "491"
+  },
+  {
+    "id_profesor": "1029",
+    "sueldo_profesor": "3380924",
+    "col3": "5113"
+  },
+  {
+    "id_profesor": "1030",
+    "sueldo_profesor": "2196678",
+    "col3": "6645"
+  },
+  {
+    "id_profesor": "1031",
+    "sueldo_profesor": "4796677",
+    "col3": "5094"
+  },
+  {
+    "id_profesor": "1032",
+    "sueldo_profesor": "3673570",
+    "col3": "159"
+  },
+  {
+    "id_profesor": "1033",
+    "sueldo_profesor": "2438829",
+    "col3": "9867"
+  },
+  {
+    "id_profesor": "1034",
+    "sueldo_profesor": "2199736",
+    "col3": "2587"
+  },
+  {
+    "id_profesor": "1035",
+    "sueldo_profesor": "2085986",
+    "col3": "1939"
+  },
+  {
+    "id_profesor": "1036",
+    "sueldo_profesor": "2479044",
+    "col3": "89"
+  },
+  {
+    "id_profesor": "1037",
+    "sueldo_profesor": "2478958",
+    "col3": "6716"
+  },
+  {
+    "id_profesor": "1038",
+    "sueldo_profesor": "2678934",
+    "col3": "4287"
+  },
+  {
+    "id_profesor": "1039",
+    "sueldo_profesor": "3176508",
+    "col3": "8870"
+  },
+  {
+    "id_profesor": "1040",
+    "sueldo_profesor": "2236382",
+    "col3": "2953"
+  },
+  {
+    "id_profesor": "1041",
+    "sueldo_profesor": "3145346",
+    "col3": "127"
+  },
+  {
+    "id_profesor": "1042",
+    "sueldo_profesor": "1869940",
+    "col3": "1302"
+  },
+  {
+    "id_profesor": "1043",
+    "sueldo_profesor": "3809965",
+    "col3": "7482"
+  },
+  {
+    "id_profesor": "1044",
+    "sueldo_profesor": "7561208",
+    "col3": "3622"
+  },
+  {
+    "id_profesor": "1045",
+    "sueldo_profesor": "4673235",
+    "col3": "9808"
+  },
+  {
+    "id_profesor": "1046",
+    "sueldo_profesor": "1839499",
+    "col3": "1076"
+  },
+  {
+    "id_profesor": "1047",
+    "sueldo_profesor": "7955694",
+    "col3": "2826"
+  },
+  {
+    "id_profesor": "1048",
+    "sueldo_profesor": "2398928",
+    "col3": "1585"
+  },
+  {
+    "id_profesor": "1049",
+    "sueldo_profesor": "2014983",
+    "col3": "7660"
+  },
+  {
+    "id_profesor": "1050",
+    "sueldo_profesor": "4575000",
+    "col3": "7612"
+  },
+  {
+    "id_profesor": "1051",
+    "sueldo_profesor": "7723843",
+    "col3": "5899"
+  },
+  {
+    "id_profesor": "1052",
+    "sueldo_profesor": "4934045",
+    "col3": "778"
+  },
+  {
+    "id_profesor": "1053",
+    "sueldo_profesor": "2405339",
+    "col3": "3155"
+  },
+  {
+    "id_profesor": "1054",
+    "sueldo_profesor": "4238131",
+    "col3": "4680"
+  },
+  {
+    "id_profesor": "1055",
+    "sueldo_profesor": "7742888",
+    "col3": "5559"
+  },
+  {
+    "id_profesor": "1056",
+    "sueldo_profesor": "2348310",
+    "col3": "5584"
+  },
+  {
+    "id_profesor": "1057",
+    "sueldo_profesor": "6606584",
+    "col3": "8088"
+  },
+  {
+    "id_profesor": "1058",
+    "sueldo_profesor": "3791300",
+    "col3": "2495"
+  },
+  {
+    "id_profesor": "1059",
+    "sueldo_profesor": "4847693",
+    "col3": "5300"
+  },
+  {
+    "id_profesor": "1060",
+    "sueldo_profesor": "1660922",
+    "col3": "392"
+  },
+  {
+    "id_profesor": "1061",
+    "sueldo_profesor": "1998793",
+    "col3": "3123"
+  },
+  {
+    "id_profesor": "1062",
+    "sueldo_profesor": "6629727",
+    "col3": "2709"
+  },
+  {
+    "id_profesor": "1063",
+    "sueldo_profesor": "5454713",
+    "col3": "9479"
+  },
+  {
+    "id_profesor": "1064",
+    "sueldo_profesor": "2870641",
+    "col3": "6024"
+  },
+  {
+    "id_profesor": "1065",
+    "sueldo_profesor": "5948285",
+    "col3": "8646"
+  },
+  {
+    "id_profesor": "1066",
+    "sueldo_profesor": "7020221",
+    "col3": "327"
+  },
+  {
+    "id_profesor": "1067",
+    "sueldo_profesor": "7986125",
+    "col3": "1926"
+  },
+  {
+    "id_profesor": "1068",
+    "sueldo_profesor": "2410691",
+    "col3": "6926"
+  },
+  {
+    "id_profesor": "1069",
+    "sueldo_profesor": "5641523",
+    "col3": "1628"
+  },
+  {
+    "id_profesor": "1070",
+    "sueldo_profesor": "2290112",
+    "col3": "6510"
+  },
+  {
+    "id_profesor": "1071",
+    "sueldo_profesor": "5047202",
+    "col3": "5500"
+  },
+  {
+    "id_profesor": "1072",
+    "sueldo_profesor": "2309176",
+    "col3": "1041"
+  },
+  {
+    "id_profesor": "1073",
+    "sueldo_profesor": "1549644",
+    "col3": "9454"
+  },
+  {
+    "id_profesor": "1074",
+    "sueldo_profesor": "3127988",
+    "col3": "3762"
+  },
+  {
+    "id_profesor": "1075",
+    "sueldo_profesor": "7773370",
+    "col3": "1085"
+  },
+  {
+    "id_profesor": "1076",
+    "sueldo_profesor": "6259148",
+    "col3": "2792"
+  },
+  {
+    "id_profesor": "1077",
+    "sueldo_profesor": "4462493",
+    "col3": "837"
+  },
+  {
+    "id_profesor": "1078",
+    "sueldo_profesor": "7146584",
+    "col3": "410"
+  },
+  {
+    "id_profesor": "1079",
+    "sueldo_profesor": "6537478",
+    "col3": "5535"
+  },
+  {
+    "id_profesor": "1080",
+    "sueldo_profesor": "6913499",
+    "col3": "8453"
+  },
+  {
+    "id_profesor": "1081",
+    "sueldo_profesor": "7927352",
+    "col3": "9991"
+  },
+  {
+    "id_profesor": "1082",
+    "sueldo_profesor": "4705372",
+    "col3": "8590"
+  },
+  {
+    "id_profesor": "1083",
+    "sueldo_profesor": "4592575",
+    "col3": "9493"
+  },
+  {
+    "id_profesor": "1084",
+    "sueldo_profesor": "2959333",
+    "col3": "4861"
+  },
+  {
+    "id_profesor": "1085",
+    "sueldo_profesor": "6441520",
+    "col3": "624"
+  },
+  {
+    "id_profesor": "1086",
+    "sueldo_profesor": "7758865",
+    "col3": "3490"
+  },
+  {
+    "id_profesor": "1087",
+    "sueldo_profesor": "6715237",
+    "col3": "9332"
+  },
+  {
+    "id_profesor": "1088",
+    "sueldo_profesor": "3365526",
+    "col3": "8643"
+  },
+  {
+    "id_profesor": "1089",
+    "sueldo_profesor": "5999392",
+    "col3": "1004"
+  },
+  {
+    "id_profesor": "1090",
+    "sueldo_profesor": "7074258",
+    "col3": "9193"
+  },
+  {
+    "id_profesor": "1091",
+    "sueldo_profesor": "5520779",
+    "col3": "7909"
+  },
+  {
+    "id_profesor": "1092",
+    "sueldo_profesor": "2159073",
+    "col3": "7177"
+  },
+  {
+    "id_profesor": "1093",
+    "sueldo_profesor": "4247717",
+    "col3": "7450"
+  },
+  {
+    "id_profesor": "1094",
+    "sueldo_profesor": "2984274",
+    "col3": "2035"
+  },
+  {
+    "id_profesor": "1095",
+    "sueldo_profesor": "1846506",
+    "col3": "1797"
+  },
+  {
+    "id_profesor": "1096",
+    "sueldo_profesor": "4664357",
+    "col3": "2315"
+  },
+  {
+    "id_profesor": "1097",
+    "sueldo_profesor": "3508989",
+    "col3": "6888"
+  },
+  {
+    "id_profesor": "1098",
+    "sueldo_profesor": "2442778",
+    "col3": "5111"
+  },
+  {
+    "id_profesor": "1099",
+    "sueldo_profesor": "2046595",
+    "col3": "126"
+  },
+  {
+    "id_profesor": "1100",
+    "sueldo_profesor": "7469097",
+    "col3": "6572"
+  },
+  {
+    "id_profesor": "1101",
+    "sueldo_profesor": "4195515",
+    "col3": "291"
+  },
+  {
+    "id_profesor": "1102",
+    "sueldo_profesor": "6488636",
+    "col3": "947"
+  },
+  {
+    "id_profesor": "1103",
+    "sueldo_profesor": "4435529",
+    "col3": "5765"
+  },
+  {
+    "id_profesor": "1104",
+    "sueldo_profesor": "6506976",
+    "col3": "6316"
+  },
+  {
+    "id_profesor": "1105",
+    "sueldo_profesor": "2883877",
+    "col3": "7442"
+  },
+  {
+    "id_profesor": "1106",
+    "sueldo_profesor": "4621052",
+    "col3": "5182"
+  },
+  {
+    "id_profesor": "1107",
+    "sueldo_profesor": "1881140",
+    "col3": "8265"
+  },
+  {
+    "id_profesor": "1108",
+    "sueldo_profesor": "6812565",
+    "col3": "6177"
+  },
+  {
+    "id_profesor": "1109",
+    "sueldo_profesor": "2083459",
+    "col3": "5172"
+  },
+  {
+    "id_profesor": "1110",
+    "sueldo_profesor": "2030987",
+    "col3": "4067"
+  },
+  {
+    "id_profesor": "1111",
+    "sueldo_profesor": "6009000",
+    "col3": "6528"
+  },
+  {
+    "id_profesor": "1112",
+    "sueldo_profesor": "2057282",
+    "col3": "8778"
+  },
+  {
+    "id_profesor": "1113",
+    "sueldo_profesor": "5773697",
+    "col3": "9681"
+  },
+  {
+    "id_profesor": "1114",
+    "sueldo_profesor": "7628827",
+    "col3": "6685"
+  },
+  {
+    "id_profesor": "1115",
+    "sueldo_profesor": "3730181",
+    "col3": "6161"
+  },
+  {
+    "id_profesor": "1116",
+    "sueldo_profesor": "1769566",
+    "col3": "5850"
+  },
+  {
+    "id_profesor": "1117",
+    "sueldo_profesor": "6548510",
+    "col3": "4789"
+  },
+  {
+    "id_profesor": "1118",
+    "sueldo_profesor": "3140038",
+    "col3": "9653"
+  },
+  {
+    "id_profesor": "1119",
+    "sueldo_profesor": "7775465",
+    "col3": "1811"
+  },
+  {
+    "id_profesor": "1120",
+    "sueldo_profesor": "3912971",
+    "col3": "8194"
+  },
+  {
+    "id_profesor": "1121",
+    "sueldo_profesor": "1956170",
+    "col3": "6305"
+  },
+  {
+    "id_profesor": "1122",
+    "sueldo_profesor": "5130998",
+    "col3": "2191"
+  },
+  {
+    "id_profesor": "1123",
+    "sueldo_profesor": "3424080",
+    "col3": "5736"
+  },
+  {
+    "id_profesor": "1124",
+    "sueldo_profesor": "3647737",
+    "col3": "5603"
+  },
+  {
+    "id_profesor": "1125",
+    "sueldo_profesor": "5081718",
+    "col3": "8706"
+  },
+  {
+    "id_profesor": "1126",
+    "sueldo_profesor": "1601969",
+    "col3": "3254"
+  },
+  {
+    "id_profesor": "1127",
+    "sueldo_profesor": "4031308",
+    "col3": "3265"
+  },
+  {
+    "id_profesor": "1128",
+    "sueldo_profesor": "3745128",
+    "col3": "5341"
+  },
+  {
+    "id_profesor": "1129",
+    "sueldo_profesor": "6437184",
+    "col3": "9344"
+  },
+  {
+    "id_profesor": "1130",
+    "sueldo_profesor": "5731037",
+    "col3": "323"
+  },
+  {
+    "id_profesor": "1131",
+    "sueldo_profesor": "1957661",
+    "col3": "8537"
+  },
+  {
+    "id_profesor": "1132",
+    "sueldo_profesor": "2844172",
+    "col3": "3109"
+  },
+  {
+    "id_profesor": "1133",
+    "sueldo_profesor": "4153302",
+    "col3": "8"
+  },
+  {
+    "id_profesor": "1134",
+    "sueldo_profesor": "7806403",
+    "col3": "6109"
+  },
+  {
+    "id_profesor": "1135",
+    "sueldo_profesor": "6738011",
+    "col3": "2341"
+  },
+  {
+    "id_profesor": "1136",
+    "sueldo_profesor": "1925330",
+    "col3": "4839"
+  },
+  {
+    "id_profesor": "1137",
+    "sueldo_profesor": "5821032",
+    "col3": "5445"
+  },
+  {
+    "id_profesor": "1138",
+    "sueldo_profesor": "6700850",
+    "col3": "8970"
+  },
+  {
+    "id_profesor": "1139",
+    "sueldo_profesor": "5246768",
+    "col3": "5767"
+  },
+  {
+    "id_profesor": "1140",
+    "sueldo_profesor": "3777833",
+    "col3": "763"
+  },
+  {
+    "id_profesor": "1141",
+    "sueldo_profesor": "3796152",
+    "col3": "6823"
+  },
+  {
+    "id_profesor": "1142",
+    "sueldo_profesor": "5372718",
+    "col3": "4545"
+  },
+  {
+    "id_profesor": "1143",
+    "sueldo_profesor": "5734214",
+    "col3": "7440"
+  },
+  {
+    "id_profesor": "1144",
+    "sueldo_profesor": "5602892",
+    "col3": "3901"
+  },
+  {
+    "id_profesor": "1145",
+    "sueldo_profesor": "7709009",
+    "col3": "8284"
+  },
+  {
+    "id_profesor": "1146",
+    "sueldo_profesor": "1928419",
+    "col3": "8160"
+  },
+  {
+    "id_profesor": "1147",
+    "sueldo_profesor": "5190530",
+    "col3": "1510"
+  },
+  {
+    "id_profesor": "1148",
+    "sueldo_profesor": "3876182",
+    "col3": "331"
+  },
+  {
+    "id_profesor": "1149",
+    "sueldo_profesor": "3613349",
+    "col3": "9017"
+  },
+  {
+    "id_profesor": "1150",
+    "sueldo_profesor": "4402021",
+    "col3": "6739"
+  },
+  {
+    "id_profesor": "1151",
+    "sueldo_profesor": "7031959",
+    "col3": "813"
+  },
+  {
+    "id_profesor": "1152",
+    "sueldo_profesor": "6327502",
+    "col3": "9316"
+  },
+  {
+    "id_profesor": "1153",
+    "sueldo_profesor": "1874297",
+    "col3": "693"
+  },
+  {
+    "id_profesor": "1154",
+    "sueldo_profesor": "1764357",
+    "col3": "5904"
+  },
+  {
+    "id_profesor": "1155",
+    "sueldo_profesor": "1786345",
+    "col3": "2995"
+  },
+  {
+    "id_profesor": "1156",
+    "sueldo_profesor": "1753595",
+    "col3": "6195"
+  },
+  {
+    "id_profesor": "1157",
+    "sueldo_profesor": "5506567",
+    "col3": "1030"
+  },
+  {
+    "id_profesor": "1158",
+    "sueldo_profesor": "7170751",
+    "col3": "2407"
+  },
+  {
+    "id_profesor": "1159",
+    "sueldo_profesor": "2136766",
+    "col3": "423"
+  },
+  {
+    "id_profesor": "1160",
+    "sueldo_profesor": "6621170",
+    "col3": "4329"
+  },
+  {
+    "id_profesor": "1161",
+    "sueldo_profesor": "7663371",
+    "col3": "1702"
+  },
+  {
+    "id_profesor": "1162",
+    "sueldo_profesor": "3079500",
+    "col3": "6005"
+  },
+  {
+    "id_profesor": "1163",
+    "sueldo_profesor": "3293678",
+    "col3": "9224"
+  },
+  {
+    "id_profesor": "1164",
+    "sueldo_profesor": "3111741",
+    "col3": "3706"
+  },
+  {
+    "id_profesor": "1165",
+    "sueldo_profesor": "1782703",
+    "col3": "8341"
+  },
+  {
+    "id_profesor": "1166",
+    "sueldo_profesor": "2555916",
+    "col3": "1146"
+  },
+  {
+    "id_profesor": "1167",
+    "sueldo_profesor": "2249650",
+    "col3": "428"
+  },
+  {
+    "id_profesor": "1168",
+    "sueldo_profesor": "5684167",
+    "col3": "5522"
+  },
+  {
+    "id_profesor": "1169",
+    "sueldo_profesor": "3028170",
+    "col3": "7133"
+  },
+  {
+    "id_profesor": "1170",
+    "sueldo_profesor": "5929784",
+    "col3": "9475"
+  },
+  {
+    "id_profesor": "1171",
+    "sueldo_profesor": "6915871",
+    "col3": "6988"
+  },
+  {
+    "id_profesor": "1172",
+    "sueldo_profesor": "3369173",
+    "col3": "7943"
+  },
+  {
+    "id_profesor": "1173",
+    "sueldo_profesor": "2073364",
+    "col3": "704"
+  },
+  {
+    "id_profesor": "1174",
+    "sueldo_profesor": "7975952",
+    "col3": "3340"
+  },
+  {
+    "id_profesor": "1175",
+    "sueldo_profesor": "2190185",
+    "col3": "1491"
+  },
+  {
+    "id_profesor": "1176",
+    "sueldo_profesor": "5422684",
+    "col3": "3679"
+  },
+  {
+    "id_profesor": "1177",
+    "sueldo_profesor": "6550624",
+    "col3": "4645"
+  },
+  {
+    "id_profesor": "1178",
+    "sueldo_profesor": "3760829",
+    "col3": "8348"
+  },
+  {
+    "id_profesor": "1179",
+    "sueldo_profesor": "2047418",
+    "col3": "3432"
+  },
+  {
+    "id_profesor": "1180",
+    "sueldo_profesor": "2255812",
+    "col3": "2417"
+  },
+  {
+    "id_profesor": "1181",
+    "sueldo_profesor": "1592540",
+    "col3": "7260"
+  },
+  {
+    "id_profesor": "1182",
+    "sueldo_profesor": "5381511",
+    "col3": "5940"
+  },
+  {
+    "id_profesor": "1183",
+    "sueldo_profesor": "7745235",
+    "col3": "6745"
+  },
+  {
+    "id_profesor": "1184",
+    "sueldo_profesor": "2302980",
+    "col3": "3719"
+  },
+  {
+    "id_profesor": "1185",
+    "sueldo_profesor": "3009733",
+    "col3": "6086"
+  },
+  {
+    "id_profesor": "1186",
+    "sueldo_profesor": "6996705",
+    "col3": "3536"
+  },
+  {
+    "id_profesor": "1187",
+    "sueldo_profesor": "3271476",
+    "col3": "3925"
+  },
+  {
+    "id_profesor": "1188",
+    "sueldo_profesor": "2075648",
+    "col3": "2862"
+  },
+  {
+    "id_profesor": "1189",
+    "sueldo_profesor": "7913023",
+    "col3": "8758"
+  },
+  {
+    "id_profesor": "1190",
+    "sueldo_profesor": "3757368",
+    "col3": "2180"
+  },
+  {
+    "id_profesor": "1191",
+    "sueldo_profesor": "6019425",
+    "col3": "8774"
+  },
+  {
+    "id_profesor": "1192",
+    "sueldo_profesor": "7351586",
+    "col3": "5875"
+  },
+  {
+    "id_profesor": "1193",
+    "sueldo_profesor": "4385792",
+    "col3": "1932"
+  },
+  {
+    "id_profesor": "1194",
+    "sueldo_profesor": "5727068",
+    "col3": "2556"
+  },
+  {
+    "id_profesor": "1195",
+    "sueldo_profesor": "3401772",
+    "col3": "1704"
+  },
+  {
+    "id_profesor": "1196",
+    "sueldo_profesor": "7921561",
+    "col3": "1641"
+  },
+  {
+    "id_profesor": "1197",
+    "sueldo_profesor": "3317784",
+    "col3": "9616"
+  },
+  {
+    "id_profesor": "1198",
+    "sueldo_profesor": "2641557",
+    "col3": "2878"
+  },
+  {
+    "id_profesor": "1199",
+    "sueldo_profesor": "6056166",
+    "col3": "9643"
+  },
+  {
+    "id_profesor": "1200",
+    "sueldo_profesor": "1767688",
+    "col3": "469"
+  },
+  {
+    "id_profesor": "1201",
+    "sueldo_profesor": "7069968",
+    "col3": "4562"
+  },
+  {
+    "id_profesor": "1202",
+    "sueldo_profesor": "2129054",
+    "col3": "9145"
+  },
+  {
+    "id_profesor": "1203",
+    "sueldo_profesor": "6032142",
+    "col3": "8986"
+  },
+  {
+    "id_profesor": "1204",
+    "sueldo_profesor": "7510231",
+    "col3": "5589"
+  },
+  {
+    "id_profesor": "1205",
+    "sueldo_profesor": "6999209",
+    "col3": "9180"
+  },
+  {
+    "id_profesor": "1206",
+    "sueldo_profesor": "6751715",
+    "col3": "7202"
+  },
+  {
+    "id_profesor": "1207",
+    "sueldo_profesor": "5940010",
+    "col3": "3947"
+  },
+  {
+    "id_profesor": "1208",
+    "sueldo_profesor": "5452578",
+    "col3": "8983"
+  },
+  {
+    "id_profesor": "1209",
+    "sueldo_profesor": "4050831",
+    "col3": "7263"
+  },
+  {
+    "id_profesor": "1210",
+    "sueldo_profesor": "2492027",
+    "col3": "8870"
+  },
+  {
+    "id_profesor": "1211",
+    "sueldo_profesor": "5461825",
+    "col3": "3174"
+  },
+  {
+    "id_profesor": "1212",
+    "sueldo_profesor": "4776412",
+    "col3": "5956"
+  },
+  {
+    "id_profesor": "1213",
+    "sueldo_profesor": "2432281",
+    "col3": "821"
+  },
+  {
+    "id_profesor": "1214",
+    "sueldo_profesor": "5668128",
+    "col3": "4799"
+  },
+  {
+    "id_profesor": "1215",
+    "sueldo_profesor": "3284412",
+    "col3": "55"
+  },
+  {
+    "id_profesor": "1216",
+    "sueldo_profesor": "2120509",
+    "col3": "1280"
+  },
+  {
+    "id_profesor": "1217",
+    "sueldo_profesor": "1505764",
+    "col3": "9504"
+  },
+  {
+    "id_profesor": "1218",
+    "sueldo_profesor": "5717006",
+    "col3": "1287"
+  },
+  {
+    "id_profesor": "1219",
+    "sueldo_profesor": "2585697",
+    "col3": "7703"
+  },
+  {
+    "id_profesor": "1220",
+    "sueldo_profesor": "4617807",
+    "col3": "7680"
+  },
+  {
+    "id_profesor": "1221",
+    "sueldo_profesor": "7253302",
+    "col3": "4338"
+  },
+  {
+    "id_profesor": "1222",
+    "sueldo_profesor": "5509728",
+    "col3": "3145"
+  },
+  {
+    "id_profesor": "1223",
+    "sueldo_profesor": "4815709",
+    "col3": "916"
+  },
+  {
+    "id_profesor": "1224",
+    "sueldo_profesor": "1745530",
+    "col3": "4847"
+  },
+  {
+    "id_profesor": "1225",
+    "sueldo_profesor": "4500892",
+    "col3": "5266"
+  },
+  {
+    "id_profesor": "1226",
+    "sueldo_profesor": "5867418",
+    "col3": "648"
+  },
+  {
+    "id_profesor": "1227",
+    "sueldo_profesor": "7115472",
+    "col3": "4409"
+  },
+  {
+    "id_profesor": "1228",
+    "sueldo_profesor": "3276270",
+    "col3": "7337"
+  },
+  {
+    "id_profesor": "1229",
+    "sueldo_profesor": "3225263",
+    "col3": "2108"
+  },
+  {
+    "id_profesor": "1230",
+    "sueldo_profesor": "4720710",
+    "col3": "1549"
+  },
+  {
+    "id_profesor": "1231",
+    "sueldo_profesor": "3086496",
+    "col3": "5212"
+  },
+  {
+    "id_profesor": "1232",
+    "sueldo_profesor": "1744909",
+    "col3": "9925"
+  },
+  {
+    "id_profesor": "1233",
+    "sueldo_profesor": "4901236",
+    "col3": "5683"
+  },
+  {
+    "id_profesor": "1234",
+    "sueldo_profesor": "3360159",
+    "col3": "3358"
+  },
+  {
+    "id_profesor": "1235",
+    "sueldo_profesor": "1824682",
+    "col3": "8288"
+  },
+  {
+    "id_profesor": "1236",
+    "sueldo_profesor": "4294418",
+    "col3": "9138"
+  },
+  {
+    "id_profesor": "1237",
+    "sueldo_profesor": "7741292",
+    "col3": "2828"
+  },
+  {
+    "id_profesor": "1238",
+    "sueldo_profesor": "2692221",
+    "col3": "7544"
+  },
+  {
+    "id_profesor": "1239",
+    "sueldo_profesor": "7260194",
+    "col3": "2832"
+  },
+  {
+    "id_profesor": "1240",
+    "sueldo_profesor": "5810165",
+    "col3": "2431"
+  },
+  {
+    "id_profesor": "1241",
+    "sueldo_profesor": "6574930",
+    "col3": "5517"
+  },
+  {
+    "id_profesor": "1242",
+    "sueldo_profesor": "6914264",
+    "col3": "7594"
+  },
+  {
+    "id_profesor": "1243",
+    "sueldo_profesor": "2138743",
+    "col3": "1904"
+  },
+  {
+    "id_profesor": "1244",
+    "sueldo_profesor": "2229662",
+    "col3": "1943"
+  },
+  {
+    "id_profesor": "1245",
+    "sueldo_profesor": "2000686",
+    "col3": "3537"
+  },
+  {
+    "id_profesor": "1246",
+    "sueldo_profesor": "5215893",
+    "col3": "4110"
+  },
+  {
+    "id_profesor": "1247",
+    "sueldo_profesor": "4776785",
+    "col3": "1787"
+  },
+  {
+    "id_profesor": "1248",
+    "sueldo_profesor": "2478436",
+    "col3": "2230"
+  },
+  {
+    "id_profesor": "1249",
+    "sueldo_profesor": "2572498",
+    "col3": "4514"
+  },
+  {
+    "id_profesor": "1250",
+    "sueldo_profesor": "6564654",
+    "col3": "790"
+  },
+  {
+    "id_profesor": "1251",
+    "sueldo_profesor": "2567105",
+    "col3": "7567"
+  },
+  {
+    "id_profesor": "1252",
+    "sueldo_profesor": "4387810",
+    "col3": "584"
+  },
+  {
+    "id_profesor": "1253",
+    "sueldo_profesor": "6985838",
+    "col3": "3543"
+  },
+  {
+    "id_profesor": "1254",
+    "sueldo_profesor": "7139926",
+    "col3": "5804"
+  },
+  {
+    "id_profesor": "1255",
+    "sueldo_profesor": "5957482",
+    "col3": "6021"
+  },
+  {
+    "id_profesor": "1256",
+    "sueldo_profesor": "2017546",
+    "col3": "6708"
+  },
+  {
+    "id_profesor": "1257",
+    "sueldo_profesor": "3159512",
+    "col3": "1254"
+  },
+  {
+    "id_profesor": "1258",
+    "sueldo_profesor": "6061147",
+    "col3": "6830"
+  },
+  {
+    "id_profesor": "1259",
+    "sueldo_profesor": "5653703",
+    "col3": "3052"
+  },
+  {
+    "id_profesor": "1260",
+    "sueldo_profesor": "3375426",
+    "col3": "876"
+  },
+  {
+    "id_profesor": "1261",
+    "sueldo_profesor": "5008272",
+    "col3": "7266"
+  },
+  {
+    "id_profesor": "1262",
+    "sueldo_profesor": "5868688",
+    "col3": "8884"
+  },
+  {
+    "id_profesor": "1263",
+    "sueldo_profesor": "6458371",
+    "col3": "5822"
+  },
+  {
+    "id_profesor": "1264",
+    "sueldo_profesor": "4840052",
+    "col3": "3026"
+  },
+  {
+    "id_profesor": "1265",
+    "sueldo_profesor": "2229584",
+    "col3": "1671"
+  },
+  {
+    "id_profesor": "1266",
+    "sueldo_profesor": "4975189",
+    "col3": "1145"
+  },
+  {
+    "id_profesor": "1267",
+    "sueldo_profesor": "5900682",
+    "col3": "9565"
+  },
+  {
+    "id_profesor": "1268",
+    "sueldo_profesor": "4756691",
+    "col3": "7330"
+  },
+  {
+    "id_profesor": "1269",
+    "sueldo_profesor": "6938836",
+    "col3": "3569"
+  },
+  {
+    "id_profesor": "1270",
+    "sueldo_profesor": "2411643",
+    "col3": "4563"
+  },
+  {
+    "id_profesor": "1271",
+    "sueldo_profesor": "2839492",
+    "col3": "9569"
+  },
+  {
+    "id_profesor": "1272",
+    "sueldo_profesor": "5832017",
+    "col3": "5374"
+  },
+  {
+    "id_profesor": "1273",
+    "sueldo_profesor": "3770323",
+    "col3": "9913"
+  },
+  {
+    "id_profesor": "1274",
+    "sueldo_profesor": "3523713",
+    "col3": "8142"
+  },
+  {
+    "id_profesor": "1275",
+    "sueldo_profesor": "7371345",
+    "col3": "1245"
+  },
+  {
+    "id_profesor": "1276",
+    "sueldo_profesor": "3626805",
+    "col3": "4214"
+  },
+  {
+    "id_profesor": "1277",
+    "sueldo_profesor": "1771482",
+    "col3": "7435"
+  },
+  {
+    "id_profesor": "1278",
+    "sueldo_profesor": "6906682",
+    "col3": "7676"
+  },
+  {
+    "id_profesor": "1279",
+    "sueldo_profesor": "5642895",
+    "col3": "4231"
+  },
+  {
+    "id_profesor": "1280",
+    "sueldo_profesor": "7293360",
+    "col3": "6246"
+  },
+  {
+    "id_profesor": "1281",
+    "sueldo_profesor": "6607261",
+    "col3": "584"
+  },
+  {
+    "id_profesor": "1282",
+    "sueldo_profesor": "4093848",
+    "col3": "9412"
+  },
+  {
+    "id_profesor": "1283",
+    "sueldo_profesor": "7811873",
+    "col3": "1822"
+  },
+  {
+    "id_profesor": "1284",
+    "sueldo_profesor": "6514677",
+    "col3": "7412"
+  },
+  {
+    "id_profesor": "1285",
+    "sueldo_profesor": "1592678",
+    "col3": "7096"
+  },
+  {
+    "id_profesor": "1286",
+    "sueldo_profesor": "3394287",
+    "col3": "6016"
+  },
+  {
+    "id_profesor": "1287",
+    "sueldo_profesor": "3040452",
+    "col3": "3958"
+  },
+  {
+    "id_profesor": "1288",
+    "sueldo_profesor": "6167762",
+    "col3": "1205"
+  },
+  {
+    "id_profesor": "1289",
+    "sueldo_profesor": "3825643",
+    "col3": "2474"
+  },
+  {
+    "id_profesor": "1290",
+    "sueldo_profesor": "1596598",
+    "col3": "9445"
+  },
+  {
+    "id_profesor": "1291",
+    "sueldo_profesor": "1866960",
+    "col3": "5122"
+  },
+  {
+    "id_profesor": "1292",
+    "sueldo_profesor": "2020211",
+    "col3": "2882"
+  },
+  {
+    "id_profesor": "1293",
+    "sueldo_profesor": "7121666",
+    "col3": "6671"
+  },
+  {
+    "id_profesor": "1294",
+    "sueldo_profesor": "4380724",
+    "col3": "9719"
+  },
+  {
+    "id_profesor": "1295",
+    "sueldo_profesor": "5212567",
+    "col3": "1880"
+  },
+  {
+    "id_profesor": "1296",
+    "sueldo_profesor": "1688113",
+    "col3": "121"
+  },
+  {
+    "id_profesor": "1297",
+    "sueldo_profesor": "1640180",
+    "col3": "6741"
+  },
+  {
+    "id_profesor": "1298",
+    "sueldo_profesor": "6418858",
+    "col3": "2563"
+  },
+  {
+    "id_profesor": "1299",
+    "sueldo_profesor": "2125808",
+    "col3": "6212"
+  },
+  {
+    "id_profesor": "1300",
+    "sueldo_profesor": "3872333",
+    "col3": "3831"
+  },
+  {
+    "id_profesor": "1301",
+    "sueldo_profesor": "5316901",
+    "col3": "6005"
+  },
+  {
+    "id_profesor": "1302",
+    "sueldo_profesor": "7461442",
+    "col3": "7193"
+  },
+  {
+    "id_profesor": "1303",
+    "sueldo_profesor": "1742557",
+    "col3": "3915"
+  },
+  {
+    "id_profesor": "1304",
+    "sueldo_profesor": "4088418",
+    "col3": "1814"
+  },
+  {
+    "id_profesor": "1305",
+    "sueldo_profesor": "7033199",
+    "col3": "3443"
+  },
+  {
+    "id_profesor": "1306",
+    "sueldo_profesor": "3973691",
+    "col3": "3037"
+  },
+  {
+    "id_profesor": "1307",
+    "sueldo_profesor": "6800940",
+    "col3": "3215"
+  },
+  {
+    "id_profesor": "1308",
+    "sueldo_profesor": "3615660",
+    "col3": "8262"
+  },
+  {
+    "id_profesor": "1309",
+    "sueldo_profesor": "3589570",
+    "col3": "9485"
+  },
+  {
+    "id_profesor": "1310",
+    "sueldo_profesor": "2715153",
+    "col3": "637"
+  },
+  {
+    "id_profesor": "1311",
+    "sueldo_profesor": "1756865",
+    "col3": "106"
+  },
+  {
+    "id_profesor": "1312",
+    "sueldo_profesor": "3227779",
+    "col3": "3167"
+  },
+  {
+    "id_profesor": "1313",
+    "sueldo_profesor": "6601953",
+    "col3": "8797"
+  },
+  {
+    "id_profesor": "1314",
+    "sueldo_profesor": "7478162",
+    "col3": "3872"
+  },
+  {
+    "id_profesor": "1315",
+    "sueldo_profesor": "2012718",
+    "col3": "2356"
+  },
+  {
+    "id_profesor": "1316",
+    "sueldo_profesor": "3112408",
+    "col3": "2831"
+  },
+  {
+    "id_profesor": "1317",
+    "sueldo_profesor": "4137620",
+    "col3": "470"
+  },
+  {
+    "id_profesor": "1318",
+    "sueldo_profesor": "7224869",
+    "col3": "558"
+  },
+  {
+    "id_profesor": "1319",
+    "sueldo_profesor": "5783539",
+    "col3": "5756"
+  },
+  {
+    "id_profesor": "1320",
+    "sueldo_profesor": "5512378",
+    "col3": "8251"
+  },
+  {
+    "id_profesor": "1321",
+    "sueldo_profesor": "5227789",
+    "col3": "3190"
+  },
+  {
+    "id_profesor": "1322",
+    "sueldo_profesor": "7729237",
+    "col3": "2940"
+  },
+  {
+    "id_profesor": "1323",
+    "sueldo_profesor": "3937997",
+    "col3": "6148"
+  },
+  {
+    "id_profesor": "1324",
+    "sueldo_profesor": "6382275",
+    "col3": "1748"
+  },
+  {
+    "id_profesor": "1325",
+    "sueldo_profesor": "4727600",
+    "col3": "6679"
+  },
+  {
+    "id_profesor": "1326",
+    "sueldo_profesor": "5497572",
+    "col3": "8400"
+  },
+  {
+    "id_profesor": "1327",
+    "sueldo_profesor": "5152229",
+    "col3": "9720"
+  },
+  {
+    "id_profesor": "1328",
+    "sueldo_profesor": "4758116",
+    "col3": "2618"
+  },
+  {
+    "id_profesor": "1329",
+    "sueldo_profesor": "6228546",
+    "col3": "1302"
+  },
+  {
+    "id_profesor": "1330",
+    "sueldo_profesor": "6235970",
+    "col3": "1022"
+  },
+  {
+    "id_profesor": "1331",
+    "sueldo_profesor": "1609746",
+    "col3": "6033"
+  },
+  {
+    "id_profesor": "1332",
+    "sueldo_profesor": "2304405",
+    "col3": "1398"
+  },
+  {
+    "id_profesor": "1333",
+    "sueldo_profesor": "7325702",
+    "col3": "1116"
+  },
+  {
+    "id_profesor": "1334",
+    "sueldo_profesor": "6113755",
+    "col3": "1799"
+  },
+  {
+    "id_profesor": "1335",
+    "sueldo_profesor": "3235488",
+    "col3": "4096"
+  },
+  {
+    "id_profesor": "1336",
+    "sueldo_profesor": "2128771",
+    "col3": "6743"
+  },
+  {
+    "id_profesor": "1337",
+    "sueldo_profesor": "2454996",
+    "col3": "1485"
+  },
+  {
+    "id_profesor": "1338",
+    "sueldo_profesor": "5561421",
+    "col3": "3109"
+  },
+  {
+    "id_profesor": "1339",
+    "sueldo_profesor": "7188980",
+    "col3": "932"
+  },
+  {
+    "id_profesor": "1340",
+    "sueldo_profesor": "2082091",
+    "col3": "764"
+  },
+  {
+    "id_profesor": "1341",
+    "sueldo_profesor": "2145593",
+    "col3": "4377"
+  },
+  {
+    "id_profesor": "1342",
+    "sueldo_profesor": "3413687",
+    "col3": "6457"
+  },
+  {
+    "id_profesor": "1343",
+    "sueldo_profesor": "2544360",
+    "col3": "2365"
+  },
+  {
+    "id_profesor": "1344",
+    "sueldo_profesor": "6162791",
+    "col3": "6044"
+  },
+  {
+    "id_profesor": "1345",
+    "sueldo_profesor": "3777406",
+    "col3": "1180"
+  },
+  {
+    "id_profesor": "1346",
+    "sueldo_profesor": "7108800",
+    "col3": "8580"
+  },
+  {
+    "id_profesor": "1347",
+    "sueldo_profesor": "4100233",
+    "col3": "730"
+  },
+  {
+    "id_profesor": "1348",
+    "sueldo_profesor": "5816301",
+    "col3": "4075"
+  },
+  {
+    "id_profesor": "1349",
+    "sueldo_profesor": "2231101",
+    "col3": "6740"
+  },
+  {
+    "id_profesor": "1350",
+    "sueldo_profesor": "5405986",
+    "col3": "2367"
+  },
+  {
+    "id_profesor": "1351",
+    "sueldo_profesor": "6153885",
+    "col3": "1494"
+  },
+  {
+    "id_profesor": "1352",
+    "sueldo_profesor": "6557068",
+    "col3": "3423"
+  },
+  {
+    "id_profesor": "1353",
+    "sueldo_profesor": "3265065",
+    "col3": "342"
+  },
+  {
+    "id_profesor": "1354",
+    "sueldo_profesor": "7678232",
+    "col3": "5285"
+  },
+  {
+    "id_profesor": "1355",
+    "sueldo_profesor": "5338971",
+    "col3": "9095"
+  },
+  {
+    "id_profesor": "1356",
+    "sueldo_profesor": "5070069",
+    "col3": "89"
+  },
+  {
+    "id_profesor": "1357",
+    "sueldo_profesor": "3207369",
+    "col3": "330"
+  },
+  {
+    "id_profesor": "1358",
+    "sueldo_profesor": "3117877",
+    "col3": "1175"
+  },
+  {
+    "id_profesor": "1359",
+    "sueldo_profesor": "7960384",
+    "col3": "1041"
+  },
+  {
+    "id_profesor": "1360",
+    "sueldo_profesor": "1665427",
+    "col3": "2011"
+  },
+  {
+    "id_profesor": "1361",
+    "sueldo_profesor": "7086938",
+    "col3": "9651"
+  },
+  {
+    "id_profesor": "1362",
+    "sueldo_profesor": "2298520",
+    "col3": "6422"
+  },
+  {
+    "id_profesor": "1363",
+    "sueldo_profesor": "7645955",
+    "col3": "7137"
+  },
+  {
+    "id_profesor": "1364",
+    "sueldo_profesor": "3500246",
+    "col3": "2678"
+  },
+  {
+    "id_profesor": "1365",
+    "sueldo_profesor": "6900944",
+    "col3": "3798"
+  },
+  {
+    "id_profesor": "1366",
+    "sueldo_profesor": "3499005",
+    "col3": "1073"
+  },
+  {
+    "id_profesor": "1367",
+    "sueldo_profesor": "4348515",
+    "col3": "215"
+  },
+  {
+    "id_profesor": "1368",
+    "sueldo_profesor": "4343451",
+    "col3": "8275"
+  },
+  {
+    "id_profesor": "1369",
+    "sueldo_profesor": "2762273",
+    "col3": "1501"
+  },
+  {
+    "id_profesor": "1370",
+    "sueldo_profesor": "1834306",
+    "col3": "3677"
+  },
+  {
+    "id_profesor": "1371",
+    "sueldo_profesor": "3912341",
+    "col3": "6664"
+  },
+  {
+    "id_profesor": "1372",
+    "sueldo_profesor": "4109381",
+    "col3": "4437"
+  },
+  {
+    "id_profesor": "1373",
+    "sueldo_profesor": "3698815",
+    "col3": "3073"
+  },
+  {
+    "id_profesor": "1374",
+    "sueldo_profesor": "4811882",
+    "col3": "9633"
+  },
+  {
+    "id_profesor": "1375",
+    "sueldo_profesor": "7019209",
+    "col3": "3855"
+  },
+  {
+    "id_profesor": "1376",
+    "sueldo_profesor": "5124388",
+    "col3": "6861"
+  },
+  {
+    "id_profesor": "1377",
+    "sueldo_profesor": "7305312",
+    "col3": "9512"
+  },
+  {
+    "id_profesor": "1378",
+    "sueldo_profesor": "1569748",
+    "col3": "6776"
+  },
+  {
+    "id_profesor": "1379",
+    "sueldo_profesor": "4616403",
+    "col3": "5222"
+  },
+  {
+    "id_profesor": "1380",
+    "sueldo_profesor": "4520574",
+    "col3": "5987"
+  },
+  {
+    "id_profesor": "1381",
+    "sueldo_profesor": "7532221",
+    "col3": "9829"
+  },
+  {
+    "id_profesor": "1382",
+    "sueldo_profesor": "2257553",
+    "col3": "6151"
+  },
+  {
+    "id_profesor": "1383",
+    "sueldo_profesor": "7592260",
+    "col3": "1514"
+  },
+  {
+    "id_profesor": "1384",
+    "sueldo_profesor": "7706169",
+    "col3": "3280"
+  },
+  {
+    "id_profesor": "1385",
+    "sueldo_profesor": "6883024",
+    "col3": "9557"
+  },
+  {
+    "id_profesor": "1386",
+    "sueldo_profesor": "6900549",
+    "col3": "4439"
+  },
+  {
+    "id_profesor": "1387",
+    "sueldo_profesor": "6277099",
+    "col3": "1855"
+  },
+  {
+    "id_profesor": "1388",
+    "sueldo_profesor": "5229362",
+    "col3": "6760"
+  },
+  {
+    "id_profesor": "1389",
+    "sueldo_profesor": "7710926",
+    "col3": "9306"
+  },
+  {
+    "id_profesor": "1390",
+    "sueldo_profesor": "7513993",
+    "col3": "3920"
+  },
+  {
+    "id_profesor": "1391",
+    "sueldo_profesor": "5529909",
+    "col3": "7262"
+  },
+  {
+    "id_profesor": "1392",
+    "sueldo_profesor": "7845385",
+    "col3": "2004"
+  },
+  {
+    "id_profesor": "1393",
+    "sueldo_profesor": "3846980",
+    "col3": "2937"
+  },
+  {
+    "id_profesor": "1394",
+    "sueldo_profesor": "5835589",
+    "col3": "9642"
+  },
+  {
+    "id_profesor": "1395",
+    "sueldo_profesor": "7807837",
+    "col3": "1162"
+  },
+  {
+    "id_profesor": "1396",
+    "sueldo_profesor": "5655967",
+    "col3": "3139"
+  },
+  {
+    "id_profesor": "1397",
+    "sueldo_profesor": "1821296",
+    "col3": "3068"
+  },
+  {
+    "id_profesor": "1398",
+    "sueldo_profesor": "3637823",
+    "col3": "7958"
+  },
+  {
+    "id_profesor": "1399",
+    "sueldo_profesor": "7995082",
+    "col3": "8313"
+  },
+  {
+    "id_profesor": "1400",
+    "sueldo_profesor": "4847147",
+    "col3": "9740"
+  },
+  {
+    "id_profesor": "1401",
+    "sueldo_profesor": "7730230",
+    "col3": "7672"
+  },
+  {
+    "id_profesor": "1402",
+    "sueldo_profesor": "1819531",
+    "col3": "4040"
+  },
+  {
+    "id_profesor": "1403",
+    "sueldo_profesor": "3222829",
+    "col3": "8249"
+  },
+  {
+    "id_profesor": "1404",
+    "sueldo_profesor": "7903309",
+    "col3": "4512"
+  },
+  {
+    "id_profesor": "1405",
+    "sueldo_profesor": "2782089",
+    "col3": "9260"
+  },
+  {
+    "id_profesor": "1406",
+    "sueldo_profesor": "6017268",
+    "col3": "8722"
+  },
+  {
+    "id_profesor": "1407",
+    "sueldo_profesor": "3744588",
+    "col3": "5139"
+  },
+  {
+    "id_profesor": "1408",
+    "sueldo_profesor": "5041094",
+    "col3": "2995"
+  },
+  {
+    "id_profesor": "1409",
+    "sueldo_profesor": "5062869",
+    "col3": "1457"
+  },
+  {
+    "id_profesor": "1410",
+    "sueldo_profesor": "1659625",
+    "col3": "1426"
+  },
+  {
+    "id_profesor": "1411",
+    "sueldo_profesor": "1693254",
+    "col3": "1438"
+  },
+  {
+    "id_profesor": "1412",
+    "sueldo_profesor": "7659027",
+    "col3": "8327"
+  },
+  {
+    "id_profesor": "1413",
+    "sueldo_profesor": "7364640",
+    "col3": "7192"
+  },
+  {
+    "id_profesor": "1414",
+    "sueldo_profesor": "3761871",
+    "col3": "14"
+  },
+  {
+    "id_profesor": "1415",
+    "sueldo_profesor": "6444647",
+    "col3": "9748"
+  },
+  {
+    "id_profesor": "1416",
+    "sueldo_profesor": "6267182",
+    "col3": "8979"
+  },
+  {
+    "id_profesor": "1417",
+    "sueldo_profesor": "5415851",
+    "col3": "4571"
+  },
+  {
+    "id_profesor": "1418",
+    "sueldo_profesor": "4494027",
+    "col3": "4013"
+  },
+  {
+    "id_profesor": "1419",
+    "sueldo_profesor": "4019441",
+    "col3": "5644"
+  },
+  {
+    "id_profesor": "1420",
+    "sueldo_profesor": "7295797",
+    "col3": "4793"
+  },
+  {
+    "id_profesor": "1421",
+    "sueldo_profesor": "6591257",
+    "col3": "8901"
+  },
+  {
+    "id_profesor": "1422",
+    "sueldo_profesor": "1585159",
+    "col3": "9879"
+  },
+  {
+    "id_profesor": "1423",
+    "sueldo_profesor": "4248875",
+    "col3": "5215"
+  },
+  {
+    "id_profesor": "1424",
+    "sueldo_profesor": "3253839",
+    "col3": "1595"
+  },
+  {
+    "id_profesor": "1425",
+    "sueldo_profesor": "1518283",
+    "col3": "1441"
+  },
+  {
+    "id_profesor": "1426",
+    "sueldo_profesor": "6828917",
+    "col3": "2904"
+  },
+  {
+    "id_profesor": "1427",
+    "sueldo_profesor": "6717856",
+    "col3": "1105"
+  },
+  {
+    "id_profesor": "1428",
+    "sueldo_profesor": "3220933",
+    "col3": "7013"
+  },
+  {
+    "id_profesor": "1429",
+    "sueldo_profesor": "5116080",
+    "col3": "4072"
+  },
+  {
+    "id_profesor": "1430",
+    "sueldo_profesor": "6498865",
+    "col3": "1083"
+  },
+  {
+    "id_profesor": "1431",
+    "sueldo_profesor": "1920428",
+    "col3": "1736"
+  },
+  {
+    "id_profesor": "1432",
+    "sueldo_profesor": "6362627",
+    "col3": "5616"
+  },
+  {
+    "id_profesor": "1433",
+    "sueldo_profesor": "2502310",
+    "col3": "3349"
+  },
+  {
+    "id_profesor": "1434",
+    "sueldo_profesor": "6874353",
+    "col3": "5669"
+  },
+  {
+    "id_profesor": "1435",
+    "sueldo_profesor": "6304553",
+    "col3": "3467"
+  },
+  {
+    "id_profesor": "1436",
+    "sueldo_profesor": "1914966",
+    "col3": "1413"
+  },
+  {
+    "id_profesor": "1437",
+    "sueldo_profesor": "6458587",
+    "col3": "2805"
+  },
+  {
+    "id_profesor": "1438",
+    "sueldo_profesor": "6812439",
+    "col3": "798"
+  },
+  {
+    "id_profesor": "1439",
+    "sueldo_profesor": "5839335",
+    "col3": "8554"
+  },
+  {
+    "id_profesor": "1440",
+    "sueldo_profesor": "6568401",
+    "col3": "4660"
+  },
+  {
+    "id_profesor": "1441",
+    "sueldo_profesor": "3300333",
+    "col3": "3138"
+  },
+  {
+    "id_profesor": "1442",
+    "sueldo_profesor": "1542765",
+    "col3": "4815"
+  },
+  {
+    "id_profesor": "1443",
+    "sueldo_profesor": "5337167",
+    "col3": "7398"
+  },
+  {
+    "id_profesor": "1444",
+    "sueldo_profesor": "4117511",
+    "col3": "8303"
+  },
+  {
+    "id_profesor": "1445",
+    "sueldo_profesor": "2056821",
+    "col3": "2156"
+  },
+  {
+    "id_profesor": "1446",
+    "sueldo_profesor": "4736590",
+    "col3": "5306"
+  },
+  {
+    "id_profesor": "1447",
+    "sueldo_profesor": "2700563",
+    "col3": "4469"
+  },
+  {
+    "id_profesor": "1448",
+    "sueldo_profesor": "6596682",
+    "col3": "1442"
+  },
+  {
+    "id_profesor": "1449",
+    "sueldo_profesor": "6949494",
+    "col3": "775"
+  },
+  {
+    "id_profesor": "1450",
+    "sueldo_profesor": "2761342",
+    "col3": "3202"
+  },
+  {
+    "id_profesor": "1451",
+    "sueldo_profesor": "2357319",
+    "col3": "4138"
+  },
+  {
+    "id_profesor": "1452",
+    "sueldo_profesor": "4804306",
+    "col3": "8906"
+  },
+  {
+    "id_profesor": "1453",
+    "sueldo_profesor": "6917743",
+    "col3": "6163"
+  },
+  {
+    "id_profesor": "1454",
+    "sueldo_profesor": "1566661",
+    "col3": "9917"
+  },
+  {
+    "id_profesor": "1455",
+    "sueldo_profesor": "2454322",
+    "col3": "7915"
+  },
+  {
+    "id_profesor": "1456",
+    "sueldo_profesor": "7781335",
+    "col3": "9256"
+  },
+  {
+    "id_profesor": "1457",
+    "sueldo_profesor": "7440631",
+    "col3": "3810"
+  },
+  {
+    "id_profesor": "1458",
+    "sueldo_profesor": "4968059",
+    "col3": "98"
+  },
+  {
+    "id_profesor": "1459",
+    "sueldo_profesor": "2434253",
+    "col3": "3056"
+  },
+  {
+    "id_profesor": "1460",
+    "sueldo_profesor": "5644944",
+    "col3": "4878"
+  },
+  {
+    "id_profesor": "1461",
+    "sueldo_profesor": "4787073",
+    "col3": "9180"
+  },
+  {
+    "id_profesor": "1462",
+    "sueldo_profesor": "7219701",
+    "col3": "8067"
+  },
+  {
+    "id_profesor": "1463",
+    "sueldo_profesor": "3002534",
+    "col3": "5618"
+  },
+  {
+    "id_profesor": "1464",
+    "sueldo_profesor": "3026358",
+    "col3": "4849"
+  },
+  {
+    "id_profesor": "1465",
+    "sueldo_profesor": "6454909",
+    "col3": "9629"
+  },
+  {
+    "id_profesor": "1466",
+    "sueldo_profesor": "1987368",
+    "col3": "603"
+  },
+  {
+    "id_profesor": "1467",
+    "sueldo_profesor": "1728487",
+    "col3": "3562"
+  },
+  {
+    "id_profesor": "1468",
+    "sueldo_profesor": "5926004",
+    "col3": "5805"
+  },
+  {
+    "id_profesor": "1469",
+    "sueldo_profesor": "7850491",
+    "col3": "7245"
+  },
+  {
+    "id_profesor": "1470",
+    "sueldo_profesor": "5976672",
+    "col3": "8888"
+  },
+  {
+    "id_profesor": "1471",
+    "sueldo_profesor": "5850745",
+    "col3": "8468"
+  },
+  {
+    "id_profesor": "1472",
+    "sueldo_profesor": "3664908",
+    "col3": "2377"
+  },
+  {
+    "id_profesor": "1473",
+    "sueldo_profesor": "5115652",
+    "col3": "9230"
+  },
+  {
+    "id_profesor": "1474",
+    "sueldo_profesor": "2092642",
+    "col3": "1132"
+  },
+  {
+    "id_profesor": "1475",
+    "sueldo_profesor": "5102638",
+    "col3": "4785"
+  },
+  {
+    "id_profesor": "1476",
+    "sueldo_profesor": "7290798",
+    "col3": "6530"
+  },
+  {
+    "id_profesor": "1477",
+    "sueldo_profesor": "5761413",
+    "col3": "2995"
+  },
+  {
+    "id_profesor": "1478",
+    "sueldo_profesor": "4600691",
+    "col3": "9438"
+  },
+  {
+    "id_profesor": "1479",
+    "sueldo_profesor": "6324485",
+    "col3": "7003"
+  },
+  {
+    "id_profesor": "1480",
+    "sueldo_profesor": "3218711",
+    "col3": "6979"
+  },
+  {
+    "id_profesor": "1481",
+    "sueldo_profesor": "1592142",
+    "col3": "333"
+  },
+  {
+    "id_profesor": "1482",
+    "sueldo_profesor": "4291773",
+    "col3": "3418"
+  },
+  {
+    "id_profesor": "1483",
+    "sueldo_profesor": "4996319",
+    "col3": "4314"
+  },
+  {
+    "id_profesor": "1484",
+    "sueldo_profesor": "5701243",
+    "col3": "3493"
+  },
+  {
+    "id_profesor": "1485",
+    "sueldo_profesor": "3701132",
+    "col3": "3361"
+  },
+  {
+    "id_profesor": "1486",
+    "sueldo_profesor": "6071814",
+    "col3": "8331"
+  },
+  {
+    "id_profesor": "1487",
+    "sueldo_profesor": "6333428",
+    "col3": "8832"
+  },
+  {
+    "id_profesor": "1488",
+    "sueldo_profesor": "3896224",
+    "col3": "9673"
+  },
+  {
+    "id_profesor": "1489",
+    "sueldo_profesor": "6067050",
+    "col3": "6028"
+  },
+  {
+    "id_profesor": "1490",
+    "sueldo_profesor": "3846113",
+    "col3": "1130"
+  },
+  {
+    "id_profesor": "1491",
+    "sueldo_profesor": "7630863",
+    "col3": "3442"
+  },
+  {
+    "id_profesor": "1492",
+    "sueldo_profesor": "3799639",
+    "col3": "4887"
+  },
+  {
+    "id_profesor": "1493",
+    "sueldo_profesor": "7355601",
+    "col3": "2162"
+  },
+  {
+    "id_profesor": "1494",
+    "sueldo_profesor": "4289455",
+    "col3": "5449"
+  },
+  {
+    "id_profesor": "1495",
+    "sueldo_profesor": "2010070",
+    "col3": "4"
+  },
+  {
+    "id_profesor": "1496",
+    "sueldo_profesor": "3294069",
+    "col3": "6183"
+  },
+  {
+    "id_profesor": "1497",
+    "sueldo_profesor": "5223721",
+    "col3": "1531"
+  },
+  {
+    "id_profesor": "1498",
+    "sueldo_profesor": "3064676",
+    "col3": "2481"
+  },
+  {
+    "id_profesor": "1499",
+    "sueldo_profesor": "4368708",
+    "col3": "8558"
+  },
+  {
+    "id_profesor": "1500",
+    "sueldo_profesor": "3691030",
+    "col3": "7074"
+  },
+  {
+    "id_profesor": "1501",
+    "sueldo_profesor": "1891188",
+    "col3": "582"
+  },
+  {
+    "id_profesor": "1502",
+    "sueldo_profesor": "4274009",
+    "col3": "9347"
+  },
+  {
+    "id_profesor": "1503",
+    "sueldo_profesor": "6378861",
+    "col3": "9972"
+  },
+  {
+    "id_profesor": "1504",
+    "sueldo_profesor": "3510732",
+    "col3": "4371"
+  },
+  {
+    "id_profesor": "1505",
+    "sueldo_profesor": "4066108",
+    "col3": "4729"
+  },
+  {
+    "id_profesor": "1506",
+    "sueldo_profesor": "7086526",
+    "col3": "5299"
+  },
+  {
+    "id_profesor": "1507",
+    "sueldo_profesor": "6702679",
+    "col3": "7562"
+  },
+  {
+    "id_profesor": "1508",
+    "sueldo_profesor": "2333381",
+    "col3": "6076"
+  },
+  {
+    "id_profesor": "1509",
+    "sueldo_profesor": "5131773",
+    "col3": "2951"
+  },
+  {
+    "id_profesor": "1510",
+    "sueldo_profesor": "3084044",
+    "col3": "5634"
+  },
+  {
+    "id_profesor": "1511",
+    "sueldo_profesor": "6272841",
+    "col3": "7905"
+  },
+  {
+    "id_profesor": "1512",
+    "sueldo_profesor": "5549395",
+    "col3": "8941"
+  },
+  {
+    "id_profesor": "1513",
+    "sueldo_profesor": "5934816",
+    "col3": "3536"
+  },
+  {
+    "id_profesor": "1514",
+    "sueldo_profesor": "5020103",
+    "col3": "6763"
+  },
+  {
+    "id_profesor": "1515",
+    "sueldo_profesor": "1876357",
+    "col3": "344"
+  },
+  {
+    "id_profesor": "1516",
+    "sueldo_profesor": "1903685",
+    "col3": "1546"
+  },
+  {
+    "id_profesor": "1517",
+    "sueldo_profesor": "3599648",
+    "col3": "6978"
+  },
+  {
+    "id_profesor": "1518",
+    "sueldo_profesor": "4395586",
+    "col3": "4946"
+  },
+  {
+    "id_profesor": "1519",
+    "sueldo_profesor": "2199419",
+    "col3": "7996"
+  },
+  {
+    "id_profesor": "1520",
+    "sueldo_profesor": "2958287",
+    "col3": "1159"
+  },
+  {
+    "id_profesor": "1521",
+    "sueldo_profesor": "3072406",
+    "col3": "4762"
+  },
+  {
+    "id_profesor": "1522",
+    "sueldo_profesor": "4780312",
+    "col3": "370"
+  },
+  {
+    "id_profesor": "1523",
+    "sueldo_profesor": "7965255",
+    "col3": "3428"
+  },
+  {
+    "id_profesor": "1524",
+    "sueldo_profesor": "7342241",
+    "col3": "8992"
+  },
+  {
+    "id_profesor": "1525",
+    "sueldo_profesor": "5956436",
+    "col3": "2056"
+  },
+  {
+    "id_profesor": "1526",
+    "sueldo_profesor": "4934049",
+    "col3": "5556"
+  },
+  {
+    "id_profesor": "1527",
+    "sueldo_profesor": "4848942",
+    "col3": "6920"
+  },
+  {
+    "id_profesor": "1528",
+    "sueldo_profesor": "4225538",
+    "col3": "239"
+  },
+  {
+    "id_profesor": "1529",
+    "sueldo_profesor": "6813963",
+    "col3": "9217"
+  },
+  {
+    "id_profesor": "1530",
+    "sueldo_profesor": "4179920",
+    "col3": "8738"
+  },
+  {
+    "id_profesor": "1531",
+    "sueldo_profesor": "7822917",
+    "col3": "5115"
+  },
+  {
+    "id_profesor": "1532",
+    "sueldo_profesor": "4260021",
+    "col3": "3374"
+  },
+  {
+    "id_profesor": "1533",
+    "sueldo_profesor": "3807368",
+    "col3": "4035"
+  },
+  {
+    "id_profesor": "1534",
+    "sueldo_profesor": "4166186",
+    "col3": "5666"
+  },
+  {
+    "id_profesor": "1535",
+    "sueldo_profesor": "5079208",
+    "col3": "4164"
+  },
+  {
+    "id_profesor": "1536",
+    "sueldo_profesor": "4774342",
+    "col3": "2153"
+  },
+  {
+    "id_profesor": "1537",
+    "sueldo_profesor": "4241013",
+    "col3": "9446"
+  },
+  {
+    "id_profesor": "1538",
+    "sueldo_profesor": "5276309",
+    "col3": "1398"
+  },
+  {
+    "id_profesor": "1539",
+    "sueldo_profesor": "2561522",
+    "col3": "5231"
+  },
+  {
+    "id_profesor": "1540",
+    "sueldo_profesor": "4285682",
+    "col3": "2452"
+  },
+  {
+    "id_profesor": "1541",
+    "sueldo_profesor": "2589181",
+    "col3": "7359"
+  },
+  {
+    "id_profesor": "1542",
+    "sueldo_profesor": "7410906",
+    "col3": "1996"
+  },
+  {
+    "id_profesor": "1543",
+    "sueldo_profesor": "7059662",
+    "col3": "8443"
+  },
+  {
+    "id_profesor": "1544",
+    "sueldo_profesor": "5630819",
+    "col3": "8875"
+  },
+  {
+    "id_profesor": "1545",
+    "sueldo_profesor": "2589797",
+    "col3": "5144"
+  },
+  {
+    "id_profesor": "1546",
+    "sueldo_profesor": "2253451",
+    "col3": "1280"
+  },
+  {
+    "id_profesor": "1547",
+    "sueldo_profesor": "3542978",
+    "col3": "7929"
+  },
+  {
+    "id_profesor": "1548",
+    "sueldo_profesor": "2886445",
+    "col3": "9858"
+  },
+  {
+    "id_profesor": "1549",
+    "sueldo_profesor": "3955330",
+    "col3": "1158"
+  },
+  {
+    "id_profesor": "1550",
+    "sueldo_profesor": "6461679",
+    "col3": "6485"
+  },
+  {
+    "id_profesor": "1551",
+    "sueldo_profesor": "5055135",
+    "col3": "7347"
+  },
+  {
+    "id_profesor": "1552",
+    "sueldo_profesor": "4814163",
+    "col3": "9900"
+  },
+  {
+    "id_profesor": "1553",
+    "sueldo_profesor": "4060083",
+    "col3": "6280"
+  },
+  {
+    "id_profesor": "1554",
+    "sueldo_profesor": "3290098",
+    "col3": "7045"
+  },
+  {
+    "id_profesor": "1555",
+    "sueldo_profesor": "3723969",
+    "col3": "5414"
+  },
+  {
+    "id_profesor": "1556",
+    "sueldo_profesor": "6171204",
+    "col3": "9825"
+  },
+  {
+    "id_profesor": "1557",
+    "sueldo_profesor": "3682037",
+    "col3": "6416"
+  },
+  {
+    "id_profesor": "1558",
+    "sueldo_profesor": "6542810",
+    "col3": "9573"
+  },
+  {
+    "id_profesor": "1559",
+    "sueldo_profesor": "3759253",
+    "col3": "9599"
+  },
+  {
+    "id_profesor": "1560",
+    "sueldo_profesor": "3556881",
+    "col3": "4666"
+  },
+  {
+    "id_profesor": "1561",
+    "sueldo_profesor": "5354207",
+    "col3": "259"
+  },
+  {
+    "id_profesor": "1562",
+    "sueldo_profesor": "6394169",
+    "col3": "9520"
+  },
+  {
+    "id_profesor": "1563",
+    "sueldo_profesor": "2374034",
+    "col3": "2595"
+  },
+  {
+    "id_profesor": "1564",
+    "sueldo_profesor": "4108129",
+    "col3": "5932"
+  },
+  {
+    "id_profesor": "1565",
+    "sueldo_profesor": "7709293",
+    "col3": "2368"
+  },
+  {
+    "id_profesor": "1566",
+    "sueldo_profesor": "2534087",
+    "col3": "6458"
+  },
+  {
+    "id_profesor": "1567",
+    "sueldo_profesor": "5972324",
+    "col3": "5324"
+  },
+  {
+    "id_profesor": "1568",
+    "sueldo_profesor": "7336143",
+    "col3": "3083"
+  },
+  {
+    "id_profesor": "1569",
+    "sueldo_profesor": "5598794",
+    "col3": "7238"
+  },
+  {
+    "id_profesor": "1570",
+    "sueldo_profesor": "6251075",
+    "col3": "8373"
+  },
+  {
+    "id_profesor": "1571",
+    "sueldo_profesor": "2365249",
+    "col3": "6024"
+  },
+  {
+    "id_profesor": "1572",
+    "sueldo_profesor": "4364731",
+    "col3": "7256"
+  },
+  {
+    "id_profesor": "1573",
+    "sueldo_profesor": "3493218",
+    "col3": "3754"
+  },
+  {
+    "id_profesor": "1574",
+    "sueldo_profesor": "2528933",
+    "col3": "8974"
+  },
+  {
+    "id_profesor": "1575",
+    "sueldo_profesor": "3843062",
+    "col3": "8598"
+  },
+  {
+    "id_profesor": "1576",
+    "sueldo_profesor": "4351396",
+    "col3": "3856"
+  },
+  {
+    "id_profesor": "1577",
+    "sueldo_profesor": "4652639",
+    "col3": "4351"
+  },
+  {
+    "id_profesor": "1578",
+    "sueldo_profesor": "2219459",
+    "col3": "3256"
+  },
+  {
+    "id_profesor": "1579",
+    "sueldo_profesor": "3829575",
+    "col3": "3341"
+  },
+  {
+    "id_profesor": "1580",
+    "sueldo_profesor": "6646788",
+    "col3": "1449"
+  },
+  {
+    "id_profesor": "1581",
+    "sueldo_profesor": "6160251",
+    "col3": "608"
+  },
+  {
+    "id_profesor": "1582",
+    "sueldo_profesor": "3603293",
+    "col3": "6589"
+  },
+  {
+    "id_profesor": "1583",
+    "sueldo_profesor": "1582067",
+    "col3": "1016"
+  },
+  {
+    "id_profesor": "1584",
+    "sueldo_profesor": "4590160",
+    "col3": "9235"
+  },
+  {
+    "id_profesor": "1585",
+    "sueldo_profesor": "2088179",
+    "col3": "8354"
+  },
+  {
+    "id_profesor": "1586",
+    "sueldo_profesor": "7131727",
+    "col3": "2617"
+  },
+  {
+    "id_profesor": "1587",
+    "sueldo_profesor": "5204513",
+    "col3": "8986"
+  },
+  {
+    "id_profesor": "1588",
+    "sueldo_profesor": "3855150",
+    "col3": "699"
+  },
+  {
+    "id_profesor": "1589",
+    "sueldo_profesor": "5004576",
+    "col3": "3822"
+  },
+  {
+    "id_profesor": "1590",
+    "sueldo_profesor": "3865476",
+    "col3": "3429"
+  },
+  {
+    "id_profesor": "1591",
+    "sueldo_profesor": "2262755",
+    "col3": "3522"
+  },
+  {
+    "id_profesor": "1592",
+    "sueldo_profesor": "2494378",
+    "col3": "8046"
+  },
+  {
+    "id_profesor": "1593",
+    "sueldo_profesor": "2069285",
+    "col3": "331"
+  },
+  {
+    "id_profesor": "1594",
+    "sueldo_profesor": "4667047",
+    "col3": "8294"
+  },
+  {
+    "id_profesor": "1595",
+    "sueldo_profesor": "7714136",
+    "col3": "1664"
+  },
+  {
+    "id_profesor": "1596",
+    "sueldo_profesor": "1652041",
+    "col3": "8488"
+  },
+  {
+    "id_profesor": "1597",
+    "sueldo_profesor": "6874917",
+    "col3": "4866"
+  },
+  {
+    "id_profesor": "1598",
+    "sueldo_profesor": "2819151",
+    "col3": "2068"
+  },
+  {
+    "id_profesor": "1599",
+    "sueldo_profesor": "7613104",
+    "col3": "972"
+  },
+  {
+    "id_profesor": "1600",
+    "sueldo_profesor": "7723471",
+    "col3": "782"
+  },
+  {
+    "id_profesor": "1601",
+    "sueldo_profesor": "4250654",
+    "col3": "3011"
+  },
+  {
+    "id_profesor": "1602",
+    "sueldo_profesor": "5120088",
+    "col3": "5797"
+  },
+  {
+    "id_profesor": "1603",
+    "sueldo_profesor": "3848920",
+    "col3": "8173"
+  },
+  {
+    "id_profesor": "1604",
+    "sueldo_profesor": "3177000",
+    "col3": "7949"
+  },
+  {
+    "id_profesor": "1605",
+    "sueldo_profesor": "6564879",
+    "col3": "3124"
+  },
+  {
+    "id_profesor": "1606",
+    "sueldo_profesor": "6886574",
+    "col3": "5169"
+  },
+  {
+    "id_profesor": "1607",
+    "sueldo_profesor": "2121524",
+    "col3": "5573"
+  },
+  {
+    "id_profesor": "1608",
+    "sueldo_profesor": "7977700",
+    "col3": "6158"
+  },
+  {
+    "id_profesor": "1609",
+    "sueldo_profesor": "1705218",
+    "col3": "278"
+  },
+  {
+    "id_profesor": "1610",
+    "sueldo_profesor": "4235002",
+    "col3": "4849"
+  },
+  {
+    "id_profesor": "1611",
+    "sueldo_profesor": "6757463",
+    "col3": "433"
+  },
+  {
+    "id_profesor": "1612",
+    "sueldo_profesor": "7179588",
+    "col3": "6200"
+  },
+  {
+    "id_profesor": "1613",
+    "sueldo_profesor": "5054056",
+    "col3": "8174"
+  },
+  {
+    "id_profesor": "1614",
+    "sueldo_profesor": "3125007",
+    "col3": "9480"
+  },
+  {
+    "id_profesor": "1615",
+    "sueldo_profesor": "1793008",
+    "col3": "1059"
+  },
+  {
+    "id_profesor": "1616",
+    "sueldo_profesor": "3875949",
+    "col3": "7046"
+  },
+  {
+    "id_profesor": "1617",
+    "sueldo_profesor": "7118952",
+    "col3": "4796"
+  },
+  {
+    "id_profesor": "1618",
+    "sueldo_profesor": "2166199",
+    "col3": "6171"
+  },
+  {
+    "id_profesor": "1619",
+    "sueldo_profesor": "3127742",
+    "col3": "7311"
+  },
+  {
+    "id_profesor": "1620",
+    "sueldo_profesor": "7905111",
+    "col3": "8482"
+  },
+  {
+    "id_profesor": "1621",
+    "sueldo_profesor": "6339754",
+    "col3": "4653"
+  },
+  {
+    "id_profesor": "1622",
+    "sueldo_profesor": "4068683",
+    "col3": "5643"
+  },
+  {
+    "id_profesor": "1623",
+    "sueldo_profesor": "4787111",
+    "col3": "5168"
+  },
+  {
+    "id_profesor": "1624",
+    "sueldo_profesor": "5075313",
+    "col3": "4195"
+  },
+  {
+    "id_profesor": "1625",
+    "sueldo_profesor": "3520883",
+    "col3": "7795"
+  },
+  {
+    "id_profesor": "1626",
+    "sueldo_profesor": "2890009",
+    "col3": "1921"
+  },
+  {
+    "id_profesor": "1627",
+    "sueldo_profesor": "6579896",
+    "col3": "5715"
+  },
+  {
+    "id_profesor": "1628",
+    "sueldo_profesor": "3827075",
+    "col3": "998"
+  },
+  {
+    "id_profesor": "1629",
+    "sueldo_profesor": "4930029",
+    "col3": "7470"
+  },
+  {
+    "id_profesor": "1630",
+    "sueldo_profesor": "2543683",
+    "col3": "286"
+  },
+  {
+    "id_profesor": "1631",
+    "sueldo_profesor": "2702069",
+    "col3": "125"
+  },
+  {
+    "id_profesor": "1632",
+    "sueldo_profesor": "5275429",
+    "col3": "5174"
+  },
+  {
+    "id_profesor": "1633",
+    "sueldo_profesor": "7827572",
+    "col3": "3654"
+  },
+  {
+    "id_profesor": "1634",
+    "sueldo_profesor": "5124530",
+    "col3": "2270"
+  },
+  {
+    "id_profesor": "1635",
+    "sueldo_profesor": "3791974",
+    "col3": "9635"
+  },
+  {
+    "id_profesor": "1636",
+    "sueldo_profesor": "5882964",
+    "col3": "2849"
+  },
+  {
+    "id_profesor": "1637",
+    "sueldo_profesor": "5707898",
+    "col3": "6438"
+  },
+  {
+    "id_profesor": "1638",
+    "sueldo_profesor": "7350095",
+    "col3": "16"
+  },
+  {
+    "id_profesor": "1639",
+    "sueldo_profesor": "7332405",
+    "col3": "2486"
+  },
+  {
+    "id_profesor": "1640",
+    "sueldo_profesor": "5547958",
+    "col3": "7707"
+  },
+  {
+    "id_profesor": "1641",
+    "sueldo_profesor": "5128356",
+    "col3": "288"
+  },
+  {
+    "id_profesor": "1642",
+    "sueldo_profesor": "3748626",
+    "col3": "5699"
+  },
+  {
+    "id_profesor": "1643",
+    "sueldo_profesor": "4347258",
+    "col3": "2101"
+  },
+  {
+    "id_profesor": "1644",
+    "sueldo_profesor": "2100847",
+    "col3": "8884"
+  },
+  {
+    "id_profesor": "1645",
+    "sueldo_profesor": "4176262",
+    "col3": "9102"
+  },
+  {
+    "id_profesor": "1646",
+    "sueldo_profesor": "2302209",
+    "col3": "8741"
+  },
+  {
+    "id_profesor": "1647",
+    "sueldo_profesor": "3748031",
+    "col3": "2937"
+  },
+  {
+    "id_profesor": "1648",
+    "sueldo_profesor": "2184009",
+    "col3": "4247"
+  },
+  {
+    "id_profesor": "1649",
+    "sueldo_profesor": "5808874",
+    "col3": "3034"
+  },
+  {
+    "id_profesor": "1650",
+    "sueldo_profesor": "5939535",
+    "col3": "1184"
+  },
+  {
+    "id_profesor": "1651",
+    "sueldo_profesor": "2749665",
+    "col3": "9674"
+  },
+  {
+    "id_profesor": "1652",
+    "sueldo_profesor": "1720153",
+    "col3": "5533"
+  },
+  {
+    "id_profesor": "1653",
+    "sueldo_profesor": "3739356",
+    "col3": "5525"
+  },
+  {
+    "id_profesor": "1654",
+    "sueldo_profesor": "2363714",
+    "col3": "652"
+  },
+  {
+    "id_profesor": "1655",
+    "sueldo_profesor": "6529787",
+    "col3": "4134"
+  },
+  {
+    "id_profesor": "1656",
+    "sueldo_profesor": "4508873",
+    "col3": "8458"
+  },
+  {
+    "id_profesor": "1657",
+    "sueldo_profesor": "6125860",
+    "col3": "8182"
+  },
+  {
+    "id_profesor": "1658",
+    "sueldo_profesor": "6526895",
+    "col3": "8263"
+  },
+  {
+    "id_profesor": "1659",
+    "sueldo_profesor": "3478165",
+    "col3": "2314"
+  },
+  {
+    "id_profesor": "1660",
+    "sueldo_profesor": "1535303",
+    "col3": "5922"
+  },
+  {
+    "id_profesor": "1661",
+    "sueldo_profesor": "6657709",
+    "col3": "8698"
+  },
+  {
+    "id_profesor": "1662",
+    "sueldo_profesor": "5163341",
+    "col3": "6077"
+  },
+  {
+    "id_profesor": "1663",
+    "sueldo_profesor": "6849311",
+    "col3": "5779"
+  },
+  {
+    "id_profesor": "1664",
+    "sueldo_profesor": "3393975",
+    "col3": "8537"
+  },
+  {
+    "id_profesor": "1665",
+    "sueldo_profesor": "5819789",
+    "col3": "8009"
+  },
+  {
+    "id_profesor": "1666",
+    "sueldo_profesor": "3585384",
+    "col3": "2612"
+  },
+  {
+    "id_profesor": "1667",
+    "sueldo_profesor": "6782966",
+    "col3": "4816"
+  },
+  {
+    "id_profesor": "1668",
+    "sueldo_profesor": "2862945",
+    "col3": "2788"
+  },
+  {
+    "id_profesor": "1669",
+    "sueldo_profesor": "7453683",
+    "col3": "7004"
+  },
+  {
+    "id_profesor": "1670",
+    "sueldo_profesor": "1986458",
+    "col3": "7254"
+  },
+  {
+    "id_profesor": "1671",
+    "sueldo_profesor": "3214820",
+    "col3": "2544"
+  },
+  {
+    "id_profesor": "1672",
+    "sueldo_profesor": "6434104",
+    "col3": "1655"
+  },
+  {
+    "id_profesor": "1673",
+    "sueldo_profesor": "7654885",
+    "col3": "3415"
+  },
+  {
+    "id_profesor": "1674",
+    "sueldo_profesor": "3088044",
+    "col3": "9346"
+  },
+  {
+    "id_profesor": "1675",
+    "sueldo_profesor": "5963124",
+    "col3": "1844"
+  },
+  {
+    "id_profesor": "1676",
+    "sueldo_profesor": "5535665",
+    "col3": "7349"
+  },
+  {
+    "id_profesor": "1677",
+    "sueldo_profesor": "2114768",
+    "col3": "4125"
+  },
+  {
+    "id_profesor": "1678",
+    "sueldo_profesor": "5522503",
+    "col3": "659"
+  },
+  {
+    "id_profesor": "1679",
+    "sueldo_profesor": "5554050",
+    "col3": "2812"
+  },
+  {
+    "id_profesor": "1680",
+    "sueldo_profesor": "6691486",
+    "col3": "5500"
+  },
+  {
+    "id_profesor": "1681",
+    "sueldo_profesor": "2121226",
+    "col3": "9182"
+  },
+  {
+    "id_profesor": "1682",
+    "sueldo_profesor": "7717178",
+    "col3": "243"
+  },
+  {
+    "id_profesor": "1683",
+    "sueldo_profesor": "6927975",
+    "col3": "7335"
+  },
+  {
+    "id_profesor": "1684",
+    "sueldo_profesor": "4251225",
+    "col3": "6382"
+  },
+  {
+    "id_profesor": "1685",
+    "sueldo_profesor": "7737375",
+    "col3": "9736"
+  },
+  {
+    "id_profesor": "1686",
+    "sueldo_profesor": "7479490",
+    "col3": "2488"
+  },
+  {
+    "id_profesor": "1687",
+    "sueldo_profesor": "2910480",
+    "col3": "4609"
+  },
+  {
+    "id_profesor": "1688",
+    "sueldo_profesor": "1627220",
+    "col3": "2662"
+  },
+  {
+    "id_profesor": "1689",
+    "sueldo_profesor": "5537195",
+    "col3": "6329"
+  },
+  {
+    "id_profesor": "1690",
+    "sueldo_profesor": "4971283",
+    "col3": "2887"
+  },
+  {
+    "id_profesor": "1691",
+    "sueldo_profesor": "7944949",
+    "col3": "1774"
+  },
+  {
+    "id_profesor": "1692",
+    "sueldo_profesor": "4878230",
+    "col3": "9420"
+  },
+  {
+    "id_profesor": "1693",
+    "sueldo_profesor": "2359333",
+    "col3": "4113"
+  },
+  {
+    "id_profesor": "1694",
+    "sueldo_profesor": "5703997",
+    "col3": "5647"
+  },
+  {
+    "id_profesor": "1695",
+    "sueldo_profesor": "3451194",
+    "col3": "7577"
+  },
+  {
+    "id_profesor": "1696",
+    "sueldo_profesor": "4230901",
+    "col3": "1109"
+  },
+  {
+    "id_profesor": "1697",
+    "sueldo_profesor": "5005670",
+    "col3": "2314"
+  },
+  {
+    "id_profesor": "1698",
+    "sueldo_profesor": "2283906",
+    "col3": "6532"
+  },
+  {
+    "id_profesor": "1699",
+    "sueldo_profesor": "5236908",
+    "col3": "5950"
+  },
+  {
+    "id_profesor": "1700",
+    "sueldo_profesor": "5977256",
+    "col3": "1844"
+  },
+  {
+    "id_profesor": "1701",
+    "sueldo_profesor": "6154639",
+    "col3": "8131"
+  },
+  {
+    "id_profesor": "1702",
+    "sueldo_profesor": "4962367",
+    "col3": "4404"
+  },
+  {
+    "id_profesor": "1703",
+    "sueldo_profesor": "3491111",
+    "col3": "8106"
+  },
+  {
+    "id_profesor": "1704",
+    "sueldo_profesor": "4235898",
+    "col3": "6852"
+  },
+  {
+    "id_profesor": "1705",
+    "sueldo_profesor": "7411134",
+    "col3": "5732"
+  },
+  {
+    "id_profesor": "1706",
+    "sueldo_profesor": "7902578",
+    "col3": "5757"
+  },
+  {
+    "id_profesor": "1707",
+    "sueldo_profesor": "5988768",
+    "col3": "9923"
+  },
+  {
+    "id_profesor": "1708",
+    "sueldo_profesor": "1959883",
+    "col3": "9335"
+  },
+  {
+    "id_profesor": "1709",
+    "sueldo_profesor": "5583077",
+    "col3": "562"
+  },
+  {
+    "id_profesor": "1710",
+    "sueldo_profesor": "4834774",
+    "col3": "1929"
+  },
+  {
+    "id_profesor": "1711",
+    "sueldo_profesor": "5524828",
+    "col3": "8398"
+  },
+  {
+    "id_profesor": "1712",
+    "sueldo_profesor": "2458612",
+    "col3": "73"
+  },
+  {
+    "id_profesor": "1713",
+    "sueldo_profesor": "4231217",
+    "col3": "8609"
+  },
+  {
+    "id_profesor": "1714",
+    "sueldo_profesor": "2911765",
+    "col3": "513"
+  },
+  {
+    "id_profesor": "1715",
+    "sueldo_profesor": "6076139",
+    "col3": "6859"
+  },
+  {
+    "id_profesor": "1716",
+    "sueldo_profesor": "3636581",
+    "col3": "5660"
+  },
+  {
+    "id_profesor": "1717",
+    "sueldo_profesor": "3824099",
+    "col3": "7464"
+  },
+  {
+    "id_profesor": "1718",
+    "sueldo_profesor": "2896475",
+    "col3": "1360"
+  },
+  {
+    "id_profesor": "1719",
+    "sueldo_profesor": "5178709",
+    "col3": "2450"
+  },
+  {
+    "id_profesor": "1720",
+    "sueldo_profesor": "2855289",
+    "col3": "3471"
+  },
+  {
+    "id_profesor": "1721",
+    "sueldo_profesor": "5458311",
+    "col3": "3885"
+  },
+  {
+    "id_profesor": "1722",
+    "sueldo_profesor": "2172235",
+    "col3": "961"
+  },
+  {
+    "id_profesor": "1723",
+    "sueldo_profesor": "4938804",
+    "col3": "6615"
+  },
+  {
+    "id_profesor": "1724",
+    "sueldo_profesor": "7833734",
+    "col3": "2737"
+  },
+  {
+    "id_profesor": "1725",
+    "sueldo_profesor": "3140005",
+    "col3": "6156"
+  },
+  {
+    "id_profesor": "1726",
+    "sueldo_profesor": "6539627",
+    "col3": "8693"
+  },
+  {
+    "id_profesor": "1727",
+    "sueldo_profesor": "7511273",
+    "col3": "8020"
+  },
+  {
+    "id_profesor": "1728",
+    "sueldo_profesor": "1778971",
+    "col3": "817"
+  },
+  {
+    "id_profesor": "1729",
+    "sueldo_profesor": "5693916",
+    "col3": "6908"
+  },
+  {
+    "id_profesor": "1730",
+    "sueldo_profesor": "6489367",
+    "col3": "57"
+  },
+  {
+    "id_profesor": "1731",
+    "sueldo_profesor": "4223857",
+    "col3": "7458"
+  },
+  {
+    "id_profesor": "1732",
+    "sueldo_profesor": "5401860",
+    "col3": "8112"
+  },
+  {
+    "id_profesor": "1733",
+    "sueldo_profesor": "5377501",
+    "col3": "9344"
+  },
+  {
+    "id_profesor": "1734",
+    "sueldo_profesor": "6909959",
+    "col3": "2802"
+  },
+  {
+    "id_profesor": "1735",
+    "sueldo_profesor": "3906433",
+    "col3": "8076"
+  },
+  {
+    "id_profesor": "1736",
+    "sueldo_profesor": "2799136",
+    "col3": "9941"
+  },
+  {
+    "id_profesor": "1737",
+    "sueldo_profesor": "5069792",
+    "col3": "2142"
+  },
+  {
+    "id_profesor": "1738",
+    "sueldo_profesor": "2044553",
+    "col3": "3383"
+  },
+  {
+    "id_profesor": "1739",
+    "sueldo_profesor": "3340623",
+    "col3": "5390"
+  },
+  {
+    "id_profesor": "1740",
+    "sueldo_profesor": "7740876",
+    "col3": "5982"
+  },
+  {
+    "id_profesor": "1741",
+    "sueldo_profesor": "3384878",
+    "col3": "8949"
+  },
+  {
+    "id_profesor": "1742",
+    "sueldo_profesor": "2201589",
+    "col3": "1835"
+  },
+  {
+    "id_profesor": "1743",
+    "sueldo_profesor": "5056156",
+    "col3": "3303"
+  },
+  {
+    "id_profesor": "1744",
+    "sueldo_profesor": "3764329",
+    "col3": "4022"
+  },
+  {
+    "id_profesor": "1745",
+    "sueldo_profesor": "7593194",
+    "col3": "8336"
+  },
+  {
+    "id_profesor": "1746",
+    "sueldo_profesor": "7856982",
+    "col3": "8409"
+  },
+  {
+    "id_profesor": "1747",
+    "sueldo_profesor": "2973081",
+    "col3": "189"
+  },
+  {
+    "id_profesor": "1748",
+    "sueldo_profesor": "6602772",
+    "col3": "7150"
+  },
+  {
+    "id_profesor": "1749",
+    "sueldo_profesor": "4565741",
+    "col3": "9838"
+  },
+  {
+    "id_profesor": "1750",
+    "sueldo_profesor": "3246140",
+    "col3": "9251"
+  },
+  {
+    "id_profesor": "1751",
+    "sueldo_profesor": "4930136",
+    "col3": "9277"
+  },
+  {
+    "id_profesor": "1752",
+    "sueldo_profesor": "4050925",
+    "col3": "7562"
+  },
+  {
+    "id_profesor": "1753",
+    "sueldo_profesor": "3611907",
+    "col3": "3240"
+  },
+  {
+    "id_profesor": "1754",
+    "sueldo_profesor": "2479713",
+    "col3": "2722"
+  },
+  {
+    "id_profesor": "1755",
+    "sueldo_profesor": "6960883",
+    "col3": "8227"
+  },
+  {
+    "id_profesor": "1756",
+    "sueldo_profesor": "2321809",
+    "col3": "9871"
+  },
+  {
+    "id_profesor": "1757",
+    "sueldo_profesor": "7149911",
+    "col3": "2488"
+  },
+  {
+    "id_profesor": "1758",
+    "sueldo_profesor": "1728115",
+    "col3": "7270"
+  },
+  {
+    "id_profesor": "1759",
+    "sueldo_profesor": "3556188",
+    "col3": "9000"
+  },
+  {
+    "id_profesor": "1760",
+    "sueldo_profesor": "4824605",
+    "col3": "7274"
+  },
+  {
+    "id_profesor": "1761",
+    "sueldo_profesor": "7083384",
+    "col3": "404"
+  },
+  {
+    "id_profesor": "1762",
+    "sueldo_profesor": "3098229",
+    "col3": "8280"
+  },
+  {
+    "id_profesor": "1763",
+    "sueldo_profesor": "7365349",
+    "col3": "6948"
+  },
+  {
+    "id_profesor": "1764",
+    "sueldo_profesor": "1631825",
+    "col3": "6483"
+  },
+  {
+    "id_profesor": "1765",
+    "sueldo_profesor": "4844752",
+    "col3": "621"
+  },
+  {
+    "id_profesor": "1766",
+    "sueldo_profesor": "3450056",
+    "col3": "29"
+  },
+  {
+    "id_profesor": "1767",
+    "sueldo_profesor": "5553656",
+    "col3": "7270"
+  },
+  {
+    "id_profesor": "1768",
+    "sueldo_profesor": "3923386",
+    "col3": "2026"
+  },
+  {
+    "id_profesor": "1769",
+    "sueldo_profesor": "5346885",
+    "col3": "1802"
+  },
+  {
+    "id_profesor": "1770",
+    "sueldo_profesor": "3901937",
+    "col3": "7716"
+  },
+  {
+    "id_profesor": "1771",
+    "sueldo_profesor": "1507980",
+    "col3": "6682"
+  },
+  {
+    "id_profesor": "1772",
+    "sueldo_profesor": "5186884",
+    "col3": "9016"
+  },
+  {
+    "id_profesor": "1773",
+    "sueldo_profesor": "2814799",
+    "col3": "6372"
+  },
+  {
+    "id_profesor": "1774",
+    "sueldo_profesor": "3333673",
+    "col3": "5083"
+  },
+  {
+    "id_profesor": "1775",
+    "sueldo_profesor": "2438562",
+    "col3": "4630"
+  },
+  {
+    "id_profesor": "1776",
+    "sueldo_profesor": "3538837",
+    "col3": "8060"
+  },
+  {
+    "id_profesor": "1777",
+    "sueldo_profesor": "3721574",
+    "col3": "7244"
+  },
+  {
+    "id_profesor": "1778",
+    "sueldo_profesor": "7801328",
+    "col3": "7041"
+  },
+  {
+    "id_profesor": "1779",
+    "sueldo_profesor": "4878577",
+    "col3": "2291"
+  },
+  {
+    "id_profesor": "1780",
+    "sueldo_profesor": "7945801",
+    "col3": "1246"
+  },
+  {
+    "id_profesor": "1781",
+    "sueldo_profesor": "2116646",
+    "col3": "6144"
+  },
+  {
+    "id_profesor": "1782",
+    "sueldo_profesor": "3685123",
+    "col3": "6556"
+  },
+  {
+    "id_profesor": "1783",
+    "sueldo_profesor": "7314227",
+    "col3": "9603"
+  },
+  {
+    "id_profesor": "1784",
+    "sueldo_profesor": "5958981",
+    "col3": "7376"
+  },
+  {
+    "id_profesor": "1785",
+    "sueldo_profesor": "3845978",
+    "col3": "5856"
+  },
+  {
+    "id_profesor": "1786",
+    "sueldo_profesor": "2238563",
+    "col3": "5560"
+  },
+  {
+    "id_profesor": "1787",
+    "sueldo_profesor": "4487232",
+    "col3": "7556"
+  },
+  {
+    "id_profesor": "1788",
+    "sueldo_profesor": "5435617",
+    "col3": "8921"
+  },
+  {
+    "id_profesor": "1789",
+    "sueldo_profesor": "5383131",
+    "col3": "9243"
+  },
+  {
+    "id_profesor": "1790",
+    "sueldo_profesor": "7312181",
+    "col3": "7424"
+  },
+  {
+    "id_profesor": "1791",
+    "sueldo_profesor": "1753703",
+    "col3": "8143"
+  },
+  {
+    "id_profesor": "1792",
+    "sueldo_profesor": "1685456",
+    "col3": "8752"
+  },
+  {
+    "id_profesor": "1793",
+    "sueldo_profesor": "2887387",
+    "col3": "2868"
+  },
+  {
+    "id_profesor": "1794",
+    "sueldo_profesor": "4823359",
+    "col3": "6984"
+  },
+  {
+    "id_profesor": "1795",
+    "sueldo_profesor": "1603843",
+    "col3": "9302"
+  },
+  {
+    "id_profesor": "1796",
+    "sueldo_profesor": "3990436",
+    "col3": "9390"
+  },
+  {
+    "id_profesor": "1797",
+    "sueldo_profesor": "6550985",
+    "col3": "3834"
+  },
+  {
+    "id_profesor": "1798",
+    "sueldo_profesor": "7898018",
+    "col3": "4478"
+  },
+  {
+    "id_profesor": "1799",
+    "sueldo_profesor": "3867649",
+    "col3": "2707"
+  },
+  {
+    "id_profesor": "1800",
+    "sueldo_profesor": "7472056",
+    "col3": "3066"
+  },
+  {
+    "id_profesor": "1801",
+    "sueldo_profesor": "4035030",
+    "col3": "182"
+  },
+  {
+    "id_profesor": "1802",
+    "sueldo_profesor": "7845382",
+    "col3": "2387"
+  },
+  {
+    "id_profesor": "1803",
+    "sueldo_profesor": "7006460",
+    "col3": "2686"
+  },
+  {
+    "id_profesor": "1804",
+    "sueldo_profesor": "1851328",
+    "col3": "6223"
+  },
+  {
+    "id_profesor": "1805",
+    "sueldo_profesor": "5886269",
+    "col3": "1787"
+  },
+  {
+    "id_profesor": "1806",
+    "sueldo_profesor": "3390775",
+    "col3": "9810"
+  },
+  {
+    "id_profesor": "1807",
+    "sueldo_profesor": "6209247",
+    "col3": "9545"
+  },
+  {
+    "id_profesor": "1808",
+    "sueldo_profesor": "1543432",
+    "col3": "6404"
+  },
+  {
+    "id_profesor": "1809",
+    "sueldo_profesor": "7617161",
+    "col3": "5711"
+  },
+  {
+    "id_profesor": "1810",
+    "sueldo_profesor": "6508913",
+    "col3": "761"
+  },
+  {
+    "id_profesor": "1811",
+    "sueldo_profesor": "2281912",
+    "col3": "7760"
+  },
+  {
+    "id_profesor": "1812",
+    "sueldo_profesor": "1938168",
+    "col3": "2791"
+  },
+  {
+    "id_profesor": "1813",
+    "sueldo_profesor": "1920911",
+    "col3": "5911"
+  },
+  {
+    "id_profesor": "1814",
+    "sueldo_profesor": "2435901",
+    "col3": "2447"
+  },
+  {
+    "id_profesor": "1815",
+    "sueldo_profesor": "3962724",
+    "col3": "8708"
+  },
+  {
+    "id_profesor": "1816",
+    "sueldo_profesor": "2784348",
+    "col3": "3774"
+  },
+  {
+    "id_profesor": "1817",
+    "sueldo_profesor": "1715911",
+    "col3": "8227"
+  },
+  {
+    "id_profesor": "1818",
+    "sueldo_profesor": "6463633",
+    "col3": "9128"
+  },
+  {
+    "id_profesor": "1819",
+    "sueldo_profesor": "6582094",
+    "col3": "2750"
+  },
+  {
+    "id_profesor": "1820",
+    "sueldo_profesor": "5885575",
+    "col3": "8971"
+  },
+  {
+    "id_profesor": "1821",
+    "sueldo_profesor": "3542794",
+    "col3": "5452"
+  },
+  {
+    "id_profesor": "1822",
+    "sueldo_profesor": "5603970",
+    "col3": "8525"
+  },
+  {
+    "id_profesor": "1823",
+    "sueldo_profesor": "3032034",
+    "col3": "4707"
+  },
+  {
+    "id_profesor": "1824",
+    "sueldo_profesor": "4961872",
+    "col3": "1244"
+  },
+  {
+    "id_profesor": "1825",
+    "sueldo_profesor": "2616724",
+    "col3": "2153"
+  },
+  {
+    "id_profesor": "1826",
+    "sueldo_profesor": "7620124",
+    "col3": "5817"
+  },
+  {
+    "id_profesor": "1827",
+    "sueldo_profesor": "1550820",
+    "col3": "9798"
+  },
+  {
+    "id_profesor": "1828",
+    "sueldo_profesor": "5455494",
+    "col3": "5789"
+  },
+  {
+    "id_profesor": "1829",
+    "sueldo_profesor": "6579921",
+    "col3": "2005"
+  },
+  {
+    "id_profesor": "1830",
+    "sueldo_profesor": "2021419",
+    "col3": "3879"
+  },
+  {
+    "id_profesor": "1831",
+    "sueldo_profesor": "7939537",
+    "col3": "6546"
+  },
+  {
+    "id_profesor": "1832",
+    "sueldo_profesor": "7786259",
+    "col3": "3599"
+  },
+  {
+    "id_profesor": "1833",
+    "sueldo_profesor": "2262484",
+    "col3": "1057"
+  },
+  {
+    "id_profesor": "1834",
+    "sueldo_profesor": "2192372",
+    "col3": "2975"
+  },
+  {
+    "id_profesor": "1835",
+    "sueldo_profesor": "5065723",
+    "col3": "9294"
+  },
+  {
+    "id_profesor": "1836",
+    "sueldo_profesor": "7283699",
+    "col3": "8950"
+  },
+  {
+    "id_profesor": "1837",
+    "sueldo_profesor": "5402176",
+    "col3": "6990"
+  },
+  {
+    "id_profesor": "1838",
+    "sueldo_profesor": "4192253",
+    "col3": "2718"
+  },
+  {
+    "id_profesor": "1839",
+    "sueldo_profesor": "7066041",
+    "col3": "8722"
+  },
+  {
+    "id_profesor": "1840",
+    "sueldo_profesor": "1908807",
+    "col3": "850"
+  },
+  {
+    "id_profesor": "1841",
+    "sueldo_profesor": "2221572",
+    "col3": "1904"
+  },
+  {
+    "id_profesor": "1842",
+    "sueldo_profesor": "7823327",
+    "col3": "8279"
+  },
+  {
+    "id_profesor": "1843",
+    "sueldo_profesor": "4028709",
+    "col3": "8197"
+  },
+  {
+    "id_profesor": "1844",
+    "sueldo_profesor": "6925336",
+    "col3": "5875"
+  },
+  {
+    "id_profesor": "1845",
+    "sueldo_profesor": "3455488",
+    "col3": "8507"
+  },
+  {
+    "id_profesor": "1846",
+    "sueldo_profesor": "7204437",
+    "col3": "1750"
+  },
+  {
+    "id_profesor": "1847",
+    "sueldo_profesor": "4004613",
+    "col3": "8586"
+  },
+  {
+    "id_profesor": "1848",
+    "sueldo_profesor": "3223106",
+    "col3": "7221"
+  },
+  {
+    "id_profesor": "1849",
+    "sueldo_profesor": "4867280",
+    "col3": "6845"
+  },
+  {
+    "id_profesor": "1850",
+    "sueldo_profesor": "7721388",
+    "col3": "5448"
+  },
+  {
+    "id_profesor": "1851",
+    "sueldo_profesor": "7596517",
+    "col3": "6540"
+  },
+  {
+    "id_profesor": "1852",
+    "sueldo_profesor": "3739038",
+    "col3": "9760"
+  },
+  {
+    "id_profesor": "1853",
+    "sueldo_profesor": "3932340",
+    "col3": "9800"
+  },
+  {
+    "id_profesor": "1854",
+    "sueldo_profesor": "3734615",
+    "col3": "5354"
+  },
+  {
+    "id_profesor": "1855",
+    "sueldo_profesor": "7974728",
+    "col3": "2110"
+  },
+  {
+    "id_profesor": "1856",
+    "sueldo_profesor": "7878345",
+    "col3": "6857"
+  },
+  {
+    "id_profesor": "1857",
+    "sueldo_profesor": "7396556",
+    "col3": "8882"
+  },
+  {
+    "id_profesor": "1858",
+    "sueldo_profesor": "2337215",
+    "col3": "9184"
+  },
+  {
+    "id_profesor": "1859",
+    "sueldo_profesor": "2219330",
+    "col3": "2610"
+  },
+  {
+    "id_profesor": "1860",
+    "sueldo_profesor": "5974103",
+    "col3": "385"
+  },
+  {
+    "id_profesor": "1861",
+    "sueldo_profesor": "7662294",
+    "col3": "6416"
+  },
+  {
+    "id_profesor": "1862",
+    "sueldo_profesor": "6567950",
+    "col3": "9379"
+  },
+  {
+    "id_profesor": "1863",
+    "sueldo_profesor": "1749859",
+    "col3": "757"
+  },
+  {
+    "id_profesor": "1864",
+    "sueldo_profesor": "2186092",
+    "col3": "4272"
+  },
+  {
+    "id_profesor": "1865",
+    "sueldo_profesor": "3710939",
+    "col3": "9872"
+  },
+  {
+    "id_profesor": "1866",
+    "sueldo_profesor": "4833571",
+    "col3": "3255"
+  },
+  {
+    "id_profesor": "1867",
+    "sueldo_profesor": "1911785",
+    "col3": "5702"
+  },
+  {
+    "id_profesor": "1868",
+    "sueldo_profesor": "7544745",
+    "col3": "9475"
+  },
+  {
+    "id_profesor": "1869",
+    "sueldo_profesor": "2113849",
+    "col3": "364"
+  },
+  {
+    "id_profesor": "1870",
+    "sueldo_profesor": "2980499",
+    "col3": "6016"
+  },
+  {
+    "id_profesor": "1871",
+    "sueldo_profesor": "5390188",
+    "col3": "8707"
+  },
+  {
+    "id_profesor": "1872",
+    "sueldo_profesor": "5747757",
+    "col3": "1282"
+  },
+  {
+    "id_profesor": "1873",
+    "sueldo_profesor": "6963668",
+    "col3": "8866"
+  },
+  {
+    "id_profesor": "1874",
+    "sueldo_profesor": "2881432",
+    "col3": "4491"
+  },
+  {
+    "id_profesor": "1875",
+    "sueldo_profesor": "7304262",
+    "col3": "7780"
+  },
+  {
+    "id_profesor": "1876",
+    "sueldo_profesor": "1726883",
+    "col3": "6970"
+  },
+  {
+    "id_profesor": "1877",
+    "sueldo_profesor": "7843779",
+    "col3": "3144"
+  },
+  {
+    "id_profesor": "1878",
+    "sueldo_profesor": "6467570",
+    "col3": "8813"
+  },
+  {
+    "id_profesor": "1879",
+    "sueldo_profesor": "1677692",
+    "col3": "9255"
+  },
+  {
+    "id_profesor": "1880",
+    "sueldo_profesor": "3065458",
+    "col3": "9696"
+  },
+  {
+    "id_profesor": "1881",
+    "sueldo_profesor": "2897772",
+    "col3": "9290"
+  },
+  {
+    "id_profesor": "1882",
+    "sueldo_profesor": "2560334",
+    "col3": "5670"
+  },
+  {
+    "id_profesor": "1883",
+    "sueldo_profesor": "2031314",
+    "col3": "6411"
+  },
+  {
+    "id_profesor": "1884",
+    "sueldo_profesor": "1589160",
+    "col3": "9008"
+  },
+  {
+    "id_profesor": "1885",
+    "sueldo_profesor": "2507790",
+    "col3": "7725"
+  },
+  {
+    "id_profesor": "1886",
+    "sueldo_profesor": "6283397",
+    "col3": "6713"
+  },
+  {
+    "id_profesor": "1887",
+    "sueldo_profesor": "6338674",
+    "col3": "1272"
+  },
+  {
+    "id_profesor": "1888",
+    "sueldo_profesor": "1680223",
+    "col3": "8371"
+  },
+  {
+    "id_profesor": "1889",
+    "sueldo_profesor": "5281016",
+    "col3": "4479"
+  },
+  {
+    "id_profesor": "1890",
+    "sueldo_profesor": "3643337",
+    "col3": "6478"
+  },
+  {
+    "id_profesor": "1891",
+    "sueldo_profesor": "5929905",
+    "col3": "1969"
+  },
+  {
+    "id_profesor": "1892",
+    "sueldo_profesor": "5731183",
+    "col3": "6327"
+  },
+  {
+    "id_profesor": "1893",
+    "sueldo_profesor": "3757730",
+    "col3": "3637"
+  },
+  {
+    "id_profesor": "1894",
+    "sueldo_profesor": "5566294",
+    "col3": "3842"
+  },
+  {
+    "id_profesor": "1895",
+    "sueldo_profesor": "1692021",
+    "col3": "5641"
+  },
+  {
+    "id_profesor": "1896",
+    "sueldo_profesor": "7761418",
+    "col3": "8050"
+  },
+  {
+    "id_profesor": "1897",
+    "sueldo_profesor": "5834176",
+    "col3": "3598"
+  },
+  {
+    "id_profesor": "1898",
+    "sueldo_profesor": "3386273",
+    "col3": "4748"
+  },
+  {
+    "id_profesor": "1899",
+    "sueldo_profesor": "1948125",
+    "col3": "1154"
+  },
+  {
+    "id_profesor": "1900",
+    "sueldo_profesor": "5217236",
+    "col3": "9618"
+  },
+  {
+    "id_profesor": "1901",
+    "sueldo_profesor": "6304588",
+    "col3": "4269"
+  },
+  {
+    "id_profesor": "1902",
+    "sueldo_profesor": "3670546",
+    "col3": "4969"
+  },
+  {
+    "id_profesor": "1903",
+    "sueldo_profesor": "6347532",
+    "col3": "994"
+  },
+  {
+    "id_profesor": "1904",
+    "sueldo_profesor": "2841835",
+    "col3": "5365"
+  },
+  {
+    "id_profesor": "1905",
+    "sueldo_profesor": "6580408",
+    "col3": "4414"
+  },
+  {
+    "id_profesor": "1906",
+    "sueldo_profesor": "3225747",
+    "col3": "5450"
+  },
+  {
+    "id_profesor": "1907",
+    "sueldo_profesor": "4197424",
+    "col3": "2110"
+  },
+  {
+    "id_profesor": "1908",
+    "sueldo_profesor": "2574411",
+    "col3": "4584"
+  },
+  {
+    "id_profesor": "1909",
+    "sueldo_profesor": "3656678",
+    "col3": "2287"
+  },
+  {
+    "id_profesor": "1910",
+    "sueldo_profesor": "3789341",
+    "col3": "2630"
+  },
+  {
+    "id_profesor": "1911",
+    "sueldo_profesor": "3378807",
+    "col3": "6937"
+  },
+  {
+    "id_profesor": "1912",
+    "sueldo_profesor": "4653410",
+    "col3": "4990"
+  },
+  {
+    "id_profesor": "1913",
+    "sueldo_profesor": "5025978",
+    "col3": "3047"
+  },
+  {
+    "id_profesor": "1914",
+    "sueldo_profesor": "1601316",
+    "col3": "3968"
+  },
+  {
+    "id_profesor": "1915",
+    "sueldo_profesor": "7866888",
+    "col3": "2691"
+  },
+  {
+    "id_profesor": "1916",
+    "sueldo_profesor": "5939221",
+    "col3": "3576"
+  },
+  {
+    "id_profesor": "1917",
+    "sueldo_profesor": "3582872",
+    "col3": "9204"
+  },
+  {
+    "id_profesor": "1918",
+    "sueldo_profesor": "1784551",
+    "col3": "4645"
+  },
+  {
+    "id_profesor": "1919",
+    "sueldo_profesor": "7728760",
+    "col3": "7598"
+  },
+  {
+    "id_profesor": "1920",
+    "sueldo_profesor": "2262499",
+    "col3": "5804"
+  },
+  {
+    "id_profesor": "1921",
+    "sueldo_profesor": "6653066",
+    "col3": "2786"
+  },
+  {
+    "id_profesor": "1922",
+    "sueldo_profesor": "7459671",
+    "col3": "8139"
+  },
+  {
+    "id_profesor": "1923",
+    "sueldo_profesor": "2218254",
+    "col3": "2398"
+  },
+  {
+    "id_profesor": "1924",
+    "sueldo_profesor": "4116391",
+    "col3": "3061"
+  },
+  {
+    "id_profesor": "1925",
+    "sueldo_profesor": "5425701",
+    "col3": "5266"
+  },
+  {
+    "id_profesor": "1926",
+    "sueldo_profesor": "4266666",
+    "col3": "4797"
+  },
+  {
+    "id_profesor": "1927",
+    "sueldo_profesor": "5434293",
+    "col3": "1033"
+  },
+  {
+    "id_profesor": "1928",
+    "sueldo_profesor": "4366360",
+    "col3": "4820"
+  },
+  {
+    "id_profesor": "1929",
+    "sueldo_profesor": "7345911",
+    "col3": "4169"
+  },
+  {
+    "id_profesor": "1930",
+    "sueldo_profesor": "3433382",
+    "col3": "3139"
+  },
+  {
+    "id_profesor": "1931",
+    "sueldo_profesor": "4111186",
+    "col3": "122"
+  },
+  {
+    "id_profesor": "1932",
+    "sueldo_profesor": "4169246",
+    "col3": "9377"
+  },
+  {
+    "id_profesor": "1933",
+    "sueldo_profesor": "4140967",
+    "col3": "4430"
+  },
+  {
+    "id_profesor": "1934",
+    "sueldo_profesor": "1828580",
+    "col3": "8529"
+  },
+  {
+    "id_profesor": "1935",
+    "sueldo_profesor": "4592345",
+    "col3": "5669"
+  },
+  {
+    "id_profesor": "1936",
+    "sueldo_profesor": "2559004",
+    "col3": "5532"
+  },
+  {
+    "id_profesor": "1937",
+    "sueldo_profesor": "7623644",
+    "col3": "9345"
+  },
+  {
+    "id_profesor": "1938",
+    "sueldo_profesor": "7736481",
+    "col3": "7817"
+  },
+  {
+    "id_profesor": "1939",
+    "sueldo_profesor": "6767031",
+    "col3": "6998"
+  },
+  {
+    "id_profesor": "1940",
+    "sueldo_profesor": "7455518",
+    "col3": "3713"
+  },
+  {
+    "id_profesor": "1941",
+    "sueldo_profesor": "7918080",
+    "col3": "6159"
+  },
+  {
+    "id_profesor": "1942",
+    "sueldo_profesor": "4024548",
+    "col3": "8622"
+  },
+  {
+    "id_profesor": "1943",
+    "sueldo_profesor": "2107428",
+    "col3": "3669"
+  },
+  {
+    "id_profesor": "1944",
+    "sueldo_profesor": "4863733",
+    "col3": "313"
+  },
+  {
+    "id_profesor": "1945",
+    "sueldo_profesor": "2239000",
+    "col3": "8062"
+  },
+  {
+    "id_profesor": "1946",
+    "sueldo_profesor": "7771792",
+    "col3": "525"
+  },
+  {
+    "id_profesor": "1947",
+    "sueldo_profesor": "3985722",
+    "col3": "1535"
+  },
+  {
+    "id_profesor": "1948",
+    "sueldo_profesor": "5226273",
+    "col3": "4664"
+  },
+  {
+    "id_profesor": "1949",
+    "sueldo_profesor": "5330717",
+    "col3": "2112"
+  },
+  {
+    "id_profesor": "1950",
+    "sueldo_profesor": "6588163",
+    "col3": "2971"
+  },
+  {
+    "id_profesor": "1951",
+    "sueldo_profesor": "3357778",
+    "col3": "589"
+  },
+  {
+    "id_profesor": "1952",
+    "sueldo_profesor": "7505306",
+    "col3": "5988"
+  },
+  {
+    "id_profesor": "1953",
+    "sueldo_profesor": "4200493",
+    "col3": "7068"
+  },
+  {
+    "id_profesor": "1954",
+    "sueldo_profesor": "1628663",
+    "col3": "9542"
+  },
+  {
+    "id_profesor": "1955",
+    "sueldo_profesor": "1840815",
+    "col3": "3707"
+  },
+  {
+    "id_profesor": "1956",
+    "sueldo_profesor": "7237228",
+    "col3": "9602"
+  },
+  {
+    "id_profesor": "1957",
+    "sueldo_profesor": "2080109",
+    "col3": "2830"
+  },
+  {
+    "id_profesor": "1958",
+    "sueldo_profesor": "6152399",
+    "col3": "1905"
+  },
+  {
+    "id_profesor": "1959",
+    "sueldo_profesor": "6702375",
+    "col3": "529"
+  },
+  {
+    "id_profesor": "1960",
+    "sueldo_profesor": "4942061",
+    "col3": "79"
+  },
+  {
+    "id_profesor": "1961",
+    "sueldo_profesor": "6797167",
+    "col3": "3103"
+  },
+  {
+    "id_profesor": "1962",
+    "sueldo_profesor": "2888398",
+    "col3": "4098"
+  },
+  {
+    "id_profesor": "1963",
+    "sueldo_profesor": "5819460",
+    "col3": "2363"
+  },
+  {
+    "id_profesor": "1964",
+    "sueldo_profesor": "3591219",
+    "col3": "6570"
+  },
+  {
+    "id_profesor": "1965",
+    "sueldo_profesor": "4971370",
+    "col3": "1174"
+  },
+  {
+    "id_profesor": "1966",
+    "sueldo_profesor": "1636537",
+    "col3": "6023"
+  },
+  {
+    "id_profesor": "1967",
+    "sueldo_profesor": "4029255",
+    "col3": "1472"
+  },
+  {
+    "id_profesor": "1968",
+    "sueldo_profesor": "6558573",
+    "col3": "4854"
+  },
+  {
+    "id_profesor": "1969",
+    "sueldo_profesor": "2650375",
+    "col3": "3345"
+  },
+  {
+    "id_profesor": "1970",
+    "sueldo_profesor": "4880287",
+    "col3": "5194"
+  },
+  {
+    "id_profesor": "1971",
+    "sueldo_profesor": "7127244",
+    "col3": "4164"
+  },
+  {
+    "id_profesor": "1972",
+    "sueldo_profesor": "3792197",
+    "col3": "5748"
+  },
+  {
+    "id_profesor": "1973",
+    "sueldo_profesor": "5180759",
+    "col3": "1941"
+  },
+  {
+    "id_profesor": "1974",
+    "sueldo_profesor": "4093447",
+    "col3": "1021"
+  },
+  {
+    "id_profesor": "1975",
+    "sueldo_profesor": "1749092",
+    "col3": "5799"
+  },
+  {
+    "id_profesor": "1976",
+    "sueldo_profesor": "4628769",
+    "col3": "5605"
+  },
+  {
+    "id_profesor": "1977",
+    "sueldo_profesor": "6571460",
+    "col3": "8132"
+  },
+  {
+    "id_profesor": "1978",
+    "sueldo_profesor": "6060633",
+    "col3": "3812"
+  },
+  {
+    "id_profesor": "1979",
+    "sueldo_profesor": "7701465",
+    "col3": "5944"
+  },
+  {
+    "id_profesor": "1980",
+    "sueldo_profesor": "1886677",
+    "col3": "4867"
+  },
+  {
+    "id_profesor": "1981",
+    "sueldo_profesor": "7437317",
+    "col3": "5629"
+  },
+  {
+    "id_profesor": "1982",
+    "sueldo_profesor": "2508053",
+    "col3": "1362"
+  },
+  {
+    "id_profesor": "1983",
+    "sueldo_profesor": "1523128",
+    "col3": "4949"
+  },
+  {
+    "id_profesor": "1984",
+    "sueldo_profesor": "6123263",
+    "col3": "6285"
+  },
+  {
+    "id_profesor": "1985",
+    "sueldo_profesor": "3157887",
+    "col3": "562"
+  },
+  {
+    "id_profesor": "1986",
+    "sueldo_profesor": "3520699",
+    "col3": "7202"
+  },
+  {
+    "id_profesor": "1987",
+    "sueldo_profesor": "7831750",
+    "col3": "9246"
+  },
+  {
+    "id_profesor": "1988",
+    "sueldo_profesor": "2875851",
+    "col3": "2945"
+  },
+  {
+    "id_profesor": "1989",
+    "sueldo_profesor": "6477986",
+    "col3": "2747"
+  },
+  {
+    "id_profesor": "1990",
+    "sueldo_profesor": "2125242",
+    "col3": "3954"
+  },
+  {
+    "id_profesor": "1991",
+    "sueldo_profesor": "1809139",
+    "col3": "4493"
+  },
+  {
+    "id_profesor": "1992",
+    "sueldo_profesor": "2801456",
+    "col3": "9217"
+  },
+  {
+    "id_profesor": "1993",
+    "sueldo_profesor": "2792428",
+    "col3": "9302"
+  },
+  {
+    "id_profesor": "1994",
+    "sueldo_profesor": "1602505",
+    "col3": "1536"
+  },
+  {
+    "id_profesor": "1995",
+    "sueldo_profesor": "7586871",
+    "col3": "6401"
+  },
+  {
+    "id_profesor": "1996",
+    "sueldo_profesor": "4502226",
+    "col3": "9227"
+  },
+  {
+    "id_profesor": "1997",
+    "sueldo_profesor": "4054356",
+    "col3": "4589"
+  },
+  {
+    "id_profesor": "1998",
+    "sueldo_profesor": "2230953",
+    "col3": "7560"
+  },
+  {
+    "id_profesor": "1999",
+    "sueldo_profesor": "2237348",
+    "col3": "622"
+  },
+  {
+    "id_profesor": "2000",
+    "sueldo_profesor": "3858465",
+    "col3": "401"
+  }
+]

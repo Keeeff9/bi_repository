@@ -1,0 +1,502 @@
+[
+  {
+    "id_sede": "1",
+    "nombre_sede": "Rodr\u00edguez LLC",
+    "col3": "Avenida carrera 9\u00aa # 11-32 Local 824 130524 San Jacinto, Bol\u00edvar"
+  },
+  {
+    "id_sede": "2",
+    "nombre_sede": "Berm\u00fadez-Hern\u00e1ndez",
+    "col3": "Diagonal 1\u00aa # 9-60 Sur 760331 Dagua, Valle del Cauca"
+  },
+  {
+    "id_sede": "3",
+    "nombre_sede": "Castrill\u00f3n, Torres and Morales",
+    "col3": "Calle 11 # 56-90 Este 521019 Imu\u00e9s, Nari\u00f1o"
+  },
+  {
+    "id_sede": "4",
+    "nombre_sede": "Mu\u00f1oz PLC",
+    "col3": "Cl. 180 Bis # 13B-6 Sur Bodega 497 136525 Talaigua Nuevo, Bol\u00edvar"
+  },
+  {
+    "id_sede": "5",
+    "nombre_sede": "Hoyos-Vel\u00e1squez",
+    "col3": "Cl. 4\u00aa # 27-5 Este Torre 5 apartamento 824 502835 El Calvario, Meta"
+  },
+  {
+    "id_sede": "6",
+    "nombre_sede": "V\u00e9lez, Acosta and Rodr\u00edguez",
+    "col3": "Carrera 40 # 4-17 Local 7 192037 Corinto, Cauca"
+  },
+  {
+    "id_sede": "7",
+    "nombre_sede": "Ram\u00edrez Inc",
+    "col3": "Diagonal 8\u00aa # 16-9 Este Apto. 5 198231 Padilla, Cauca"
+  },
+  {
+    "id_sede": "8",
+    "nombre_sede": "Gonz\u00e1lez, Saavedra and Osorio",
+    "col3": "Avenida calle 10 # 31L-71 Bodega 47 155192 P\u00e1ez, Boyac\u00e1"
+  },
+  {
+    "id_sede": "9",
+    "nombre_sede": "Hurtado Inc",
+    "col3": "Av. calle 6\u00aa # 70-82 Apto. 4 760909 Candelaria, Valle del Cauca"
+  },
+  {
+    "id_sede": "10",
+    "nombre_sede": "Arroyo-Montoya",
+    "col3": "Transversal 23S # 9O-1 Sur Oficina 864 273202 Acand\u00ed, Choc\u00f3"
+  },
+  {
+    "id_sede": "11",
+    "nombre_sede": "Mosquera Inc",
+    "col3": "Cr. 71 # 76-74 Sur 057124 Alejandr\u00eda, Antioquia"
+  },
+  {
+    "id_sede": "12",
+    "nombre_sede": "Vega-Trujillo",
+    "col3": "Avenida Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina # 55-6 Sur Etapa 1 apartamento 850 738999 Honda, Tolima"
+  },
+  {
+    "id_sede": "13",
+    "nombre_sede": "Lozano Ltd",
+    "col3": "Cr. 1Q # 2-5 680602 Macaravita, Santander"
+  },
+  {
+    "id_sede": "14",
+    "nombre_sede": "Blanco-Pab\u00f3n",
+    "col3": "Cl. 3G # 47D-61 Sur Local 122 689788 Betulia, Santander"
+  },
+  {
+    "id_sede": "15",
+    "nombre_sede": "Trujillo Inc",
+    "col3": "Cl. 6\u00aa # 7-9 Bodega 9 256161 Gama, Cundinamarca"
+  },
+  {
+    "id_sede": "16",
+    "nombre_sede": "Mantilla-Herrera",
+    "col3": "Avenida calle 37 # 1-35 Este Local 10 734636 Salda\u00f1a, Tolima"
+  },
+  {
+    "id_sede": "17",
+    "nombre_sede": "Garz\u00f3n-\u00c1lvarez",
+    "col3": "Calle 63 # 1-9 Etapa 9 apartamento 66 543100 Villa Caro, Norte de Santander"
+  },
+  {
+    "id_sede": "18",
+    "nombre_sede": "Orozco LLC",
+    "col3": "Dg. 2\u00aa # 4-8 Este 739656 Alvarado, Tolima"
+  },
+  {
+    "id_sede": "19",
+    "nombre_sede": "Triana-Hern\u00e1ndez",
+    "col3": "Cl. 5\u00aa # 87-24 181250 Solita, Caquet\u00e1"
+  },
+  {
+    "id_sede": "20",
+    "nombre_sede": "Barrera LLC",
+    "col3": "Cr. 57 # 5-16 Este Casa 2 681397 Piedecuesta, Santander"
+  },
+  {
+    "id_sede": "21",
+    "nombre_sede": "P\u00e9rez, Herrera and Castillo",
+    "col3": "Av. Salazar # 1-93 Este 706686 San Luis de Sinc\u00e9, Sucre"
+  },
+  {
+    "id_sede": "22",
+    "nombre_sede": "Mosquera, L\u00f3pez and Mart\u00ednez",
+    "col3": "Carrera 70 # 6-5 Sur Apartamento 532 736217 Rioblanco, Tolima"
+  },
+  {
+    "id_sede": "23",
+    "nombre_sede": "Mej\u00eda PLC",
+    "col3": "Avenida calle 108 # 21-50 Local 372 761309 Cartago, Valle del Cauca"
+  },
+  {
+    "id_sede": "24",
+    "nombre_sede": "Giraldo, G\u00f3mez and Vega",
+    "col3": "Cl. 1\u00aa # 6-7 Este Apto. 629 155905 G\u00fcic\u00e1n de la Sierra, Boyac\u00e1"
+  },
+  {
+    "id_sede": "25",
+    "nombre_sede": "Cuesta, Torres and L\u00f3pez",
+    "col3": "Calle 7\u00aa # 34-61 230207 Monter\u00eda"
+  },
+  {
+    "id_sede": "26",
+    "nombre_sede": "Quintero, Guti\u00e9rrez and Angulo",
+    "col3": "Calle 136X # 3-65 Bodega 50 520442 Ipiales, Nari\u00f1o"
+  },
+  {
+    "id_sede": "27",
+    "nombre_sede": "Gonz\u00e1lez-Moreno",
+    "col3": "Calle 33 # 6-73 Local 11 763876 Andaluc\u00eda, Valle del Cauca"
+  },
+  {
+    "id_sede": "28",
+    "nombre_sede": "Acosta Inc",
+    "col3": "Cr. 58K # 3X-78 Sur 819207 Arauca"
+  },
+  {
+    "id_sede": "29",
+    "nombre_sede": "Mart\u00ednez, Contreras and Escobar",
+    "col3": "Cl. 51 # 3W-6 Este Apartamento 92 704886 La Uni\u00f3n, Sucre"
+  },
+  {
+    "id_sede": "30",
+    "nombre_sede": "Murcia, Aguilar and Acosta",
+    "col3": "Cr. 54O # 5H-3 Bodega 30 416629 Acevedo, Huila"
+  },
+  {
+    "id_sede": "31",
+    "nombre_sede": "D\u00edaz LLC",
+    "col3": "Carrera 115 # 2-35 Apto. 2 528489 Mag\u00fc\u00ed, Nari\u00f1o"
+  },
+  {
+    "id_sede": "32",
+    "nombre_sede": "C\u00e1ceres Group",
+    "col3": "Tr. 39T # 5Q-15 Sur 131911 Villanueva, Bol\u00edvar"
+  },
+  {
+    "id_sede": "33",
+    "nombre_sede": "Ortiz, P\u00e9rez and Mu\u00f1oz",
+    "col3": "Av. Omar Becerra # 9-4 Sur 731145 Palocabildo, Tolima"
+  },
+  {
+    "id_sede": "34",
+    "nombre_sede": "Osorio, Vergara and L\u00f3pez",
+    "col3": "Carrera 30 # 26-86 Este Torre 7 apartamento 262 955603 Miraflores, Guaviare"
+  },
+  {
+    "id_sede": "35",
+    "nombre_sede": "Moreno-Guerrero",
+    "col3": "Calle 74 # 44-1 Este 913689 Puerto Nari\u00f1o, Amazonas"
+  },
+  {
+    "id_sede": "36",
+    "nombre_sede": "Ocampo Group",
+    "col3": "Av. carrera 58 # 17-20 Este 689536 M\u00e1laga, Santander"
+  },
+  {
+    "id_sede": "37",
+    "nombre_sede": "Reyes, Molina and Mej\u00eda",
+    "col3": "Calle 42 Sur # 33B-11 681443 Guavat\u00e1, Santander"
+  },
+  {
+    "id_sede": "38",
+    "nombre_sede": "Torres LLC",
+    "col3": "Cl. 76 # 6-8 Sur 630099 Armenia"
+  },
+  {
+    "id_sede": "39",
+    "nombre_sede": "Ramos, Jaimes and Castro",
+    "col3": "Carrera 87 # 72R-7 Este Torre 9 apartamento 4 521234 La Uni\u00f3n, Nari\u00f1o"
+  },
+  {
+    "id_sede": "40",
+    "nombre_sede": "Boh\u00f3rquez LLC",
+    "col3": "Diagonal 8H Bis I # 5N-4 Torre 3 apartamento 25 471762 Algarrobo, Magdalena"
+  },
+  {
+    "id_sede": "41",
+    "nombre_sede": "Serrano Inc",
+    "col3": "Calle 193 # 1G-97 Sur 177803 Aguadas, Caldas"
+  },
+  {
+    "id_sede": "42",
+    "nombre_sede": "Forero LLC",
+    "col3": "Cl. 82 # 73F-6 Sur 415767 \u00cdquira, Huila"
+  },
+  {
+    "id_sede": "43",
+    "nombre_sede": "Pab\u00f3n, Aguilar and Zapata",
+    "col3": "Calle 194 # 45-67 Sur 478972 Nueva Granada, Magdalena"
+  },
+  {
+    "id_sede": "44",
+    "nombre_sede": "D\u00edaz-Ruiz",
+    "col3": "Avenida Pur\u00edsima de la Concepci\u00f3n # 6-30 Este Torre 5 apartamento 72 056157 Santa Rosa de Osos, Antioquia"
+  },
+  {
+    "id_sede": "45",
+    "nombre_sede": "Londo\u00f1o-C\u00e1rdenas",
+    "col3": "Avenida carrera 193 # 52-7 Sur Torre 8 apartamento 427 525441 Ipiales, Nari\u00f1o"
+  },
+  {
+    "id_sede": "46",
+    "nombre_sede": "Hurtado, Rosero and Moreno",
+    "col3": "Cl. 89 # 46-15 Este 158194 G\u00fcic\u00e1n de la Sierra, Boyac\u00e1"
+  },
+  {
+    "id_sede": "47",
+    "nombre_sede": "Gonz\u00e1les Group",
+    "col3": "Calle 51 # 5-71 207249 Astrea, Cesar"
+  },
+  {
+    "id_sede": "48",
+    "nombre_sede": "Cardona, Gonz\u00e1lez and Casta\u00f1eda",
+    "col3": "Calle 140O # 8-7 Bodega 4 686921 San Benito, Santander"
+  },
+  {
+    "id_sede": "49",
+    "nombre_sede": "Paz LLC",
+    "col3": "Avenida carrera 91 # 83-10 Este Etapa 4 apartamento 9 053808 Santa B\u00e1rbara, Antioquia"
+  },
+  {
+    "id_sede": "50",
+    "nombre_sede": "C\u00e1rdenas, Garc\u00eda and Carvajal",
+    "col3": "Calle 120 # 36-92 Apartamento 4 765430 Palmira, Valle del Cauca"
+  },
+  {
+    "id_sede": "51",
+    "nombre_sede": "Montoya and Sons",
+    "col3": "Calle 5\u00aa # 89-97 Sur 189347 El Pauj\u00edl, Caquet\u00e1"
+  },
+  {
+    "id_sede": "52",
+    "nombre_sede": "Silva-Anaya",
+    "col3": "Calle 165 # 8-6 259990 Manta, Cundinamarca"
+  },
+  {
+    "id_sede": "53",
+    "nombre_sede": "R\u00edos, C\u00e1rdenas and \u00c1lvarez",
+    "col3": "Carrera 9B Bis T # 5-28 Este Torre 8 apartamento 127 868270 Puerto Caicedo, Putumayo"
+  },
+  {
+    "id_sede": "54",
+    "nombre_sede": "N\u00fa\u00f1ez and Sons",
+    "col3": "Cr. 1\u00aa # 79Z-3 Este Oficina 1 443697 San Juan del Cesar, La Guajira"
+  },
+  {
+    "id_sede": "55",
+    "nombre_sede": "Vega-Valencia",
+    "col3": "Carrera 47 # 31-1 Sur Apto. 3 259434 Manta, Cundinamarca"
+  },
+  {
+    "id_sede": "56",
+    "nombre_sede": "Chaparro, Arias and Mu\u00f1oz",
+    "col3": "Diagonal 69 # 74-80 Este 662387 La Virginia, Risaralda"
+  },
+  {
+    "id_sede": "57",
+    "nombre_sede": "Ram\u00edrez-Torres",
+    "col3": "Av. Puerto Rond\u00f3n # 5-22 Sur 959425 Calamar, Guaviare"
+  },
+  {
+    "id_sede": "58",
+    "nombre_sede": "Quintero and Sons",
+    "col3": "Cr. 187 # 6-92 Este 549669 Teorama, Norte de Santander"
+  },
+  {
+    "id_sede": "59",
+    "nombre_sede": "Figueroa, Castillo and Giraldo",
+    "col3": "Carrera 16 # 48-89 Este 155985 Villa de Leyva, Boyac\u00e1"
+  },
+  {
+    "id_sede": "60",
+    "nombre_sede": "Montoya-D\u00edaz",
+    "col3": "Calle 8\u00aa # 30-3 Este Apartamento 280 198168 Almaguer, Cauca"
+  },
+  {
+    "id_sede": "61",
+    "nombre_sede": "Zambrano PLC",
+    "col3": "Cr. 7P Sur # 5-4 733156 Coyaima, Tolima"
+  },
+  {
+    "id_sede": "62",
+    "nombre_sede": "Guti\u00e9rrez and Sons",
+    "col3": "Avenida carrera 3\u00aa # 90-24 733561 Alvarado, Tolima"
+  },
+  {
+    "id_sede": "63",
+    "nombre_sede": "G\u00f3mez PLC",
+    "col3": "Transversal 54 Sur # 76-37 058804 San Pedro de Urab\u00e1, Antioquia"
+  },
+  {
+    "id_sede": "64",
+    "nombre_sede": "Gonz\u00e1lez, Arias and Hern\u00e1ndez",
+    "col3": "Cl. 48 # 43-30 Este 054295 Frontino, Antioquia"
+  },
+  {
+    "id_sede": "65",
+    "nombre_sede": "Hurtado PLC",
+    "col3": "Diagonal 47 # 3-44 Este 181648 Mil\u00e1n, Caquet\u00e1"
+  },
+  {
+    "id_sede": "66",
+    "nombre_sede": "Garc\u00eda-Bustamante",
+    "col3": "Cr. 22 # 4K-1 Sur 135167 Morales, Bol\u00edvar"
+  },
+  {
+    "id_sede": "67",
+    "nombre_sede": "Garc\u00e9s-Arias",
+    "col3": "Dg. 52 # 3-37 Sur 135196 San Mart\u00edn de Loba, Bol\u00edvar"
+  },
+  {
+    "id_sede": "68",
+    "nombre_sede": "Vel\u00e1squez, Hurtado and Cruz",
+    "col3": "Calle 48 # 7-8 132195 San Estanislao, Bol\u00edvar"
+  },
+  {
+    "id_sede": "69",
+    "nombre_sede": "Saavedra-Salazar",
+    "col3": "Cl. 41 # 2-4 Este Torre 5 apartamento 91 414962 Agrado, Huila"
+  },
+  {
+    "id_sede": "70",
+    "nombre_sede": "Londo\u00f1o, P\u00e9rez and Ch\u00e1vez",
+    "col3": "Avenida carrera 97 # 71-7 546851 Puerto Santander, Norte de Santander"
+  },
+  {
+    "id_sede": "71",
+    "nombre_sede": "Padilla Group",
+    "col3": "Avenida M\u00e1laga # 98-92 Oficina 75 630852 Quimbaya, Quind\u00edo"
+  },
+  {
+    "id_sede": "72",
+    "nombre_sede": "Murillo Group",
+    "col3": "Dg. 96 # 4-9 686034 Mogotes, Santander"
+  },
+  {
+    "id_sede": "73",
+    "nombre_sede": "Ruiz and Sons",
+    "col3": "Transversal 5\u00aa # 15Y-59 Casa 90 052129 Andes, Antioquia"
+  },
+  {
+    "id_sede": "74",
+    "nombre_sede": "Rodr\u00edguez-D\u00edaz",
+    "col3": "Av. calle 5\u00aa # 5-41 Bodega 63 159795 G\u00fcic\u00e1n de la Sierra, Boyac\u00e1"
+  },
+  {
+    "id_sede": "75",
+    "nombre_sede": "Soto-Murillo",
+    "col3": "Avenida Jorge Mendoza # 9H-26 Sur 945794 Pana Pana, Guain\u00eda"
+  },
+  {
+    "id_sede": "76",
+    "nombre_sede": "Hern\u00e1ndez, Obando and L\u00f3pez",
+    "col3": "Tr. 17 # 11-74 Sur Local 97 056759 San Andr\u00e9s de Cuerqu\u00eda, Antioquia"
+  },
+  {
+    "id_sede": "77",
+    "nombre_sede": "L\u00f3pez Group",
+    "col3": "Transversal 94H # 12-2 Sur Oficina 7 500012 Castilla la Nueva, Meta"
+  },
+  {
+    "id_sede": "78",
+    "nombre_sede": "Rodr\u00edguez-Mart\u00ednez",
+    "col3": "Avenida Manizales # 59-4 Este 156548 Saboy\u00e1, Boyac\u00e1"
+  },
+  {
+    "id_sede": "79",
+    "nombre_sede": "G\u00f3mez Inc",
+    "col3": "Av. calle 9\u00aa # 60-9 Sur 737610 L\u00e9rida, Tolima"
+  },
+  {
+    "id_sede": "80",
+    "nombre_sede": "Ram\u00edrez, Restrepo and Salazar",
+    "col3": "Av. carrera 5\u00aa # 7-1 Sur 051565 San Pedro de Urab\u00e1, Antioquia"
+  },
+  {
+    "id_sede": "81",
+    "nombre_sede": "Franco, Gonz\u00e1lez and Castellanos",
+    "col3": "Avenida Maldonado # 45-12 Este 685935 Simacota, Santander"
+  },
+  {
+    "id_sede": "82",
+    "nombre_sede": "Oviedo, Padilla and Beltr\u00e1n",
+    "col3": "Cl. 5T # 5-32 Bodega 25 085602 Malambo, Atl\u00e1ntico"
+  },
+  {
+    "id_sede": "83",
+    "nombre_sede": "Blanco, Blanco and Torres",
+    "col3": "Cl. 30 # 41-53 155943 Socot\u00e1, Boyac\u00e1"
+  },
+  {
+    "id_sede": "84",
+    "nombre_sede": "Rodr\u00edguez-Gonz\u00e1lez",
+    "col3": "Av. San Agust\u00edn # 58-31 Sur Bodega 84 257383 Fusagasug\u00e1, Cundinamarca"
+  },
+  {
+    "id_sede": "85",
+    "nombre_sede": "Jim\u00e9nez, Calder\u00f3n and Bedoya",
+    "col3": "Cl. 87 # 8K-21 Sur 279301 Sip\u00ed, Choc\u00f3"
+  },
+  {
+    "id_sede": "86",
+    "nombre_sede": "Mej\u00eda LLC",
+    "col3": "Av. Laura Benavides Arango # 99Y-29 867891 Santiago, Putumayo"
+  },
+  {
+    "id_sede": "87",
+    "nombre_sede": "Ruiz Group",
+    "col3": "Diagonal 6\u00aa # 42U-63 Este 271676 Quibd\u00f3"
+  },
+  {
+    "id_sede": "88",
+    "nombre_sede": "Le\u00f3n-Escobar",
+    "col3": "Calle 25K # 60-82 Este Bodega 637 050785 Jeric\u00f3, Antioquia"
+  },
+  {
+    "id_sede": "89",
+    "nombre_sede": "Salazar, N\u00fa\u00f1ez and L\u00f3pez",
+    "col3": "Cr. 147O # 21-3 257221 Cajic\u00e1, Cundinamarca"
+  },
+  {
+    "id_sede": "90",
+    "nombre_sede": "Polo-L\u00f3pez",
+    "col3": "Avenida calle 12 # 1-15 Este 661942 Santa Rosa de Cabal, Risaralda"
+  },
+  {
+    "id_sede": "91",
+    "nombre_sede": "Hern\u00e1ndez LLC",
+    "col3": "Avenida calle 2\u00aa # 7K-32 056719 Montebello, Antioquia"
+  },
+  {
+    "id_sede": "92",
+    "nombre_sede": "Salazar, Castro and Zapata",
+    "col3": "Cl. 3\u00aa # 87-58 Sur 156628 Nuevo Col\u00f3n, Boyac\u00e1"
+  },
+  {
+    "id_sede": "93",
+    "nombre_sede": "Gonz\u00e1lez Ltd",
+    "col3": "Avenida calle 34 # 9-75 Este 052888 San Roque, Antioquia"
+  },
+  {
+    "id_sede": "94",
+    "nombre_sede": "Rojas, Pe\u00f1a and Valencia",
+    "col3": "Carrera 106 # 42-86 Apto. 789 180164 El Doncello, Caquet\u00e1"
+  },
+  {
+    "id_sede": "95",
+    "nombre_sede": "Quintero-Prada",
+    "col3": "Carrera 183 Este # 2A-7 Sur Oficina 415 191734 Miranda, Cauca"
+  },
+  {
+    "id_sede": "96",
+    "nombre_sede": "Gonz\u00e1lez-S\u00e1nchez",
+    "col3": "Cr. 6 Bis C # 4-84 Este 503553 Mapirip\u00e1n, Meta"
+  },
+  {
+    "id_sede": "97",
+    "nombre_sede": "Camacho, Mej\u00eda and Castro",
+    "col3": "Calle 9R Bis # 99H-6 Sur 667554 Quinch\u00eda, Risaralda"
+  },
+  {
+    "id_sede": "98",
+    "nombre_sede": "Vallejo-Romero",
+    "col3": "Cr. 9\u00aa # 76-2 Sur Apartamento 58 730590 Guamo, Tolima"
+  },
+  {
+    "id_sede": "99",
+    "nombre_sede": "Figueroa, Ni\u00f1o and R\u00edos",
+    "col3": "Avenida calle 196 # 25-32 Sur Apartamento 15 520971 Francisco Pizarro, Nari\u00f1o"
+  },
+  {
+    "id_sede": "100",
+    "nombre_sede": "Bautista Inc",
+    "col3": "Transversal 32 # 52-6 Apto. 6 183520 El Doncello, Caquet\u00e1"
+  }
+]

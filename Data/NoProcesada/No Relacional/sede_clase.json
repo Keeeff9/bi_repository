@@ -1,0 +1,10002 @@
+[
+  {
+    "idSedeClase": "910",
+    "id_sede": "41",
+    "id_clase": "1"
+  },
+  {
+    "idSedeClase": "1739",
+    "id_sede": "30",
+    "id_clase": "4"
+  },
+  {
+    "idSedeClase": "1872",
+    "id_sede": "61",
+    "id_clase": "4"
+  },
+  {
+    "idSedeClase": "1826",
+    "id_sede": "52",
+    "id_clase": "6"
+  },
+  {
+    "idSedeClase": "256",
+    "id_sede": "89",
+    "id_clase": "8"
+  },
+  {
+    "idSedeClase": "1073",
+    "id_sede": "57",
+    "id_clase": "8"
+  },
+  {
+    "idSedeClase": "1410",
+    "id_sede": "65",
+    "id_clase": "8"
+  },
+  {
+    "idSedeClase": "793",
+    "id_sede": "70",
+    "id_clase": "10"
+  },
+  {
+    "idSedeClase": "1831",
+    "id_sede": "84",
+    "id_clase": "13"
+  },
+  {
+    "idSedeClase": "610",
+    "id_sede": "69",
+    "id_clase": "14"
+  },
+  {
+    "idSedeClase": "1984",
+    "id_sede": "45",
+    "id_clase": "14"
+  },
+  {
+    "idSedeClase": "149",
+    "id_sede": "29",
+    "id_clase": "16"
+  },
+  {
+    "idSedeClase": "1165",
+    "id_sede": "34",
+    "id_clase": "16"
+  },
+  {
+    "idSedeClase": "1476",
+    "id_sede": "1",
+    "id_clase": "16"
+  },
+  {
+    "idSedeClase": "442",
+    "id_sede": "60",
+    "id_clase": "18"
+  },
+  {
+    "idSedeClase": "1367",
+    "id_sede": "22",
+    "id_clase": "19"
+  },
+  {
+    "idSedeClase": "1382",
+    "id_sede": "11",
+    "id_clase": "19"
+  },
+  {
+    "idSedeClase": "1443",
+    "id_sede": "6",
+    "id_clase": "19"
+  },
+  {
+    "idSedeClase": "1465",
+    "id_sede": "48",
+    "id_clase": "20"
+  },
+  {
+    "idSedeClase": "217",
+    "id_sede": "99",
+    "id_clase": "21"
+  },
+  {
+    "idSedeClase": "663",
+    "id_sede": "17",
+    "id_clase": "21"
+  },
+  {
+    "idSedeClase": "10",
+    "id_sede": "27",
+    "id_clase": "23"
+  },
+  {
+    "idSedeClase": "180",
+    "id_sede": "99",
+    "id_clase": "24"
+  },
+  {
+    "idSedeClase": "440",
+    "id_sede": "71",
+    "id_clase": "25"
+  },
+  {
+    "idSedeClase": "874",
+    "id_sede": "69",
+    "id_clase": "25"
+  },
+  {
+    "idSedeClase": "661",
+    "id_sede": "28",
+    "id_clase": "26"
+  },
+  {
+    "idSedeClase": "916",
+    "id_sede": "55",
+    "id_clase": "26"
+  },
+  {
+    "idSedeClase": "1270",
+    "id_sede": "65",
+    "id_clase": "28"
+  },
+  {
+    "idSedeClase": "1694",
+    "id_sede": "43",
+    "id_clase": "28"
+  },
+  {
+    "idSedeClase": "1225",
+    "id_sede": "75",
+    "id_clase": "29"
+  },
+  {
+    "idSedeClase": "1245",
+    "id_sede": "24",
+    "id_clase": "29"
+  },
+  {
+    "idSedeClase": "806",
+    "id_sede": "29",
+    "id_clase": "31"
+  },
+  {
+    "idSedeClase": "1191",
+    "id_sede": "18",
+    "id_clase": "31"
+  },
+  {
+    "idSedeClase": "1700",
+    "id_sede": "53",
+    "id_clase": "31"
+  },
+  {
+    "idSedeClase": "1625",
+    "id_sede": "97",
+    "id_clase": "33"
+  },
+  {
+    "idSedeClase": "1522",
+    "id_sede": "32",
+    "id_clase": "35"
+  },
+  {
+    "idSedeClase": "525",
+    "id_sede": "43",
+    "id_clase": "36"
+  },
+  {
+    "idSedeClase": "1925",
+    "id_sede": "82",
+    "id_clase": "36"
+  },
+  {
+    "idSedeClase": "86",
+    "id_sede": "18",
+    "id_clase": "37"
+  },
+  {
+    "idSedeClase": "802",
+    "id_sede": "91",
+    "id_clase": "37"
+  },
+  {
+    "idSedeClase": "1778",
+    "id_sede": "59",
+    "id_clase": "37"
+  },
+  {
+    "idSedeClase": "1819",
+    "id_sede": "85",
+    "id_clase": "37"
+  },
+  {
+    "idSedeClase": "1279",
+    "id_sede": "60",
+    "id_clase": "38"
+  },
+  {
+    "idSedeClase": "1964",
+    "id_sede": "46",
+    "id_clase": "38"
+  },
+  {
+    "idSedeClase": "634",
+    "id_sede": "46",
+    "id_clase": "39"
+  },
+  {
+    "idSedeClase": "1689",
+    "id_sede": "21",
+    "id_clase": "39"
+  },
+  {
+    "idSedeClase": "1012",
+    "id_sede": "23",
+    "id_clase": "41"
+  },
+  {
+    "idSedeClase": "1595",
+    "id_sede": "77",
+    "id_clase": "42"
+  },
+  {
+    "idSedeClase": "1624",
+    "id_sede": "77",
+    "id_clase": "43"
+  },
+  {
+    "idSedeClase": "1232",
+    "id_sede": "64",
+    "id_clase": "44"
+  },
+  {
+    "idSedeClase": "206",
+    "id_sede": "17",
+    "id_clase": "45"
+  },
+  {
+    "idSedeClase": "439",
+    "id_sede": "9",
+    "id_clase": "46"
+  },
+  {
+    "idSedeClase": "1093",
+    "id_sede": "81",
+    "id_clase": "47"
+  },
+  {
+    "idSedeClase": "325",
+    "id_sede": "97",
+    "id_clase": "48"
+  },
+  {
+    "idSedeClase": "548",
+    "id_sede": "85",
+    "id_clase": "48"
+  },
+  {
+    "idSedeClase": "974",
+    "id_sede": "71",
+    "id_clase": "49"
+  },
+  {
+    "idSedeClase": "1430",
+    "id_sede": "8",
+    "id_clase": "53"
+  },
+  {
+    "idSedeClase": "1368",
+    "id_sede": "7",
+    "id_clase": "54"
+  },
+  {
+    "idSedeClase": "117",
+    "id_sede": "80",
+    "id_clase": "55"
+  },
+  {
+    "idSedeClase": "59",
+    "id_sede": "12",
+    "id_clase": "56"
+  },
+  {
+    "idSedeClase": "252",
+    "id_sede": "32",
+    "id_clase": "56"
+  },
+  {
+    "idSedeClase": "274",
+    "id_sede": "77",
+    "id_clase": "57"
+  },
+  {
+    "idSedeClase": "1651",
+    "id_sede": "10",
+    "id_clase": "57"
+  },
+  {
+    "idSedeClase": "517",
+    "id_sede": "78",
+    "id_clase": "58"
+  },
+  {
+    "idSedeClase": "58",
+    "id_sede": "69",
+    "id_clase": "61"
+  },
+  {
+    "idSedeClase": "1391",
+    "id_sede": "18",
+    "id_clase": "62"
+  },
+  {
+    "idSedeClase": "1695",
+    "id_sede": "5",
+    "id_clase": "63"
+  },
+  {
+    "idSedeClase": "1282",
+    "id_sede": "63",
+    "id_clase": "65"
+  },
+  {
+    "idSedeClase": "475",
+    "id_sede": "16",
+    "id_clase": "66"
+  },
+  {
+    "idSedeClase": "1873",
+    "id_sede": "14",
+    "id_clase": "66"
+  },
+  {
+    "idSedeClase": "1452",
+    "id_sede": "82",
+    "id_clase": "67"
+  },
+  {
+    "idSedeClase": "705",
+    "id_sede": "41",
+    "id_clase": "68"
+  },
+  {
+    "idSedeClase": "970",
+    "id_sede": "35",
+    "id_clase": "68"
+  },
+  {
+    "idSedeClase": "1672",
+    "id_sede": "24",
+    "id_clase": "68"
+  },
+  {
+    "idSedeClase": "1045",
+    "id_sede": "45",
+    "id_clase": "70"
+  },
+  {
+    "idSedeClase": "1881",
+    "id_sede": "2",
+    "id_clase": "71"
+  },
+  {
+    "idSedeClase": "1389",
+    "id_sede": "10",
+    "id_clase": "72"
+  },
+  {
+    "idSedeClase": "1460",
+    "id_sede": "55",
+    "id_clase": "72"
+  },
+  {
+    "idSedeClase": "1637",
+    "id_sede": "3",
+    "id_clase": "72"
+  },
+  {
+    "idSedeClase": "1847",
+    "id_sede": "29",
+    "id_clase": "73"
+  },
+  {
+    "idSedeClase": "1445",
+    "id_sede": "52",
+    "id_clase": "74"
+  },
+  {
+    "idSedeClase": "576",
+    "id_sede": "74",
+    "id_clase": "75"
+  },
+  {
+    "idSedeClase": "148",
+    "id_sede": "39",
+    "id_clase": "76"
+  },
+  {
+    "idSedeClase": "534",
+    "id_sede": "50",
+    "id_clase": "76"
+  },
+  {
+    "idSedeClase": "1454",
+    "id_sede": "62",
+    "id_clase": "76"
+  },
+  {
+    "idSedeClase": "1455",
+    "id_sede": "9",
+    "id_clase": "76"
+  },
+  {
+    "idSedeClase": "162",
+    "id_sede": "52",
+    "id_clase": "77"
+  },
+  {
+    "idSedeClase": "468",
+    "id_sede": "39",
+    "id_clase": "78"
+  },
+  {
+    "idSedeClase": "1089",
+    "id_sede": "58",
+    "id_clase": "78"
+  },
+  {
+    "idSedeClase": "1612",
+    "id_sede": "41",
+    "id_clase": "78"
+  },
+  {
+    "idSedeClase": "642",
+    "id_sede": "28",
+    "id_clase": "79"
+  },
+  {
+    "idSedeClase": "540",
+    "id_sede": "66",
+    "id_clase": "80"
+  },
+  {
+    "idSedeClase": "924",
+    "id_sede": "66",
+    "id_clase": "81"
+  },
+  {
+    "idSedeClase": "204",
+    "id_sede": "100",
+    "id_clase": "83"
+  },
+  {
+    "idSedeClase": "394",
+    "id_sede": "32",
+    "id_clase": "83"
+  },
+  {
+    "idSedeClase": "1261",
+    "id_sede": "53",
+    "id_clase": "84"
+  },
+  {
+    "idSedeClase": "1973",
+    "id_sede": "71",
+    "id_clase": "86"
+  },
+  {
+    "idSedeClase": "1310",
+    "id_sede": "98",
+    "id_clase": "87"
+  },
+  {
+    "idSedeClase": "199",
+    "id_sede": "29",
+    "id_clase": "89"
+  },
+  {
+    "idSedeClase": "1249",
+    "id_sede": "79",
+    "id_clase": "90"
+  },
+  {
+    "idSedeClase": "1136",
+    "id_sede": "58",
+    "id_clase": "91"
+  },
+  {
+    "idSedeClase": "177",
+    "id_sede": "26",
+    "id_clase": "94"
+  },
+  {
+    "idSedeClase": "351",
+    "id_sede": "67",
+    "id_clase": "94"
+  },
+  {
+    "idSedeClase": "1042",
+    "id_sede": "62",
+    "id_clase": "94"
+  },
+  {
+    "idSedeClase": "1692",
+    "id_sede": "20",
+    "id_clase": "94"
+  },
+  {
+    "idSedeClase": "1544",
+    "id_sede": "73",
+    "id_clase": "95"
+  },
+  {
+    "idSedeClase": "719",
+    "id_sede": "81",
+    "id_clase": "97"
+  },
+  {
+    "idSedeClase": "1762",
+    "id_sede": "70",
+    "id_clase": "98"
+  },
+  {
+    "idSedeClase": "1887",
+    "id_sede": "73",
+    "id_clase": "98"
+  },
+  {
+    "idSedeClase": "536",
+    "id_sede": "63",
+    "id_clase": "100"
+  },
+  {
+    "idSedeClase": "1553",
+    "id_sede": "26",
+    "id_clase": "101"
+  },
+  {
+    "idSedeClase": "1687",
+    "id_sede": "40",
+    "id_clase": "102"
+  },
+  {
+    "idSedeClase": "865",
+    "id_sede": "45",
+    "id_clase": "103"
+  },
+  {
+    "idSedeClase": "943",
+    "id_sede": "59",
+    "id_clase": "104"
+  },
+  {
+    "idSedeClase": "1727",
+    "id_sede": "14",
+    "id_clase": "104"
+  },
+  {
+    "idSedeClase": "350",
+    "id_sede": "78",
+    "id_clase": "106"
+  },
+  {
+    "idSedeClase": "497",
+    "id_sede": "47",
+    "id_clase": "106"
+  },
+  {
+    "idSedeClase": "1184",
+    "id_sede": "8",
+    "id_clase": "106"
+  },
+  {
+    "idSedeClase": "804",
+    "id_sede": "20",
+    "id_clase": "107"
+  },
+  {
+    "idSedeClase": "935",
+    "id_sede": "12",
+    "id_clase": "108"
+  },
+  {
+    "idSedeClase": "652",
+    "id_sede": "29",
+    "id_clase": "109"
+  },
+  {
+    "idSedeClase": "878",
+    "id_sede": "91",
+    "id_clase": "110"
+  },
+  {
+    "idSedeClase": "1268",
+    "id_sede": "21",
+    "id_clase": "111"
+  },
+  {
+    "idSedeClase": "358",
+    "id_sede": "12",
+    "id_clase": "112"
+  },
+  {
+    "idSedeClase": "1992",
+    "id_sede": "21",
+    "id_clase": "112"
+  },
+  {
+    "idSedeClase": "510",
+    "id_sede": "78",
+    "id_clase": "113"
+  },
+  {
+    "idSedeClase": "1681",
+    "id_sede": "35",
+    "id_clase": "114"
+  },
+  {
+    "idSedeClase": "37",
+    "id_sede": "8",
+    "id_clase": "115"
+  },
+  {
+    "idSedeClase": "920",
+    "id_sede": "78",
+    "id_clase": "115"
+  },
+  {
+    "idSedeClase": "1147",
+    "id_sede": "68",
+    "id_clase": "116"
+  },
+  {
+    "idSedeClase": "1345",
+    "id_sede": "79",
+    "id_clase": "116"
+  },
+  {
+    "idSedeClase": "233",
+    "id_sede": "16",
+    "id_clase": "117"
+  },
+  {
+    "idSedeClase": "1657",
+    "id_sede": "10",
+    "id_clase": "117"
+  },
+  {
+    "idSedeClase": "1901",
+    "id_sede": "16",
+    "id_clase": "117"
+  },
+  {
+    "idSedeClase": "257",
+    "id_sede": "39",
+    "id_clase": "118"
+  },
+  {
+    "idSedeClase": "487",
+    "id_sede": "75",
+    "id_clase": "118"
+  },
+  {
+    "idSedeClase": "1373",
+    "id_sede": "43",
+    "id_clase": "118"
+  },
+  {
+    "idSedeClase": "1063",
+    "id_sede": "50",
+    "id_clase": "120"
+  },
+  {
+    "idSedeClase": "1111",
+    "id_sede": "45",
+    "id_clase": "121"
+  },
+  {
+    "idSedeClase": "1838",
+    "id_sede": "17",
+    "id_clase": "122"
+  },
+  {
+    "idSedeClase": "167",
+    "id_sede": "16",
+    "id_clase": "125"
+  },
+  {
+    "idSedeClase": "287",
+    "id_sede": "64",
+    "id_clase": "128"
+  },
+  {
+    "idSedeClase": "43",
+    "id_sede": "96",
+    "id_clase": "129"
+  },
+  {
+    "idSedeClase": "737",
+    "id_sede": "65",
+    "id_clase": "129"
+  },
+  {
+    "idSedeClase": "937",
+    "id_sede": "23",
+    "id_clase": "130"
+  },
+  {
+    "idSedeClase": "834",
+    "id_sede": "15",
+    "id_clase": "131"
+  },
+  {
+    "idSedeClase": "503",
+    "id_sede": "73",
+    "id_clase": "132"
+  },
+  {
+    "idSedeClase": "1020",
+    "id_sede": "13",
+    "id_clase": "132"
+  },
+  {
+    "idSedeClase": "1027",
+    "id_sede": "81",
+    "id_clase": "132"
+  },
+  {
+    "idSedeClase": "413",
+    "id_sede": "60",
+    "id_clase": "133"
+  },
+  {
+    "idSedeClase": "702",
+    "id_sede": "18",
+    "id_clase": "134"
+  },
+  {
+    "idSedeClase": "1952",
+    "id_sede": "38",
+    "id_clase": "134"
+  },
+  {
+    "idSedeClase": "53",
+    "id_sede": "44",
+    "id_clase": "138"
+  },
+  {
+    "idSedeClase": "1766",
+    "id_sede": "92",
+    "id_clase": "139"
+  },
+  {
+    "idSedeClase": "1861",
+    "id_sede": "68",
+    "id_clase": "139"
+  },
+  {
+    "idSedeClase": "994",
+    "id_sede": "65",
+    "id_clase": "140"
+  },
+  {
+    "idSedeClase": "673",
+    "id_sede": "21",
+    "id_clase": "142"
+  },
+  {
+    "idSedeClase": "1502",
+    "id_sede": "67",
+    "id_clase": "142"
+  },
+  {
+    "idSedeClase": "608",
+    "id_sede": "80",
+    "id_clase": "143"
+  },
+  {
+    "idSedeClase": "718",
+    "id_sede": "10",
+    "id_clase": "145"
+  },
+  {
+    "idSedeClase": "578",
+    "id_sede": "6",
+    "id_clase": "146"
+  },
+  {
+    "idSedeClase": "1044",
+    "id_sede": "23",
+    "id_clase": "146"
+  },
+  {
+    "idSedeClase": "740",
+    "id_sede": "26",
+    "id_clase": "147"
+  },
+  {
+    "idSedeClase": "1742",
+    "id_sede": "8",
+    "id_clase": "147"
+  },
+  {
+    "idSedeClase": "1850",
+    "id_sede": "82",
+    "id_clase": "148"
+  },
+  {
+    "idSedeClase": "1254",
+    "id_sede": "53",
+    "id_clase": "149"
+  },
+  {
+    "idSedeClase": "1328",
+    "id_sede": "55",
+    "id_clase": "149"
+  },
+  {
+    "idSedeClase": "1682",
+    "id_sede": "62",
+    "id_clase": "150"
+  },
+  {
+    "idSedeClase": "552",
+    "id_sede": "57",
+    "id_clase": "155"
+  },
+  {
+    "idSedeClase": "1486",
+    "id_sede": "1",
+    "id_clase": "155"
+  },
+  {
+    "idSedeClase": "975",
+    "id_sede": "57",
+    "id_clase": "157"
+  },
+  {
+    "idSedeClase": "126",
+    "id_sede": "49",
+    "id_clase": "159"
+  },
+  {
+    "idSedeClase": "145",
+    "id_sede": "24",
+    "id_clase": "159"
+  },
+  {
+    "idSedeClase": "1163",
+    "id_sede": "32",
+    "id_clase": "159"
+  },
+  {
+    "idSedeClase": "1815",
+    "id_sede": "68",
+    "id_clase": "159"
+  },
+  {
+    "idSedeClase": "901",
+    "id_sede": "71",
+    "id_clase": "160"
+  },
+  {
+    "idSedeClase": "1723",
+    "id_sede": "51",
+    "id_clase": "161"
+  },
+  {
+    "idSedeClase": "885",
+    "id_sede": "90",
+    "id_clase": "163"
+  },
+  {
+    "idSedeClase": "1011",
+    "id_sede": "28",
+    "id_clase": "163"
+  },
+  {
+    "idSedeClase": "1666",
+    "id_sede": "77",
+    "id_clase": "163"
+  },
+  {
+    "idSedeClase": "1947",
+    "id_sede": "48",
+    "id_clase": "164"
+  },
+  {
+    "idSedeClase": "1280",
+    "id_sede": "67",
+    "id_clase": "165"
+  },
+  {
+    "idSedeClase": "203",
+    "id_sede": "71",
+    "id_clase": "166"
+  },
+  {
+    "idSedeClase": "685",
+    "id_sede": "65",
+    "id_clase": "167"
+  },
+  {
+    "idSedeClase": "1246",
+    "id_sede": "7",
+    "id_clase": "168"
+  },
+  {
+    "idSedeClase": "1521",
+    "id_sede": "80",
+    "id_clase": "168"
+  },
+  {
+    "idSedeClase": "61",
+    "id_sede": "7",
+    "id_clase": "171"
+  },
+  {
+    "idSedeClase": "1796",
+    "id_sede": "15",
+    "id_clase": "172"
+  },
+  {
+    "idSedeClase": "390",
+    "id_sede": "61",
+    "id_clase": "175"
+  },
+  {
+    "idSedeClase": "1540",
+    "id_sede": "11",
+    "id_clase": "176"
+  },
+  {
+    "idSedeClase": "474",
+    "id_sede": "51",
+    "id_clase": "177"
+  },
+  {
+    "idSedeClase": "1597",
+    "id_sede": "97",
+    "id_clase": "178"
+  },
+  {
+    "idSedeClase": "1605",
+    "id_sede": "93",
+    "id_clase": "179"
+  },
+  {
+    "idSedeClase": "1716",
+    "id_sede": "35",
+    "id_clase": "179"
+  },
+  {
+    "idSedeClase": "1726",
+    "id_sede": "48",
+    "id_clase": "180"
+  },
+  {
+    "idSedeClase": "435",
+    "id_sede": "61",
+    "id_clase": "181"
+  },
+  {
+    "idSedeClase": "886",
+    "id_sede": "21",
+    "id_clase": "182"
+  },
+  {
+    "idSedeClase": "1330",
+    "id_sede": "25",
+    "id_clase": "182"
+  },
+  {
+    "idSedeClase": "1743",
+    "id_sede": "42",
+    "id_clase": "183"
+  },
+  {
+    "idSedeClase": "624",
+    "id_sede": "44",
+    "id_clase": "184"
+  },
+  {
+    "idSedeClase": "1018",
+    "id_sede": "51",
+    "id_clase": "184"
+  },
+  {
+    "idSedeClase": "1943",
+    "id_sede": "84",
+    "id_clase": "184"
+  },
+  {
+    "idSedeClase": "17",
+    "id_sede": "8",
+    "id_clase": "185"
+  },
+  {
+    "idSedeClase": "939",
+    "id_sede": "29",
+    "id_clase": "188"
+  },
+  {
+    "idSedeClase": "108",
+    "id_sede": "38",
+    "id_clase": "189"
+  },
+  {
+    "idSedeClase": "946",
+    "id_sede": "31",
+    "id_clase": "189"
+  },
+  {
+    "idSedeClase": "216",
+    "id_sede": "33",
+    "id_clase": "191"
+  },
+  {
+    "idSedeClase": "1512",
+    "id_sede": "62",
+    "id_clase": "191"
+  },
+  {
+    "idSedeClase": "41",
+    "id_sede": "78",
+    "id_clase": "200"
+  },
+  {
+    "idSedeClase": "1940",
+    "id_sede": "97",
+    "id_clase": "202"
+  },
+  {
+    "idSedeClase": "1004",
+    "id_sede": "8",
+    "id_clase": "203"
+  },
+  {
+    "idSedeClase": "619",
+    "id_sede": "47",
+    "id_clase": "204"
+  },
+  {
+    "idSedeClase": "884",
+    "id_sede": "65",
+    "id_clase": "204"
+  },
+  {
+    "idSedeClase": "1450",
+    "id_sede": "38",
+    "id_clase": "204"
+  },
+  {
+    "idSedeClase": "636",
+    "id_sede": "49",
+    "id_clase": "205"
+  },
+  {
+    "idSedeClase": "64",
+    "id_sede": "9",
+    "id_clase": "206"
+  },
+  {
+    "idSedeClase": "457",
+    "id_sede": "58",
+    "id_clase": "209"
+  },
+  {
+    "idSedeClase": "1002",
+    "id_sede": "16",
+    "id_clase": "211"
+  },
+  {
+    "idSedeClase": "1381",
+    "id_sede": "80",
+    "id_clase": "211"
+  },
+  {
+    "idSedeClase": "620",
+    "id_sede": "29",
+    "id_clase": "213"
+  },
+  {
+    "idSedeClase": "1128",
+    "id_sede": "20",
+    "id_clase": "213"
+  },
+  {
+    "idSedeClase": "1707",
+    "id_sede": "83",
+    "id_clase": "213"
+  },
+  {
+    "idSedeClase": "57",
+    "id_sede": "70",
+    "id_clase": "215"
+  },
+  {
+    "idSedeClase": "1143",
+    "id_sede": "10",
+    "id_clase": "215"
+  },
+  {
+    "idSedeClase": "1186",
+    "id_sede": "17",
+    "id_clase": "215"
+  },
+  {
+    "idSedeClase": "981",
+    "id_sede": "17",
+    "id_clase": "216"
+  },
+  {
+    "idSedeClase": "237",
+    "id_sede": "82",
+    "id_clase": "217"
+  },
+  {
+    "idSedeClase": "876",
+    "id_sede": "67",
+    "id_clase": "217"
+  },
+  {
+    "idSedeClase": "603",
+    "id_sede": "34",
+    "id_clase": "218"
+  },
+  {
+    "idSedeClase": "1398",
+    "id_sede": "26",
+    "id_clase": "218"
+  },
+  {
+    "idSedeClase": "1613",
+    "id_sede": "12",
+    "id_clase": "219"
+  },
+  {
+    "idSedeClase": "1758",
+    "id_sede": "95",
+    "id_clase": "220"
+  },
+  {
+    "idSedeClase": "1948",
+    "id_sede": "79",
+    "id_clase": "220"
+  },
+  {
+    "idSedeClase": "363",
+    "id_sede": "63",
+    "id_clase": "221"
+  },
+  {
+    "idSedeClase": "1823",
+    "id_sede": "22",
+    "id_clase": "224"
+  },
+  {
+    "idSedeClase": "1207",
+    "id_sede": "25",
+    "id_clase": "226"
+  },
+  {
+    "idSedeClase": "1706",
+    "id_sede": "10",
+    "id_clase": "227"
+  },
+  {
+    "idSedeClase": "691",
+    "id_sede": "76",
+    "id_clase": "229"
+  },
+  {
+    "idSedeClase": "919",
+    "id_sede": "79",
+    "id_clase": "230"
+  },
+  {
+    "idSedeClase": "1983",
+    "id_sede": "19",
+    "id_clase": "234"
+  },
+  {
+    "idSedeClase": "675",
+    "id_sede": "83",
+    "id_clase": "236"
+  },
+  {
+    "idSedeClase": "1630",
+    "id_sede": "87",
+    "id_clase": "238"
+  },
+  {
+    "idSedeClase": "851",
+    "id_sede": "64",
+    "id_clase": "241"
+  },
+  {
+    "idSedeClase": "858",
+    "id_sede": "11",
+    "id_clase": "244"
+  },
+  {
+    "idSedeClase": "328",
+    "id_sede": "14",
+    "id_clase": "246"
+  },
+  {
+    "idSedeClase": "546",
+    "id_sede": "62",
+    "id_clase": "248"
+  },
+  {
+    "idSedeClase": "1798",
+    "id_sede": "31",
+    "id_clase": "248"
+  },
+  {
+    "idSedeClase": "176",
+    "id_sede": "7",
+    "id_clase": "250"
+  },
+  {
+    "idSedeClase": "1608",
+    "id_sede": "85",
+    "id_clase": "252"
+  },
+  {
+    "idSedeClase": "1645",
+    "id_sede": "56",
+    "id_clase": "252"
+  },
+  {
+    "idSedeClase": "990",
+    "id_sede": "79",
+    "id_clase": "254"
+  },
+  {
+    "idSedeClase": "1048",
+    "id_sede": "37",
+    "id_clase": "257"
+  },
+  {
+    "idSedeClase": "1607",
+    "id_sede": "43",
+    "id_clase": "257"
+  },
+  {
+    "idSedeClase": "1788",
+    "id_sede": "2",
+    "id_clase": "258"
+  },
+  {
+    "idSedeClase": "120",
+    "id_sede": "37",
+    "id_clase": "259"
+  },
+  {
+    "idSedeClase": "1908",
+    "id_sede": "81",
+    "id_clase": "259"
+  },
+  {
+    "idSedeClase": "461",
+    "id_sede": "99",
+    "id_clase": "261"
+  },
+  {
+    "idSedeClase": "1174",
+    "id_sede": "39",
+    "id_clase": "265"
+  },
+  {
+    "idSedeClase": "187",
+    "id_sede": "46",
+    "id_clase": "268"
+  },
+  {
+    "idSedeClase": "477",
+    "id_sede": "80",
+    "id_clase": "269"
+  },
+  {
+    "idSedeClase": "130",
+    "id_sede": "17",
+    "id_clase": "271"
+  },
+  {
+    "idSedeClase": "556",
+    "id_sede": "64",
+    "id_clase": "272"
+  },
+  {
+    "idSedeClase": "1077",
+    "id_sede": "47",
+    "id_clase": "272"
+  },
+  {
+    "idSedeClase": "14",
+    "id_sede": "98",
+    "id_clase": "273"
+  },
+  {
+    "idSedeClase": "1561",
+    "id_sede": "35",
+    "id_clase": "273"
+  },
+  {
+    "idSedeClase": "1426",
+    "id_sede": "80",
+    "id_clase": "274"
+  },
+  {
+    "idSedeClase": "643",
+    "id_sede": "88",
+    "id_clase": "275"
+  },
+  {
+    "idSedeClase": "860",
+    "id_sede": "44",
+    "id_clase": "275"
+  },
+  {
+    "idSedeClase": "526",
+    "id_sede": "96",
+    "id_clase": "276"
+  },
+  {
+    "idSedeClase": "90",
+    "id_sede": "20",
+    "id_clase": "278"
+  },
+  {
+    "idSedeClase": "1100",
+    "id_sede": "72",
+    "id_clase": "282"
+  },
+  {
+    "idSedeClase": "157",
+    "id_sede": "94",
+    "id_clase": "284"
+  },
+  {
+    "idSedeClase": "1356",
+    "id_sede": "65",
+    "id_clase": "285"
+  },
+  {
+    "idSedeClase": "765",
+    "id_sede": "49",
+    "id_clase": "286"
+  },
+  {
+    "idSedeClase": "813",
+    "id_sede": "100",
+    "id_clase": "288"
+  },
+  {
+    "idSedeClase": "1127",
+    "id_sede": "32",
+    "id_clase": "289"
+  },
+  {
+    "idSedeClase": "433",
+    "id_sede": "20",
+    "id_clase": "291"
+  },
+  {
+    "idSedeClase": "1878",
+    "id_sede": "95",
+    "id_clase": "291"
+  },
+  {
+    "idSedeClase": "1767",
+    "id_sede": "12",
+    "id_clase": "293"
+  },
+  {
+    "idSedeClase": "1898",
+    "id_sede": "58",
+    "id_clase": "293"
+  },
+  {
+    "idSedeClase": "1548",
+    "id_sede": "57",
+    "id_clase": "296"
+  },
+  {
+    "idSedeClase": "1614",
+    "id_sede": "72",
+    "id_clase": "296"
+  },
+  {
+    "idSedeClase": "147",
+    "id_sede": "31",
+    "id_clase": "297"
+  },
+  {
+    "idSedeClase": "1157",
+    "id_sede": "26",
+    "id_clase": "297"
+  },
+  {
+    "idSedeClase": "146",
+    "id_sede": "82",
+    "id_clase": "298"
+  },
+  {
+    "idSedeClase": "88",
+    "id_sede": "20",
+    "id_clase": "299"
+  },
+  {
+    "idSedeClase": "1524",
+    "id_sede": "72",
+    "id_clase": "299"
+  },
+  {
+    "idSedeClase": "214",
+    "id_sede": "41",
+    "id_clase": "303"
+  },
+  {
+    "idSedeClase": "949",
+    "id_sede": "84",
+    "id_clase": "305"
+  },
+  {
+    "idSedeClase": "1457",
+    "id_sede": "12",
+    "id_clase": "305"
+  },
+  {
+    "idSedeClase": "1475",
+    "id_sede": "90",
+    "id_clase": "305"
+  },
+  {
+    "idSedeClase": "1534",
+    "id_sede": "86",
+    "id_clase": "306"
+  },
+  {
+    "idSedeClase": "1161",
+    "id_sede": "86",
+    "id_clase": "308"
+  },
+  {
+    "idSedeClase": "458",
+    "id_sede": "21",
+    "id_clase": "309"
+  },
+  {
+    "idSedeClase": "495",
+    "id_sede": "32",
+    "id_clase": "311"
+  },
+  {
+    "idSedeClase": "1162",
+    "id_sede": "69",
+    "id_clase": "313"
+  },
+  {
+    "idSedeClase": "1363",
+    "id_sede": "65",
+    "id_clase": "313"
+  },
+  {
+    "idSedeClase": "249",
+    "id_sede": "2",
+    "id_clase": "317"
+  },
+  {
+    "idSedeClase": "1244",
+    "id_sede": "22",
+    "id_clase": "317"
+  },
+  {
+    "idSedeClase": "724",
+    "id_sede": "41",
+    "id_clase": "318"
+  },
+  {
+    "idSedeClase": "1079",
+    "id_sede": "73",
+    "id_clase": "318"
+  },
+  {
+    "idSedeClase": "1965",
+    "id_sede": "42",
+    "id_clase": "319"
+  },
+  {
+    "idSedeClase": "384",
+    "id_sede": "64",
+    "id_clase": "321"
+  },
+  {
+    "idSedeClase": "1285",
+    "id_sede": "1",
+    "id_clase": "321"
+  },
+  {
+    "idSedeClase": "171",
+    "id_sede": "97",
+    "id_clase": "322"
+  },
+  {
+    "idSedeClase": "674",
+    "id_sede": "51",
+    "id_clase": "322"
+  },
+  {
+    "idSedeClase": "763",
+    "id_sede": "48",
+    "id_clase": "322"
+  },
+  {
+    "idSedeClase": "1300",
+    "id_sede": "93",
+    "id_clase": "322"
+  },
+  {
+    "idSedeClase": "629",
+    "id_sede": "12",
+    "id_clase": "325"
+  },
+  {
+    "idSedeClase": "1145",
+    "id_sede": "9",
+    "id_clase": "325"
+  },
+  {
+    "idSedeClase": "1583",
+    "id_sede": "47",
+    "id_clase": "325"
+  },
+  {
+    "idSedeClase": "1896",
+    "id_sede": "67",
+    "id_clase": "325"
+  },
+  {
+    "idSedeClase": "762",
+    "id_sede": "97",
+    "id_clase": "326"
+  },
+  {
+    "idSedeClase": "1461",
+    "id_sede": "56",
+    "id_clase": "326"
+  },
+  {
+    "idSedeClase": "1554",
+    "id_sede": "87",
+    "id_clase": "326"
+  },
+  {
+    "idSedeClase": "1489",
+    "id_sede": "30",
+    "id_clase": "327"
+  },
+  {
+    "idSedeClase": "1899",
+    "id_sede": "67",
+    "id_clase": "327"
+  },
+  {
+    "idSedeClase": "1155",
+    "id_sede": "10",
+    "id_clase": "328"
+  },
+  {
+    "idSedeClase": "1632",
+    "id_sede": "96",
+    "id_clase": "331"
+  },
+  {
+    "idSedeClase": "281",
+    "id_sede": "61",
+    "id_clase": "332"
+  },
+  {
+    "idSedeClase": "1599",
+    "id_sede": "91",
+    "id_clase": "335"
+  },
+  {
+    "idSedeClase": "135",
+    "id_sede": "13",
+    "id_clase": "336"
+  },
+  {
+    "idSedeClase": "908",
+    "id_sede": "59",
+    "id_clase": "336"
+  },
+  {
+    "idSedeClase": "1884",
+    "id_sede": "84",
+    "id_clase": "336"
+  },
+  {
+    "idSedeClase": "1931",
+    "id_sede": "17",
+    "id_clase": "336"
+  },
+  {
+    "idSedeClase": "297",
+    "id_sede": "18",
+    "id_clase": "337"
+  },
+  {
+    "idSedeClase": "1399",
+    "id_sede": "13",
+    "id_clase": "337"
+  },
+  {
+    "idSedeClase": "1969",
+    "id_sede": "98",
+    "id_clase": "337"
+  },
+  {
+    "idSedeClase": "914",
+    "id_sede": "46",
+    "id_clase": "338"
+  },
+  {
+    "idSedeClase": "415",
+    "id_sede": "22",
+    "id_clase": "339"
+  },
+  {
+    "idSedeClase": "585",
+    "id_sede": "2",
+    "id_clase": "339"
+  },
+  {
+    "idSedeClase": "1069",
+    "id_sede": "85",
+    "id_clase": "344"
+  },
+  {
+    "idSedeClase": "1643",
+    "id_sede": "88",
+    "id_clase": "344"
+  },
+  {
+    "idSedeClase": "1698",
+    "id_sede": "9",
+    "id_clase": "344"
+  },
+  {
+    "idSedeClase": "293",
+    "id_sede": "82",
+    "id_clase": "346"
+  },
+  {
+    "idSedeClase": "1841",
+    "id_sede": "86",
+    "id_clase": "346"
+  },
+  {
+    "idSedeClase": "138",
+    "id_sede": "3",
+    "id_clase": "347"
+  },
+  {
+    "idSedeClase": "1180",
+    "id_sede": "11",
+    "id_clase": "348"
+  },
+  {
+    "idSedeClase": "1690",
+    "id_sede": "91",
+    "id_clase": "348"
+  },
+  {
+    "idSedeClase": "182",
+    "id_sede": "70",
+    "id_clase": "351"
+  },
+  {
+    "idSedeClase": "479",
+    "id_sede": "64",
+    "id_clase": "351"
+  },
+  {
+    "idSedeClase": "1364",
+    "id_sede": "24",
+    "id_clase": "351"
+  },
+  {
+    "idSedeClase": "367",
+    "id_sede": "18",
+    "id_clase": "353"
+  },
+  {
+    "idSedeClase": "38",
+    "id_sede": "25",
+    "id_clase": "354"
+  },
+  {
+    "idSedeClase": "1291",
+    "id_sede": "27",
+    "id_clase": "354"
+  },
+  {
+    "idSedeClase": "105",
+    "id_sede": "19",
+    "id_clase": "355"
+  },
+  {
+    "idSedeClase": "501",
+    "id_sede": "75",
+    "id_clase": "355"
+  },
+  {
+    "idSedeClase": "1409",
+    "id_sede": "82",
+    "id_clase": "355"
+  },
+  {
+    "idSedeClase": "1699",
+    "id_sede": "3",
+    "id_clase": "357"
+  },
+  {
+    "idSedeClase": "1962",
+    "id_sede": "81",
+    "id_clase": "357"
+  },
+  {
+    "idSedeClase": "84",
+    "id_sede": "81",
+    "id_clase": "358"
+  },
+  {
+    "idSedeClase": "1365",
+    "id_sede": "38",
+    "id_clase": "358"
+  },
+  {
+    "idSedeClase": "1784",
+    "id_sede": "4",
+    "id_clase": "358"
+  },
+  {
+    "idSedeClase": "614",
+    "id_sede": "48",
+    "id_clase": "360"
+  },
+  {
+    "idSedeClase": "1238",
+    "id_sede": "64",
+    "id_clase": "362"
+  },
+  {
+    "idSedeClase": "609",
+    "id_sede": "68",
+    "id_clase": "363"
+  },
+  {
+    "idSedeClase": "1436",
+    "id_sede": "82",
+    "id_clase": "364"
+  },
+  {
+    "idSedeClase": "1735",
+    "id_sede": "39",
+    "id_clase": "364"
+  },
+  {
+    "idSedeClase": "68",
+    "id_sede": "73",
+    "id_clase": "368"
+  },
+  {
+    "idSedeClase": "515",
+    "id_sede": "96",
+    "id_clase": "368"
+  },
+  {
+    "idSedeClase": "1305",
+    "id_sede": "57",
+    "id_clase": "368"
+  },
+  {
+    "idSedeClase": "1504",
+    "id_sede": "51",
+    "id_clase": "369"
+  },
+  {
+    "idSedeClase": "1774",
+    "id_sede": "88",
+    "id_clase": "369"
+  },
+  {
+    "idSedeClase": "1939",
+    "id_sede": "93",
+    "id_clase": "370"
+  },
+  {
+    "idSedeClase": "1325",
+    "id_sede": "72",
+    "id_clase": "371"
+  },
+  {
+    "idSedeClase": "686",
+    "id_sede": "69",
+    "id_clase": "372"
+  },
+  {
+    "idSedeClase": "1146",
+    "id_sede": "75",
+    "id_clase": "372"
+  },
+  {
+    "idSedeClase": "1789",
+    "id_sede": "16",
+    "id_clase": "373"
+  },
+  {
+    "idSedeClase": "23",
+    "id_sede": "100",
+    "id_clase": "374"
+  },
+  {
+    "idSedeClase": "430",
+    "id_sede": "56",
+    "id_clase": "374"
+  },
+  {
+    "idSedeClase": "1509",
+    "id_sede": "8",
+    "id_clase": "374"
+  },
+  {
+    "idSedeClase": "1087",
+    "id_sede": "5",
+    "id_clase": "375"
+  },
+  {
+    "idSedeClase": "412",
+    "id_sede": "92",
+    "id_clase": "376"
+  },
+  {
+    "idSedeClase": "1353",
+    "id_sede": "90",
+    "id_clase": "377"
+  },
+  {
+    "idSedeClase": "927",
+    "id_sede": "92",
+    "id_clase": "378"
+  },
+  {
+    "idSedeClase": "606",
+    "id_sede": "22",
+    "id_clase": "379"
+  },
+  {
+    "idSedeClase": "735",
+    "id_sede": "48",
+    "id_clase": "380"
+  },
+  {
+    "idSedeClase": "956",
+    "id_sede": "46",
+    "id_clase": "380"
+  },
+  {
+    "idSedeClase": "558",
+    "id_sede": "14",
+    "id_clase": "383"
+  },
+  {
+    "idSedeClase": "602",
+    "id_sede": "12",
+    "id_clase": "383"
+  },
+  {
+    "idSedeClase": "595",
+    "id_sede": "96",
+    "id_clase": "384"
+  },
+  {
+    "idSedeClase": "1468",
+    "id_sede": "48",
+    "id_clase": "389"
+  },
+  {
+    "idSedeClase": "1816",
+    "id_sede": "81",
+    "id_clase": "389"
+  },
+  {
+    "idSedeClase": "466",
+    "id_sede": "23",
+    "id_clase": "390"
+  },
+  {
+    "idSedeClase": "1317",
+    "id_sede": "46",
+    "id_clase": "391"
+  },
+  {
+    "idSedeClase": "1508",
+    "id_sede": "51",
+    "id_clase": "392"
+  },
+  {
+    "idSedeClase": "113",
+    "id_sede": "63",
+    "id_clase": "394"
+  },
+  {
+    "idSedeClase": "399",
+    "id_sede": "49",
+    "id_clase": "395"
+  },
+  {
+    "idSedeClase": "898",
+    "id_sede": "25",
+    "id_clase": "397"
+  },
+  {
+    "idSedeClase": "270",
+    "id_sede": "40",
+    "id_clase": "398"
+  },
+  {
+    "idSedeClase": "1231",
+    "id_sede": "64",
+    "id_clase": "403"
+  },
+  {
+    "idSedeClase": "353",
+    "id_sede": "77",
+    "id_clase": "404"
+  },
+  {
+    "idSedeClase": "600",
+    "id_sede": "29",
+    "id_clase": "405"
+  },
+  {
+    "idSedeClase": "250",
+    "id_sede": "48",
+    "id_clase": "406"
+  },
+  {
+    "idSedeClase": "1942",
+    "id_sede": "42",
+    "id_clase": "406"
+  },
+  {
+    "idSedeClase": "47",
+    "id_sede": "72",
+    "id_clase": "408"
+  },
+  {
+    "idSedeClase": "109",
+    "id_sede": "84",
+    "id_clase": "408"
+  },
+  {
+    "idSedeClase": "566",
+    "id_sede": "50",
+    "id_clase": "408"
+  },
+  {
+    "idSedeClase": "1980",
+    "id_sede": "77",
+    "id_clase": "411"
+  },
+  {
+    "idSedeClase": "311",
+    "id_sede": "42",
+    "id_clase": "412"
+  },
+  {
+    "idSedeClase": "959",
+    "id_sede": "14",
+    "id_clase": "412"
+  },
+  {
+    "idSedeClase": "983",
+    "id_sede": "55",
+    "id_clase": "412"
+  },
+  {
+    "idSedeClase": "1224",
+    "id_sede": "43",
+    "id_clase": "414"
+  },
+  {
+    "idSedeClase": "480",
+    "id_sede": "35",
+    "id_clase": "416"
+  },
+  {
+    "idSedeClase": "960",
+    "id_sede": "25",
+    "id_clase": "416"
+  },
+  {
+    "idSedeClase": "285",
+    "id_sede": "27",
+    "id_clase": "420"
+  },
+  {
+    "idSedeClase": "1301",
+    "id_sede": "49",
+    "id_clase": "420"
+  },
+  {
+    "idSedeClase": "279",
+    "id_sede": "22",
+    "id_clase": "422"
+  },
+  {
+    "idSedeClase": "799",
+    "id_sede": "74",
+    "id_clase": "422"
+  },
+  {
+    "idSedeClase": "1281",
+    "id_sede": "66",
+    "id_clase": "422"
+  },
+  {
+    "idSedeClase": "449",
+    "id_sede": "63",
+    "id_clase": "423"
+  },
+  {
+    "idSedeClase": "354",
+    "id_sede": "51",
+    "id_clase": "424"
+  },
+  {
+    "idSedeClase": "1294",
+    "id_sede": "48",
+    "id_clase": "424"
+  },
+  {
+    "idSedeClase": "1886",
+    "id_sede": "72",
+    "id_clase": "424"
+  },
+  {
+    "idSedeClase": "401",
+    "id_sede": "54",
+    "id_clase": "425"
+  },
+  {
+    "idSedeClase": "594",
+    "id_sede": "52",
+    "id_clase": "426"
+  },
+  {
+    "idSedeClase": "801",
+    "id_sede": "76",
+    "id_clase": "427"
+  },
+  {
+    "idSedeClase": "158",
+    "id_sede": "47",
+    "id_clase": "428"
+  },
+  {
+    "idSedeClase": "408",
+    "id_sede": "3",
+    "id_clase": "428"
+  },
+  {
+    "idSedeClase": "1507",
+    "id_sede": "3",
+    "id_clase": "428"
+  },
+  {
+    "idSedeClase": "1383",
+    "id_sede": "18",
+    "id_clase": "429"
+  },
+  {
+    "idSedeClase": "1412",
+    "id_sede": "49",
+    "id_clase": "429"
+  },
+  {
+    "idSedeClase": "1997",
+    "id_sede": "43",
+    "id_clase": "430"
+  },
+  {
+    "idSedeClase": "210",
+    "id_sede": "66",
+    "id_clase": "431"
+  },
+  {
+    "idSedeClase": "1906",
+    "id_sede": "86",
+    "id_clase": "431"
+  },
+  {
+    "idSedeClase": "32",
+    "id_sede": "21",
+    "id_clase": "432"
+  },
+  {
+    "idSedeClase": "296",
+    "id_sede": "83",
+    "id_clase": "432"
+  },
+  {
+    "idSedeClase": "1825",
+    "id_sede": "97",
+    "id_clase": "433"
+  },
+  {
+    "idSedeClase": "856",
+    "id_sede": "86",
+    "id_clase": "434"
+  },
+  {
+    "idSedeClase": "1144",
+    "id_sede": "87",
+    "id_clase": "434"
+  },
+  {
+    "idSedeClase": "721",
+    "id_sede": "30",
+    "id_clase": "435"
+  },
+  {
+    "idSedeClase": "314",
+    "id_sede": "20",
+    "id_clase": "437"
+  },
+  {
+    "idSedeClase": "814",
+    "id_sede": "94",
+    "id_clase": "437"
+  },
+  {
+    "idSedeClase": "906",
+    "id_sede": "97",
+    "id_clase": "437"
+  },
+  {
+    "idSedeClase": "746",
+    "id_sede": "51",
+    "id_clase": "438"
+  },
+  {
+    "idSedeClase": "504",
+    "id_sede": "21",
+    "id_clase": "439"
+  },
+  {
+    "idSedeClase": "836",
+    "id_sede": "44",
+    "id_clase": "439"
+  },
+  {
+    "idSedeClase": "1321",
+    "id_sede": "97",
+    "id_clase": "439"
+  },
+  {
+    "idSedeClase": "60",
+    "id_sede": "69",
+    "id_clase": "440"
+  },
+  {
+    "idSedeClase": "1989",
+    "id_sede": "99",
+    "id_clase": "440"
+  },
+  {
+    "idSedeClase": "817",
+    "id_sede": "28",
+    "id_clase": "441"
+  },
+  {
+    "idSedeClase": "292",
+    "id_sede": "14",
+    "id_clase": "442"
+  },
+  {
+    "idSedeClase": "1124",
+    "id_sede": "41",
+    "id_clase": "442"
+  },
+  {
+    "idSedeClase": "1669",
+    "id_sede": "7",
+    "id_clase": "442"
+  },
+  {
+    "idSedeClase": "749",
+    "id_sede": "35",
+    "id_clase": "448"
+  },
+  {
+    "idSedeClase": "1402",
+    "id_sede": "11",
+    "id_clase": "448"
+  },
+  {
+    "idSedeClase": "734",
+    "id_sede": "8",
+    "id_clase": "449"
+  },
+  {
+    "idSedeClase": "1071",
+    "id_sede": "37",
+    "id_clase": "449"
+  },
+  {
+    "idSedeClase": "1355",
+    "id_sede": "92",
+    "id_clase": "449"
+  },
+  {
+    "idSedeClase": "1156",
+    "id_sede": "48",
+    "id_clase": "450"
+  },
+  {
+    "idSedeClase": "644",
+    "id_sede": "7",
+    "id_clase": "452"
+  },
+  {
+    "idSedeClase": "441",
+    "id_sede": "79",
+    "id_clase": "454"
+  },
+  {
+    "idSedeClase": "785",
+    "id_sede": "14",
+    "id_clase": "455"
+  },
+  {
+    "idSedeClase": "1109",
+    "id_sede": "43",
+    "id_clase": "455"
+  },
+  {
+    "idSedeClase": "1573",
+    "id_sede": "8",
+    "id_clase": "455"
+  },
+  {
+    "idSedeClase": "1782",
+    "id_sede": "76",
+    "id_clase": "456"
+  },
+  {
+    "idSedeClase": "583",
+    "id_sede": "31",
+    "id_clase": "459"
+  },
+  {
+    "idSedeClase": "1075",
+    "id_sede": "76",
+    "id_clase": "460"
+  },
+  {
+    "idSedeClase": "1177",
+    "id_sede": "46",
+    "id_clase": "460"
+  },
+  {
+    "idSedeClase": "6",
+    "id_sede": "43",
+    "id_clase": "461"
+  },
+  {
+    "idSedeClase": "616",
+    "id_sede": "14",
+    "id_clase": "461"
+  },
+  {
+    "idSedeClase": "1221",
+    "id_sede": "20",
+    "id_clase": "461"
+  },
+  {
+    "idSedeClase": "1336",
+    "id_sede": "5",
+    "id_clase": "464"
+  },
+  {
+    "idSedeClase": "96",
+    "id_sede": "91",
+    "id_clase": "465"
+  },
+  {
+    "idSedeClase": "488",
+    "id_sede": "59",
+    "id_clase": "465"
+  },
+  {
+    "idSedeClase": "1116",
+    "id_sede": "24",
+    "id_clase": "465"
+  },
+  {
+    "idSedeClase": "1312",
+    "id_sede": "27",
+    "id_clase": "465"
+  },
+  {
+    "idSedeClase": "1944",
+    "id_sede": "60",
+    "id_clase": "465"
+  },
+  {
+    "idSedeClase": "155",
+    "id_sede": "6",
+    "id_clase": "466"
+  },
+  {
+    "idSedeClase": "273",
+    "id_sede": "8",
+    "id_clase": "467"
+  },
+  {
+    "idSedeClase": "1543",
+    "id_sede": "97",
+    "id_clase": "467"
+  },
+  {
+    "idSedeClase": "1197",
+    "id_sede": "82",
+    "id_clase": "468"
+  },
+  {
+    "idSedeClase": "626",
+    "id_sede": "95",
+    "id_clase": "469"
+  },
+  {
+    "idSedeClase": "1318",
+    "id_sede": "56",
+    "id_clase": "469"
+  },
+  {
+    "idSedeClase": "4",
+    "id_sede": "17",
+    "id_clase": "471"
+  },
+  {
+    "idSedeClase": "110",
+    "id_sede": "85",
+    "id_clase": "473"
+  },
+  {
+    "idSedeClase": "717",
+    "id_sede": "12",
+    "id_clase": "474"
+  },
+  {
+    "idSedeClase": "1720",
+    "id_sede": "32",
+    "id_clase": "476"
+  },
+  {
+    "idSedeClase": "1759",
+    "id_sede": "56",
+    "id_clase": "476"
+  },
+  {
+    "idSedeClase": "604",
+    "id_sede": "87",
+    "id_clase": "477"
+  },
+  {
+    "idSedeClase": "1812",
+    "id_sede": "31",
+    "id_clase": "477"
+  },
+  {
+    "idSedeClase": "272",
+    "id_sede": "34",
+    "id_clase": "478"
+  },
+  {
+    "idSedeClase": "452",
+    "id_sede": "50",
+    "id_clase": "478"
+  },
+  {
+    "idSedeClase": "1051",
+    "id_sede": "84",
+    "id_clase": "479"
+  },
+  {
+    "idSedeClase": "1418",
+    "id_sede": "38",
+    "id_clase": "479"
+  },
+  {
+    "idSedeClase": "1679",
+    "id_sede": "35",
+    "id_clase": "479"
+  },
+  {
+    "idSedeClase": "811",
+    "id_sede": "42",
+    "id_clase": "480"
+  },
+  {
+    "idSedeClase": "1611",
+    "id_sede": "17",
+    "id_clase": "480"
+  },
+  {
+    "idSedeClase": "1505",
+    "id_sede": "91",
+    "id_clase": "481"
+  },
+  {
+    "idSedeClase": "1684",
+    "id_sede": "54",
+    "id_clase": "482"
+  },
+  {
+    "idSedeClase": "1974",
+    "id_sede": "27",
+    "id_clase": "482"
+  },
+  {
+    "idSedeClase": "1193",
+    "id_sede": "50",
+    "id_clase": "484"
+  },
+  {
+    "idSedeClase": "1503",
+    "id_sede": "34",
+    "id_clase": "485"
+  },
+  {
+    "idSedeClase": "1248",
+    "id_sede": "15",
+    "id_clase": "488"
+  },
+  {
+    "idSedeClase": "1205",
+    "id_sede": "73",
+    "id_clase": "491"
+  },
+  {
+    "idSedeClase": "1688",
+    "id_sede": "89",
+    "id_clase": "491"
+  },
+  {
+    "idSedeClase": "757",
+    "id_sede": "52",
+    "id_clase": "492"
+  },
+  {
+    "idSedeClase": "1029",
+    "id_sede": "48",
+    "id_clase": "493"
+  },
+  {
+    "idSedeClase": "1284",
+    "id_sede": "10",
+    "id_clase": "494"
+  },
+  {
+    "idSedeClase": "1795",
+    "id_sede": "4",
+    "id_clase": "494"
+  },
+  {
+    "idSedeClase": "1032",
+    "id_sede": "26",
+    "id_clase": "495"
+  },
+  {
+    "idSedeClase": "201",
+    "id_sede": "96",
+    "id_clase": "496"
+  },
+  {
+    "idSedeClase": "713",
+    "id_sede": "65",
+    "id_clase": "496"
+  },
+  {
+    "idSedeClase": "649",
+    "id_sede": "85",
+    "id_clase": "500"
+  },
+  {
+    "idSedeClase": "621",
+    "id_sede": "1",
+    "id_clase": "502"
+  },
+  {
+    "idSedeClase": "123",
+    "id_sede": "41",
+    "id_clase": "503"
+  },
+  {
+    "idSedeClase": "471",
+    "id_sede": "45",
+    "id_clase": "504"
+  },
+  {
+    "idSedeClase": "1099",
+    "id_sede": "84",
+    "id_clase": "505"
+  },
+  {
+    "idSedeClase": "1740",
+    "id_sede": "91",
+    "id_clase": "505"
+  },
+  {
+    "idSedeClase": "31",
+    "id_sede": "52",
+    "id_clase": "506"
+  },
+  {
+    "idSedeClase": "1260",
+    "id_sede": "63",
+    "id_clase": "506"
+  },
+  {
+    "idSedeClase": "1451",
+    "id_sede": "82",
+    "id_clase": "506"
+  },
+  {
+    "idSedeClase": "690",
+    "id_sede": "60",
+    "id_clase": "507"
+  },
+  {
+    "idSedeClase": "1471",
+    "id_sede": "55",
+    "id_clase": "507"
+  },
+  {
+    "idSedeClase": "1787",
+    "id_sede": "15",
+    "id_clase": "508"
+  },
+  {
+    "idSedeClase": "1894",
+    "id_sede": "13",
+    "id_clase": "508"
+  },
+  {
+    "idSedeClase": "254",
+    "id_sede": "97",
+    "id_clase": "510"
+  },
+  {
+    "idSedeClase": "744",
+    "id_sede": "78",
+    "id_clase": "510"
+  },
+  {
+    "idSedeClase": "1092",
+    "id_sede": "74",
+    "id_clase": "512"
+  },
+  {
+    "idSedeClase": "1043",
+    "id_sede": "13",
+    "id_clase": "513"
+  },
+  {
+    "idSedeClase": "1786",
+    "id_sede": "8",
+    "id_clase": "514"
+  },
+  {
+    "idSedeClase": "265",
+    "id_sede": "90",
+    "id_clase": "517"
+  },
+  {
+    "idSedeClase": "349",
+    "id_sede": "14",
+    "id_clase": "517"
+  },
+  {
+    "idSedeClase": "1972",
+    "id_sede": "9",
+    "id_clase": "518"
+  },
+  {
+    "idSedeClase": "798",
+    "id_sede": "59",
+    "id_clase": "520"
+  },
+  {
+    "idSedeClase": "819",
+    "id_sede": "84",
+    "id_clase": "520"
+  },
+  {
+    "idSedeClase": "266",
+    "id_sede": "99",
+    "id_clase": "521"
+  },
+  {
+    "idSedeClase": "1631",
+    "id_sede": "62",
+    "id_clase": "523"
+  },
+  {
+    "idSedeClase": "1956",
+    "id_sede": "66",
+    "id_clase": "523"
+  },
+  {
+    "idSedeClase": "1142",
+    "id_sede": "67",
+    "id_clase": "524"
+  },
+  {
+    "idSedeClase": "1176",
+    "id_sede": "63",
+    "id_clase": "525"
+  },
+  {
+    "idSedeClase": "1206",
+    "id_sede": "76",
+    "id_clase": "525"
+  },
+  {
+    "idSedeClase": "1019",
+    "id_sede": "79",
+    "id_clase": "526"
+  },
+  {
+    "idSedeClase": "1178",
+    "id_sede": "4",
+    "id_clase": "528"
+  },
+  {
+    "idSedeClase": "1968",
+    "id_sede": "50",
+    "id_clase": "528"
+  },
+  {
+    "idSedeClase": "867",
+    "id_sede": "75",
+    "id_clase": "529"
+  },
+  {
+    "idSedeClase": "27",
+    "id_sede": "39",
+    "id_clase": "531"
+  },
+  {
+    "idSedeClase": "519",
+    "id_sede": "52",
+    "id_clase": "532"
+  },
+  {
+    "idSedeClase": "1296",
+    "id_sede": "5",
+    "id_clase": "532"
+  },
+  {
+    "idSedeClase": "1375",
+    "id_sede": "93",
+    "id_clase": "532"
+  },
+  {
+    "idSedeClase": "1252",
+    "id_sede": "41",
+    "id_clase": "533"
+  },
+  {
+    "idSedeClase": "490",
+    "id_sede": "34",
+    "id_clase": "534"
+  },
+  {
+    "idSedeClase": "952",
+    "id_sede": "14",
+    "id_clase": "536"
+  },
+  {
+    "idSedeClase": "1770",
+    "id_sede": "94",
+    "id_clase": "538"
+  },
+  {
+    "idSedeClase": "998",
+    "id_sede": "66",
+    "id_clase": "539"
+  },
+  {
+    "idSedeClase": "194",
+    "id_sede": "5",
+    "id_clase": "540"
+  },
+  {
+    "idSedeClase": "637",
+    "id_sede": "10",
+    "id_clase": "540"
+  },
+  {
+    "idSedeClase": "152",
+    "id_sede": "51",
+    "id_clase": "541"
+  },
+  {
+    "idSedeClase": "1863",
+    "id_sede": "76",
+    "id_clase": "542"
+  },
+  {
+    "idSedeClase": "921",
+    "id_sede": "39",
+    "id_clase": "543"
+  },
+  {
+    "idSedeClase": "1354",
+    "id_sede": "75",
+    "id_clase": "543"
+  },
+  {
+    "idSedeClase": "1920",
+    "id_sede": "66",
+    "id_clase": "543"
+  },
+  {
+    "idSedeClase": "892",
+    "id_sede": "58",
+    "id_clase": "545"
+  },
+  {
+    "idSedeClase": "1112",
+    "id_sede": "70",
+    "id_clase": "545"
+  },
+  {
+    "idSedeClase": "81",
+    "id_sede": "58",
+    "id_clase": "548"
+  },
+  {
+    "idSedeClase": "838",
+    "id_sede": "25",
+    "id_clase": "548"
+  },
+  {
+    "idSedeClase": "752",
+    "id_sede": "15",
+    "id_clase": "550"
+  },
+  {
+    "idSedeClase": "968",
+    "id_sede": "20",
+    "id_clase": "551"
+  },
+  {
+    "idSedeClase": "246",
+    "id_sede": "69",
+    "id_clase": "553"
+  },
+  {
+    "idSedeClase": "1790",
+    "id_sede": "27",
+    "id_clase": "554"
+  },
+  {
+    "idSedeClase": "1988",
+    "id_sede": "17",
+    "id_clase": "555"
+  },
+  {
+    "idSedeClase": "1701",
+    "id_sede": "70",
+    "id_clase": "556"
+  },
+  {
+    "idSedeClase": "672",
+    "id_sede": "2",
+    "id_clase": "557"
+  },
+  {
+    "idSedeClase": "1432",
+    "id_sede": "75",
+    "id_clase": "557"
+  },
+  {
+    "idSedeClase": "520",
+    "id_sede": "16",
+    "id_clase": "559"
+  },
+  {
+    "idSedeClase": "1031",
+    "id_sede": "26",
+    "id_clase": "560"
+  },
+  {
+    "idSedeClase": "1390",
+    "id_sede": "26",
+    "id_clase": "560"
+  },
+  {
+    "idSedeClase": "1247",
+    "id_sede": "82",
+    "id_clase": "562"
+  },
+  {
+    "idSedeClase": "628",
+    "id_sede": "86",
+    "id_clase": "563"
+  },
+  {
+    "idSedeClase": "1298",
+    "id_sede": "54",
+    "id_clase": "563"
+  },
+  {
+    "idSedeClase": "137",
+    "id_sede": "17",
+    "id_clase": "564"
+  },
+  {
+    "idSedeClase": "592",
+    "id_sede": "55",
+    "id_clase": "564"
+  },
+  {
+    "idSedeClase": "832",
+    "id_sede": "86",
+    "id_clase": "564"
+  },
+  {
+    "idSedeClase": "1935",
+    "id_sede": "78",
+    "id_clase": "564"
+  },
+  {
+    "idSedeClase": "1129",
+    "id_sede": "45",
+    "id_clase": "566"
+  },
+  {
+    "idSedeClase": "1488",
+    "id_sede": "8",
+    "id_clase": "567"
+  },
+  {
+    "idSedeClase": "156",
+    "id_sede": "87",
+    "id_clase": "568"
+  },
+  {
+    "idSedeClase": "1135",
+    "id_sede": "11",
+    "id_clase": "568"
+  },
+  {
+    "idSedeClase": "1552",
+    "id_sede": "59",
+    "id_clase": "570"
+  },
+  {
+    "idSedeClase": "1627",
+    "id_sede": "98",
+    "id_clase": "570"
+  },
+  {
+    "idSedeClase": "1882",
+    "id_sede": "36",
+    "id_clase": "570"
+  },
+  {
+    "idSedeClase": "1047",
+    "id_sede": "72",
+    "id_clase": "571"
+  },
+  {
+    "idSedeClase": "1568",
+    "id_sede": "66",
+    "id_clase": "571"
+  },
+  {
+    "idSedeClase": "1730",
+    "id_sede": "83",
+    "id_clase": "571"
+  },
+  {
+    "idSedeClase": "1518",
+    "id_sede": "68",
+    "id_clase": "572"
+  },
+  {
+    "idSedeClase": "1702",
+    "id_sede": "91",
+    "id_clase": "576"
+  },
+  {
+    "idSedeClase": "243",
+    "id_sede": "11",
+    "id_clase": "579"
+  },
+  {
+    "idSedeClase": "1121",
+    "id_sede": "87",
+    "id_clase": "579"
+  },
+  {
+    "idSedeClase": "163",
+    "id_sede": "34",
+    "id_clase": "581"
+  },
+  {
+    "idSedeClase": "511",
+    "id_sede": "12",
+    "id_clase": "581"
+  },
+  {
+    "idSedeClase": "852",
+    "id_sede": "3",
+    "id_clase": "581"
+  },
+  {
+    "idSedeClase": "1199",
+    "id_sede": "96",
+    "id_clase": "581"
+  },
+  {
+    "idSedeClase": "979",
+    "id_sede": "22",
+    "id_clase": "582"
+  },
+  {
+    "idSedeClase": "1302",
+    "id_sede": "47",
+    "id_clase": "582"
+  },
+  {
+    "idSedeClase": "1378",
+    "id_sede": "74",
+    "id_clase": "582"
+  },
+  {
+    "idSedeClase": "1481",
+    "id_sede": "79",
+    "id_clase": "587"
+  },
+  {
+    "idSedeClase": "1843",
+    "id_sede": "20",
+    "id_clase": "587"
+  },
+  {
+    "idSedeClase": "875",
+    "id_sede": "69",
+    "id_clase": "589"
+  },
+  {
+    "idSedeClase": "1053",
+    "id_sede": "61",
+    "id_clase": "589"
+  },
+  {
+    "idSedeClase": "1209",
+    "id_sede": "58",
+    "id_clase": "589"
+  },
+  {
+    "idSedeClase": "1618",
+    "id_sede": "62",
+    "id_clase": "589"
+  },
+  {
+    "idSedeClase": "532",
+    "id_sede": "35",
+    "id_clase": "593"
+  },
+  {
+    "idSedeClase": "630",
+    "id_sede": "43",
+    "id_clase": "594"
+  },
+  {
+    "idSedeClase": "159",
+    "id_sede": "51",
+    "id_clase": "595"
+  },
+  {
+    "idSedeClase": "1635",
+    "id_sede": "39",
+    "id_clase": "595"
+  },
+  {
+    "idSedeClase": "1103",
+    "id_sede": "25",
+    "id_clase": "598"
+  },
+  {
+    "idSedeClase": "1023",
+    "id_sede": "93",
+    "id_clase": "601"
+  },
+  {
+    "idSedeClase": "1183",
+    "id_sede": "37",
+    "id_clase": "602"
+  },
+  {
+    "idSedeClase": "496",
+    "id_sede": "85",
+    "id_clase": "607"
+  },
+  {
+    "idSedeClase": "1832",
+    "id_sede": "16",
+    "id_clase": "610"
+  },
+  {
+    "idSedeClase": "1930",
+    "id_sede": "80",
+    "id_clase": "610"
+  },
+  {
+    "idSedeClase": "154",
+    "id_sede": "22",
+    "id_clase": "611"
+  },
+  {
+    "idSedeClase": "493",
+    "id_sede": "13",
+    "id_clase": "611"
+  },
+  {
+    "idSedeClase": "1776",
+    "id_sede": "66",
+    "id_clase": "612"
+  },
+  {
+    "idSedeClase": "1361",
+    "id_sede": "72",
+    "id_clase": "616"
+  },
+  {
+    "idSedeClase": "1194",
+    "id_sede": "69",
+    "id_clase": "617"
+  },
+  {
+    "idSedeClase": "1652",
+    "id_sede": "98",
+    "id_clase": "619"
+  },
+  {
+    "idSedeClase": "473",
+    "id_sede": "55",
+    "id_clase": "620"
+  },
+  {
+    "idSedeClase": "684",
+    "id_sede": "87",
+    "id_clase": "620"
+  },
+  {
+    "idSedeClase": "818",
+    "id_sede": "99",
+    "id_clase": "620"
+  },
+  {
+    "idSedeClase": "423",
+    "id_sede": "69",
+    "id_clase": "621"
+  },
+  {
+    "idSedeClase": "1500",
+    "id_sede": "64",
+    "id_clase": "621"
+  },
+  {
+    "idSedeClase": "369",
+    "id_sede": "20",
+    "id_clase": "622"
+  },
+  {
+    "idSedeClase": "1371",
+    "id_sede": "3",
+    "id_clase": "624"
+  },
+  {
+    "idSedeClase": "840",
+    "id_sede": "62",
+    "id_clase": "626"
+  },
+  {
+    "idSedeClase": "1671",
+    "id_sede": "94",
+    "id_clase": "626"
+  },
+  {
+    "idSedeClase": "1677",
+    "id_sede": "3",
+    "id_clase": "626"
+  },
+  {
+    "idSedeClase": "1007",
+    "id_sede": "82",
+    "id_clase": "627"
+  },
+  {
+    "idSedeClase": "1113",
+    "id_sede": "79",
+    "id_clase": "627"
+  },
+  {
+    "idSedeClase": "722",
+    "id_sede": "37",
+    "id_clase": "629"
+  },
+  {
+    "idSedeClase": "1515",
+    "id_sede": "69",
+    "id_clase": "633"
+  },
+  {
+    "idSedeClase": "92",
+    "id_sede": "35",
+    "id_clase": "634"
+  },
+  {
+    "idSedeClase": "1372",
+    "id_sede": "53",
+    "id_clase": "636"
+  },
+  {
+    "idSedeClase": "348",
+    "id_sede": "41",
+    "id_clase": "637"
+  },
+  {
+    "idSedeClase": "494",
+    "id_sede": "67",
+    "id_clase": "637"
+  },
+  {
+    "idSedeClase": "863",
+    "id_sede": "21",
+    "id_clase": "637"
+  },
+  {
+    "idSedeClase": "1555",
+    "id_sede": "33",
+    "id_clase": "637"
+  },
+  {
+    "idSedeClase": "665",
+    "id_sede": "15",
+    "id_clase": "638"
+  },
+  {
+    "idSedeClase": "1258",
+    "id_sede": "35",
+    "id_clase": "638"
+  },
+  {
+    "idSedeClase": "193",
+    "id_sede": "55",
+    "id_clase": "639"
+  },
+  {
+    "idSedeClase": "29",
+    "id_sede": "32",
+    "id_clase": "640"
+  },
+  {
+    "idSedeClase": "271",
+    "id_sede": "36",
+    "id_clase": "641"
+  },
+  {
+    "idSedeClase": "750",
+    "id_sede": "3",
+    "id_clase": "643"
+  },
+  {
+    "idSedeClase": "1811",
+    "id_sede": "80",
+    "id_clase": "643"
+  },
+  {
+    "idSedeClase": "565",
+    "id_sede": "96",
+    "id_clase": "645"
+  },
+  {
+    "idSedeClase": "557",
+    "id_sede": "76",
+    "id_clase": "646"
+  },
+  {
+    "idSedeClase": "1830",
+    "id_sede": "72",
+    "id_clase": "646"
+  },
+  {
+    "idSedeClase": "1904",
+    "id_sede": "94",
+    "id_clase": "646"
+  },
+  {
+    "idSedeClase": "51",
+    "id_sede": "17",
+    "id_clase": "647"
+  },
+  {
+    "idSedeClase": "253",
+    "id_sede": "5",
+    "id_clase": "649"
+  },
+  {
+    "idSedeClase": "1580",
+    "id_sede": "99",
+    "id_clase": "649"
+  },
+  {
+    "idSedeClase": "521",
+    "id_sede": "18",
+    "id_clase": "650"
+  },
+  {
+    "idSedeClase": "1859",
+    "id_sede": "23",
+    "id_clase": "650"
+  },
+  {
+    "idSedeClase": "226",
+    "id_sede": "7",
+    "id_clase": "651"
+  },
+  {
+    "idSedeClase": "658",
+    "id_sede": "54",
+    "id_clase": "651"
+  },
+  {
+    "idSedeClase": "1131",
+    "id_sede": "24",
+    "id_clase": "652"
+  },
+  {
+    "idSedeClase": "1415",
+    "id_sede": "7",
+    "id_clase": "653"
+  },
+  {
+    "idSedeClase": "103",
+    "id_sede": "8",
+    "id_clase": "654"
+  },
+  {
+    "idSedeClase": "1479",
+    "id_sede": "78",
+    "id_clase": "655"
+  },
+  {
+    "idSedeClase": "731",
+    "id_sede": "82",
+    "id_clase": "656"
+  },
+  {
+    "idSedeClase": "1539",
+    "id_sede": "39",
+    "id_clase": "657"
+  },
+  {
+    "idSedeClase": "1675",
+    "id_sede": "31",
+    "id_clase": "657"
+  },
+  {
+    "idSedeClase": "1603",
+    "id_sede": "43",
+    "id_clase": "659"
+  },
+  {
+    "idSedeClase": "1994",
+    "id_sede": "76",
+    "id_clase": "660"
+  },
+  {
+    "idSedeClase": "1636",
+    "id_sede": "87",
+    "id_clase": "662"
+  },
+  {
+    "idSedeClase": "640",
+    "id_sede": "79",
+    "id_clase": "665"
+  },
+  {
+    "idSedeClase": "1918",
+    "id_sede": "92",
+    "id_clase": "666"
+  },
+  {
+    "idSedeClase": "1977",
+    "id_sede": "30",
+    "id_clase": "666"
+  },
+  {
+    "idSedeClase": "1814",
+    "id_sede": "83",
+    "id_clase": "667"
+  },
+  {
+    "idSedeClase": "114",
+    "id_sede": "45",
+    "id_clase": "668"
+  },
+  {
+    "idSedeClase": "78",
+    "id_sede": "75",
+    "id_clase": "670"
+  },
+  {
+    "idSedeClase": "826",
+    "id_sede": "33",
+    "id_clase": "671"
+  },
+  {
+    "idSedeClase": "1164",
+    "id_sede": "17",
+    "id_clase": "671"
+  },
+  {
+    "idSedeClase": "472",
+    "id_sede": "73",
+    "id_clase": "674"
+  },
+  {
+    "idSedeClase": "932",
+    "id_sede": "4",
+    "id_clase": "674"
+  },
+  {
+    "idSedeClase": "1576",
+    "id_sede": "27",
+    "id_clase": "674"
+  },
+  {
+    "idSedeClase": "173",
+    "id_sede": "65",
+    "id_clase": "678"
+  },
+  {
+    "idSedeClase": "419",
+    "id_sede": "71",
+    "id_clase": "678"
+  },
+  {
+    "idSedeClase": "260",
+    "id_sede": "34",
+    "id_clase": "680"
+  },
+  {
+    "idSedeClase": "424",
+    "id_sede": "45",
+    "id_clase": "680"
+  },
+  {
+    "idSedeClase": "1088",
+    "id_sede": "10",
+    "id_clase": "681"
+  },
+  {
+    "idSedeClase": "530",
+    "id_sede": "91",
+    "id_clase": "682"
+  },
+  {
+    "idSedeClase": "1941",
+    "id_sede": "90",
+    "id_clase": "682"
+  },
+  {
+    "idSedeClase": "631",
+    "id_sede": "10",
+    "id_clase": "683"
+  },
+  {
+    "idSedeClase": "386",
+    "id_sede": "4",
+    "id_clase": "685"
+  },
+  {
+    "idSedeClase": "499",
+    "id_sede": "13",
+    "id_clase": "685"
+  },
+  {
+    "idSedeClase": "1647",
+    "id_sede": "22",
+    "id_clase": "685"
+  },
+  {
+    "idSedeClase": "1914",
+    "id_sede": "32",
+    "id_clase": "685"
+  },
+  {
+    "idSedeClase": "16",
+    "id_sede": "7",
+    "id_clase": "686"
+  },
+  {
+    "idSedeClase": "1052",
+    "id_sede": "98",
+    "id_clase": "686"
+  },
+  {
+    "idSedeClase": "972",
+    "id_sede": "72",
+    "id_clase": "689"
+  },
+  {
+    "idSedeClase": "1571",
+    "id_sede": "28",
+    "id_clase": "689"
+  },
+  {
+    "idSedeClase": "1417",
+    "id_sede": "94",
+    "id_clase": "691"
+  },
+  {
+    "idSedeClase": "1824",
+    "id_sede": "27",
+    "id_clase": "692"
+  },
+  {
+    "idSedeClase": "591",
+    "id_sede": "42",
+    "id_clase": "695"
+  },
+  {
+    "idSedeClase": "489",
+    "id_sede": "59",
+    "id_clase": "697"
+  },
+  {
+    "idSedeClase": "1578",
+    "id_sede": "31",
+    "id_clase": "697"
+  },
+  {
+    "idSedeClase": "1748",
+    "id_sede": "33",
+    "id_clase": "697"
+  },
+  {
+    "idSedeClase": "282",
+    "id_sede": "23",
+    "id_clase": "698"
+  },
+  {
+    "idSedeClase": "662",
+    "id_sede": "6",
+    "id_clase": "699"
+  },
+  {
+    "idSedeClase": "1560",
+    "id_sede": "96",
+    "id_clase": "699"
+  },
+  {
+    "idSedeClase": "318",
+    "id_sede": "37",
+    "id_clase": "700"
+  },
+  {
+    "idSedeClase": "1030",
+    "id_sede": "83",
+    "id_clase": "702"
+  },
+  {
+    "idSedeClase": "467",
+    "id_sede": "79",
+    "id_clase": "703"
+  },
+  {
+    "idSedeClase": "1874",
+    "id_sede": "65",
+    "id_clase": "704"
+  },
+  {
+    "idSedeClase": "420",
+    "id_sede": "69",
+    "id_clase": "706"
+  },
+  {
+    "idSedeClase": "1217",
+    "id_sede": "81",
+    "id_clase": "706"
+  },
+  {
+    "idSedeClase": "1289",
+    "id_sede": "49",
+    "id_clase": "707"
+  },
+  {
+    "idSedeClase": "434",
+    "id_sede": "67",
+    "id_clase": "708"
+  },
+  {
+    "idSedeClase": "132",
+    "id_sede": "66",
+    "id_clase": "710"
+  },
+  {
+    "idSedeClase": "913",
+    "id_sede": "53",
+    "id_clase": "710"
+  },
+  {
+    "idSedeClase": "1108",
+    "id_sede": "25",
+    "id_clase": "710"
+  },
+  {
+    "idSedeClase": "97",
+    "id_sede": "18",
+    "id_clase": "713"
+  },
+  {
+    "idSedeClase": "1001",
+    "id_sede": "81",
+    "id_clase": "714"
+  },
+  {
+    "idSedeClase": "368",
+    "id_sede": "88",
+    "id_clase": "715"
+  },
+  {
+    "idSedeClase": "1565",
+    "id_sede": "49",
+    "id_clase": "715"
+  },
+  {
+    "idSedeClase": "1950",
+    "id_sede": "80",
+    "id_clase": "715"
+  },
+  {
+    "idSedeClase": "1616",
+    "id_sede": "50",
+    "id_clase": "716"
+  },
+  {
+    "idSedeClase": "1639",
+    "id_sede": "75",
+    "id_clase": "716"
+  },
+  {
+    "idSedeClase": "507",
+    "id_sede": "73",
+    "id_clase": "717"
+  },
+  {
+    "idSedeClase": "453",
+    "id_sede": "55",
+    "id_clase": "718"
+  },
+  {
+    "idSedeClase": "938",
+    "id_sede": "33",
+    "id_clase": "720"
+  },
+  {
+    "idSedeClase": "323",
+    "id_sede": "54",
+    "id_clase": "722"
+  },
+  {
+    "idSedeClase": "870",
+    "id_sede": "2",
+    "id_clase": "722"
+  },
+  {
+    "idSedeClase": "1764",
+    "id_sede": "44",
+    "id_clase": "726"
+  },
+  {
+    "idSedeClase": "46",
+    "id_sede": "98",
+    "id_clase": "727"
+  },
+  {
+    "idSedeClase": "1038",
+    "id_sede": "4",
+    "id_clase": "727"
+  },
+  {
+    "idSedeClase": "1717",
+    "id_sede": "62",
+    "id_clase": "727"
+  },
+  {
+    "idSedeClase": "140",
+    "id_sede": "96",
+    "id_clase": "728"
+  },
+  {
+    "idSedeClase": "984",
+    "id_sede": "17",
+    "id_clase": "728"
+  },
+  {
+    "idSedeClase": "772",
+    "id_sede": "64",
+    "id_clase": "729"
+  },
+  {
+    "idSedeClase": "1966",
+    "id_sede": "41",
+    "id_clase": "729"
+  },
+  {
+    "idSedeClase": "1697",
+    "id_sede": "27",
+    "id_clase": "730"
+  },
+  {
+    "idSedeClase": "406",
+    "id_sede": "66",
+    "id_clase": "731"
+  },
+  {
+    "idSedeClase": "1059",
+    "id_sede": "69",
+    "id_clase": "731"
+  },
+  {
+    "idSedeClase": "505",
+    "id_sede": "40",
+    "id_clase": "732"
+  },
+  {
+    "idSedeClase": "992",
+    "id_sede": "2",
+    "id_clase": "732"
+  },
+  {
+    "idSedeClase": "1664",
+    "id_sede": "62",
+    "id_clase": "733"
+  },
+  {
+    "idSedeClase": "1714",
+    "id_sede": "16",
+    "id_clase": "734"
+  },
+  {
+    "idSedeClase": "1202",
+    "id_sede": "95",
+    "id_clase": "735"
+  },
+  {
+    "idSedeClase": "1218",
+    "id_sede": "74",
+    "id_clase": "739"
+  },
+  {
+    "idSedeClase": "918",
+    "id_sede": "97",
+    "id_clase": "740"
+  },
+  {
+    "idSedeClase": "1797",
+    "id_sede": "3",
+    "id_clase": "740"
+  },
+  {
+    "idSedeClase": "106",
+    "id_sede": "56",
+    "id_clase": "743"
+  },
+  {
+    "idSedeClase": "342",
+    "id_sede": "41",
+    "id_clase": "743"
+  },
+  {
+    "idSedeClase": "776",
+    "id_sede": "6",
+    "id_clase": "743"
+  },
+  {
+    "idSedeClase": "861",
+    "id_sede": "68",
+    "id_clase": "743"
+  },
+  {
+    "idSedeClase": "1619",
+    "id_sede": "33",
+    "id_clase": "744"
+  },
+  {
+    "idSedeClase": "169",
+    "id_sede": "45",
+    "id_clase": "745"
+  },
+  {
+    "idSedeClase": "999",
+    "id_sede": "23",
+    "id_clase": "745"
+  },
+  {
+    "idSedeClase": "518",
+    "id_sede": "3",
+    "id_clase": "746"
+  },
+  {
+    "idSedeClase": "1068",
+    "id_sede": "95",
+    "id_clase": "746"
+  },
+  {
+    "idSedeClase": "1311",
+    "id_sede": "4",
+    "id_clase": "746"
+  },
+  {
+    "idSedeClase": "1396",
+    "id_sede": "88",
+    "id_clase": "746"
+  },
+  {
+    "idSedeClase": "379",
+    "id_sede": "84",
+    "id_clase": "747"
+  },
+  {
+    "idSedeClase": "1715",
+    "id_sede": "84",
+    "id_clase": "747"
+  },
+  {
+    "idSedeClase": "469",
+    "id_sede": "67",
+    "id_clase": "749"
+  },
+  {
+    "idSedeClase": "1638",
+    "id_sede": "78",
+    "id_clase": "750"
+  },
+  {
+    "idSedeClase": "991",
+    "id_sede": "38",
+    "id_clase": "751"
+  },
+  {
+    "idSedeClase": "55",
+    "id_sede": "15",
+    "id_clase": "752"
+  },
+  {
+    "idSedeClase": "1910",
+    "id_sede": "42",
+    "id_clase": "752"
+  },
+  {
+    "idSedeClase": "996",
+    "id_sede": "92",
+    "id_clase": "753"
+  },
+  {
+    "idSedeClase": "313",
+    "id_sede": "7",
+    "id_clase": "754"
+  },
+  {
+    "idSedeClase": "1626",
+    "id_sede": "96",
+    "id_clase": "754"
+  },
+  {
+    "idSedeClase": "1448",
+    "id_sede": "72",
+    "id_clase": "756"
+  },
+  {
+    "idSedeClase": "1733",
+    "id_sede": "42",
+    "id_clase": "758"
+  },
+  {
+    "idSedeClase": "1987",
+    "id_sede": "64",
+    "id_clase": "758"
+  },
+  {
+    "idSedeClase": "1240",
+    "id_sede": "56",
+    "id_clase": "759"
+  },
+  {
+    "idSedeClase": "1480",
+    "id_sede": "21",
+    "id_clase": "759"
+  },
+  {
+    "idSedeClase": "1741",
+    "id_sede": "11",
+    "id_clase": "759"
+  },
+  {
+    "idSedeClase": "1086",
+    "id_sede": "22",
+    "id_clase": "760"
+  },
+  {
+    "idSedeClase": "42",
+    "id_sede": "13",
+    "id_clase": "762"
+  },
+  {
+    "idSedeClase": "1106",
+    "id_sede": "53",
+    "id_clase": "762"
+  },
+  {
+    "idSedeClase": "1514",
+    "id_sede": "39",
+    "id_clase": "764"
+  },
+  {
+    "idSedeClase": "506",
+    "id_sede": "8",
+    "id_clase": "766"
+  },
+  {
+    "idSedeClase": "1065",
+    "id_sede": "87",
+    "id_clase": "768"
+  },
+  {
+    "idSedeClase": "498",
+    "id_sede": "38",
+    "id_clase": "769"
+  },
+  {
+    "idSedeClase": "1620",
+    "id_sede": "16",
+    "id_clase": "769"
+  },
+  {
+    "idSedeClase": "361",
+    "id_sede": "65",
+    "id_clase": "774"
+  },
+  {
+    "idSedeClase": "1558",
+    "id_sede": "21",
+    "id_clase": "776"
+  },
+  {
+    "idSedeClase": "211",
+    "id_sede": "81",
+    "id_clase": "777"
+  },
+  {
+    "idSedeClase": "178",
+    "id_sede": "12",
+    "id_clase": "778"
+  },
+  {
+    "idSedeClase": "1237",
+    "id_sede": "20",
+    "id_clase": "778"
+  },
+  {
+    "idSedeClase": "450",
+    "id_sede": "51",
+    "id_clase": "779"
+  },
+  {
+    "idSedeClase": "1574",
+    "id_sede": "55",
+    "id_clase": "781"
+  },
+  {
+    "idSedeClase": "422",
+    "id_sede": "73",
+    "id_clase": "782"
+  },
+  {
+    "idSedeClase": "1083",
+    "id_sede": "3",
+    "id_clase": "785"
+  },
+  {
+    "idSedeClase": "1674",
+    "id_sede": "69",
+    "id_clase": "788"
+  },
+  {
+    "idSedeClase": "340",
+    "id_sede": "29",
+    "id_clase": "791"
+  },
+  {
+    "idSedeClase": "698",
+    "id_sede": "53",
+    "id_clase": "792"
+  },
+  {
+    "idSedeClase": "224",
+    "id_sede": "1",
+    "id_clase": "793"
+  },
+  {
+    "idSedeClase": "315",
+    "id_sede": "91",
+    "id_clase": "793"
+  },
+  {
+    "idSedeClase": "1844",
+    "id_sede": "36",
+    "id_clase": "794"
+  },
+  {
+    "idSedeClase": "828",
+    "id_sede": "25",
+    "id_clase": "796"
+  },
+  {
+    "idSedeClase": "1946",
+    "id_sede": "95",
+    "id_clase": "798"
+  },
+  {
+    "idSedeClase": "509",
+    "id_sede": "86",
+    "id_clase": "800"
+  },
+  {
+    "idSedeClase": "615",
+    "id_sede": "90",
+    "id_clase": "800"
+  },
+  {
+    "idSedeClase": "1084",
+    "id_sede": "100",
+    "id_clase": "802"
+  },
+  {
+    "idSedeClase": "1623",
+    "id_sede": "99",
+    "id_clase": "805"
+  },
+  {
+    "idSedeClase": "1483",
+    "id_sede": "6",
+    "id_clase": "807"
+  },
+  {
+    "idSedeClase": "1907",
+    "id_sede": "17",
+    "id_clase": "808"
+  },
+  {
+    "idSedeClase": "448",
+    "id_sede": "81",
+    "id_clase": "809"
+  },
+  {
+    "idSedeClase": "1295",
+    "id_sede": "67",
+    "id_clase": "810"
+  },
+  {
+    "idSedeClase": "303",
+    "id_sede": "94",
+    "id_clase": "811"
+  },
+  {
+    "idSedeClase": "317",
+    "id_sede": "29",
+    "id_clase": "811"
+  },
+  {
+    "idSedeClase": "693",
+    "id_sede": "80",
+    "id_clase": "812"
+  },
+  {
+    "idSedeClase": "1013",
+    "id_sede": "2",
+    "id_clase": "812"
+  },
+  {
+    "idSedeClase": "1492",
+    "id_sede": "2",
+    "id_clase": "813"
+  },
+  {
+    "idSedeClase": "1000",
+    "id_sede": "43",
+    "id_clase": "816"
+  },
+  {
+    "idSedeClase": "1313",
+    "id_sede": "86",
+    "id_clase": "818"
+  },
+  {
+    "idSedeClase": "993",
+    "id_sede": "87",
+    "id_clase": "819"
+  },
+  {
+    "idSedeClase": "839",
+    "id_sede": "54",
+    "id_clase": "820"
+  },
+  {
+    "idSedeClase": "1725",
+    "id_sede": "74",
+    "id_clase": "823"
+  },
+  {
+    "idSedeClase": "1342",
+    "id_sede": "89",
+    "id_clase": "824"
+  },
+  {
+    "idSedeClase": "8",
+    "id_sede": "72",
+    "id_clase": "825"
+  },
+  {
+    "idSedeClase": "1110",
+    "id_sede": "94",
+    "id_clase": "825"
+  },
+  {
+    "idSedeClase": "1316",
+    "id_sede": "89",
+    "id_clase": "825"
+  },
+  {
+    "idSedeClase": "1851",
+    "id_sede": "59",
+    "id_clase": "825"
+  },
+  {
+    "idSedeClase": "1621",
+    "id_sede": "40",
+    "id_clase": "826"
+  },
+  {
+    "idSedeClase": "1676",
+    "id_sede": "61",
+    "id_clase": "826"
+  },
+  {
+    "idSedeClase": "322",
+    "id_sede": "42",
+    "id_clase": "828"
+  },
+  {
+    "idSedeClase": "426",
+    "id_sede": "73",
+    "id_clase": "828"
+  },
+  {
+    "idSedeClase": "1226",
+    "id_sede": "76",
+    "id_clase": "828"
+  },
+  {
+    "idSedeClase": "382",
+    "id_sede": "44",
+    "id_clase": "829"
+  },
+  {
+    "idSedeClase": "589",
+    "id_sede": "8",
+    "id_clase": "830"
+  },
+  {
+    "idSedeClase": "1272",
+    "id_sede": "56",
+    "id_clase": "831"
+  },
+  {
+    "idSedeClase": "1609",
+    "id_sede": "40",
+    "id_clase": "831"
+  },
+  {
+    "idSedeClase": "1877",
+    "id_sede": "2",
+    "id_clase": "831"
+  },
+  {
+    "idSedeClase": "1490",
+    "id_sede": "96",
+    "id_clase": "834"
+  },
+  {
+    "idSedeClase": "142",
+    "id_sede": "76",
+    "id_clase": "835"
+  },
+  {
+    "idSedeClase": "1082",
+    "id_sede": "98",
+    "id_clase": "835"
+  },
+  {
+    "idSedeClase": "926",
+    "id_sede": "54",
+    "id_clase": "836"
+  },
+  {
+    "idSedeClase": "625",
+    "id_sede": "100",
+    "id_clase": "837"
+  },
+  {
+    "idSedeClase": "627",
+    "id_sede": "11",
+    "id_clase": "838"
+  },
+  {
+    "idSedeClase": "44",
+    "id_sede": "96",
+    "id_clase": "841"
+  },
+  {
+    "idSedeClase": "286",
+    "id_sede": "80",
+    "id_clase": "841"
+  },
+  {
+    "idSedeClase": "1428",
+    "id_sede": "6",
+    "id_clase": "843"
+  },
+  {
+    "idSedeClase": "599",
+    "id_sede": "16",
+    "id_clase": "845"
+  },
+  {
+    "idSedeClase": "1806",
+    "id_sede": "20",
+    "id_clase": "846"
+  },
+  {
+    "idSedeClase": "623",
+    "id_sede": "74",
+    "id_clase": "847"
+  },
+  {
+    "idSedeClase": "879",
+    "id_sede": "22",
+    "id_clase": "847"
+  },
+  {
+    "idSedeClase": "855",
+    "id_sede": "95",
+    "id_clase": "848"
+  },
+  {
+    "idSedeClase": "65",
+    "id_sede": "14",
+    "id_clase": "849"
+  },
+  {
+    "idSedeClase": "492",
+    "id_sede": "5",
+    "id_clase": "849"
+  },
+  {
+    "idSedeClase": "1967",
+    "id_sede": "94",
+    "id_clase": "849"
+  },
+  {
+    "idSedeClase": "572",
+    "id_sede": "88",
+    "id_clase": "850"
+  },
+  {
+    "idSedeClase": "1419",
+    "id_sede": "98",
+    "id_clase": "851"
+  },
+  {
+    "idSedeClase": "1752",
+    "id_sede": "28",
+    "id_clase": "853"
+  },
+  {
+    "idSedeClase": "680",
+    "id_sede": "44",
+    "id_clase": "854"
+  },
+  {
+    "idSedeClase": "792",
+    "id_sede": "45",
+    "id_clase": "856"
+  },
+  {
+    "idSedeClase": "294",
+    "id_sede": "74",
+    "id_clase": "857"
+  },
+  {
+    "idSedeClase": "1420",
+    "id_sede": "9",
+    "id_clase": "857"
+  },
+  {
+    "idSedeClase": "909",
+    "id_sede": "30",
+    "id_clase": "858"
+  },
+  {
+    "idSedeClase": "150",
+    "id_sede": "29",
+    "id_clase": "862"
+  },
+  {
+    "idSedeClase": "337",
+    "id_sede": "52",
+    "id_clase": "863"
+  },
+  {
+    "idSedeClase": "305",
+    "id_sede": "71",
+    "id_clase": "866"
+  },
+  {
+    "idSedeClase": "74",
+    "id_sede": "3",
+    "id_clase": "868"
+  },
+  {
+    "idSedeClase": "1408",
+    "id_sede": "22",
+    "id_clase": "869"
+  },
+  {
+    "idSedeClase": "1341",
+    "id_sede": "76",
+    "id_clase": "871"
+  },
+  {
+    "idSedeClase": "414",
+    "id_sede": "24",
+    "id_clase": "873"
+  },
+  {
+    "idSedeClase": "1277",
+    "id_sede": "21",
+    "id_clase": "873"
+  },
+  {
+    "idSedeClase": "1433",
+    "id_sede": "33",
+    "id_clase": "873"
+  },
+  {
+    "idSedeClase": "183",
+    "id_sede": "27",
+    "id_clase": "874"
+  },
+  {
+    "idSedeClase": "236",
+    "id_sede": "99",
+    "id_clase": "875"
+  },
+  {
+    "idSedeClase": "553",
+    "id_sede": "83",
+    "id_clase": "875"
+  },
+  {
+    "idSedeClase": "796",
+    "id_sede": "59",
+    "id_clase": "876"
+  },
+  {
+    "idSedeClase": "1493",
+    "id_sede": "76",
+    "id_clase": "877"
+  },
+  {
+    "idSedeClase": "427",
+    "id_sede": "94",
+    "id_clase": "879"
+  },
+  {
+    "idSedeClase": "738",
+    "id_sede": "70",
+    "id_clase": "880"
+  },
+  {
+    "idSedeClase": "1304",
+    "id_sede": "79",
+    "id_clase": "880"
+  },
+  {
+    "idSedeClase": "1903",
+    "id_sede": "97",
+    "id_clase": "880"
+  },
+  {
+    "idSedeClase": "335",
+    "id_sede": "6",
+    "id_clase": "881"
+  },
+  {
+    "idSedeClase": "646",
+    "id_sede": "51",
+    "id_clase": "881"
+  },
+  {
+    "idSedeClase": "228",
+    "id_sede": "24",
+    "id_clase": "883"
+  },
+  {
+    "idSedeClase": "1711",
+    "id_sede": "62",
+    "id_clase": "883"
+  },
+  {
+    "idSedeClase": "362",
+    "id_sede": "92",
+    "id_clase": "884"
+  },
+  {
+    "idSedeClase": "541",
+    "id_sede": "28",
+    "id_clase": "884"
+  },
+  {
+    "idSedeClase": "1210",
+    "id_sede": "61",
+    "id_clase": "885"
+  },
+  {
+    "idSedeClase": "1362",
+    "id_sede": "19",
+    "id_clase": "889"
+  },
+  {
+    "idSedeClase": "231",
+    "id_sede": "44",
+    "id_clase": "891"
+  },
+  {
+    "idSedeClase": "1792",
+    "id_sede": "47",
+    "id_clase": "892"
+  },
+  {
+    "idSedeClase": "1840",
+    "id_sede": "26",
+    "id_clase": "892"
+  },
+  {
+    "idSedeClase": "71",
+    "id_sede": "14",
+    "id_clase": "893"
+  },
+  {
+    "idSedeClase": "1545",
+    "id_sede": "89",
+    "id_clase": "893"
+  },
+  {
+    "idSedeClase": "1749",
+    "id_sede": "95",
+    "id_clase": "893"
+  },
+  {
+    "idSedeClase": "815",
+    "id_sede": "94",
+    "id_clase": "894"
+  },
+  {
+    "idSedeClase": "760",
+    "id_sede": "84",
+    "id_clase": "896"
+  },
+  {
+    "idSedeClase": "1236",
+    "id_sede": "31",
+    "id_clase": "896"
+  },
+  {
+    "idSedeClase": "151",
+    "id_sede": "11",
+    "id_clase": "898"
+  },
+  {
+    "idSedeClase": "1160",
+    "id_sede": "91",
+    "id_clase": "898"
+  },
+  {
+    "idSedeClase": "1799",
+    "id_sede": "37",
+    "id_clase": "898"
+  },
+  {
+    "idSedeClase": "343",
+    "id_sede": "29",
+    "id_clase": "899"
+  },
+  {
+    "idSedeClase": "205",
+    "id_sede": "37",
+    "id_clase": "900"
+  },
+  {
+    "idSedeClase": "1170",
+    "id_sede": "17",
+    "id_clase": "901"
+  },
+  {
+    "idSedeClase": "131",
+    "id_sede": "60",
+    "id_clase": "903"
+  },
+  {
+    "idSedeClase": "944",
+    "id_sede": "7",
+    "id_clase": "904"
+  },
+  {
+    "idSedeClase": "383",
+    "id_sede": "86",
+    "id_clase": "905"
+  },
+  {
+    "idSedeClase": "387",
+    "id_sede": "83",
+    "id_clase": "906"
+  },
+  {
+    "idSedeClase": "590",
+    "id_sede": "41",
+    "id_clase": "906"
+  },
+  {
+    "idSedeClase": "1241",
+    "id_sede": "51",
+    "id_clase": "906"
+  },
+  {
+    "idSedeClase": "1070",
+    "id_sede": "53",
+    "id_clase": "908"
+  },
+  {
+    "idSedeClase": "1551",
+    "id_sede": "27",
+    "id_clase": "908"
+  },
+  {
+    "idSedeClase": "1911",
+    "id_sede": "1",
+    "id_clase": "908"
+  },
+  {
+    "idSedeClase": "678",
+    "id_sede": "100",
+    "id_clase": "909"
+  },
+  {
+    "idSedeClase": "588",
+    "id_sede": "73",
+    "id_clase": "910"
+  },
+  {
+    "idSedeClase": "56",
+    "id_sede": "7",
+    "id_clase": "912"
+  },
+  {
+    "idSedeClase": "1303",
+    "id_sede": "72",
+    "id_clase": "913"
+  },
+  {
+    "idSedeClase": "209",
+    "id_sede": "17",
+    "id_clase": "915"
+  },
+  {
+    "idSedeClase": "346",
+    "id_sede": "24",
+    "id_clase": "915"
+  },
+  {
+    "idSedeClase": "1003",
+    "id_sede": "12",
+    "id_clase": "919"
+  },
+  {
+    "idSedeClase": "229",
+    "id_sede": "59",
+    "id_clase": "922"
+  },
+  {
+    "idSedeClase": "1533",
+    "id_sede": "84",
+    "id_clase": "924"
+  },
+  {
+    "idSedeClase": "1319",
+    "id_sede": "84",
+    "id_clase": "925"
+  },
+  {
+    "idSedeClase": "527",
+    "id_sede": "79",
+    "id_clase": "927"
+  },
+  {
+    "idSedeClase": "1076",
+    "id_sede": "76",
+    "id_clase": "927"
+  },
+  {
+    "idSedeClase": "820",
+    "id_sede": "88",
+    "id_clase": "928"
+  },
+  {
+    "idSedeClase": "1366",
+    "id_sede": "93",
+    "id_clase": "928"
+  },
+  {
+    "idSedeClase": "961",
+    "id_sede": "15",
+    "id_clase": "929"
+  },
+  {
+    "idSedeClase": "1986",
+    "id_sede": "31",
+    "id_clase": "930"
+  },
+  {
+    "idSedeClase": "823",
+    "id_sede": "72",
+    "id_clase": "931"
+  },
+  {
+    "idSedeClase": "1482",
+    "id_sede": "65",
+    "id_clase": "931"
+  },
+  {
+    "idSedeClase": "508",
+    "id_sede": "36",
+    "id_clase": "932"
+  },
+  {
+    "idSedeClase": "321",
+    "id_sede": "27",
+    "id_clase": "934"
+  },
+  {
+    "idSedeClase": "1257",
+    "id_sede": "76",
+    "id_clase": "934"
+  },
+  {
+    "idSedeClase": "810",
+    "id_sede": "34",
+    "id_clase": "936"
+  },
+  {
+    "idSedeClase": "1115",
+    "id_sede": "81",
+    "id_clase": "936"
+  },
+  {
+    "idSedeClase": "1385",
+    "id_sede": "21",
+    "id_clase": "938"
+  },
+  {
+    "idSedeClase": "781",
+    "id_sede": "60",
+    "id_clase": "939"
+  },
+  {
+    "idSedeClase": "389",
+    "id_sede": "30",
+    "id_clase": "941"
+  },
+  {
+    "idSedeClase": "1392",
+    "id_sede": "25",
+    "id_clase": "941"
+  },
+  {
+    "idSedeClase": "1902",
+    "id_sede": "83",
+    "id_clase": "941"
+  },
+  {
+    "idSedeClase": "657",
+    "id_sede": "15",
+    "id_clase": "942"
+  },
+  {
+    "idSedeClase": "1820",
+    "id_sede": "42",
+    "id_clase": "942"
+  },
+  {
+    "idSedeClase": "470",
+    "id_sede": "64",
+    "id_clase": "943"
+  },
+  {
+    "idSedeClase": "895",
+    "id_sede": "15",
+    "id_clase": "943"
+  },
+  {
+    "idSedeClase": "1686",
+    "id_sede": "66",
+    "id_clase": "943"
+  },
+  {
+    "idSedeClase": "482",
+    "id_sede": "84",
+    "id_clase": "944"
+  },
+  {
+    "idSedeClase": "1818",
+    "id_sede": "10",
+    "id_clase": "944"
+  },
+  {
+    "idSedeClase": "312",
+    "id_sede": "76",
+    "id_clase": "946"
+  },
+  {
+    "idSedeClase": "1718",
+    "id_sede": "33",
+    "id_clase": "946"
+  },
+  {
+    "idSedeClase": "278",
+    "id_sede": "40",
+    "id_clase": "947"
+  },
+  {
+    "idSedeClase": "872",
+    "id_sede": "10",
+    "id_clase": "947"
+  },
+  {
+    "idSedeClase": "547",
+    "id_sede": "43",
+    "id_clase": "949"
+  },
+  {
+    "idSedeClase": "1033",
+    "id_sede": "79",
+    "id_clase": "949"
+  },
+  {
+    "idSedeClase": "1066",
+    "id_sede": "78",
+    "id_clase": "949"
+  },
+  {
+    "idSedeClase": "1921",
+    "id_sede": "89",
+    "id_clase": "950"
+  },
+  {
+    "idSedeClase": "866",
+    "id_sede": "28",
+    "id_clase": "952"
+  },
+  {
+    "idSedeClase": "1747",
+    "id_sede": "96",
+    "id_clase": "953"
+  },
+  {
+    "idSedeClase": "75",
+    "id_sede": "100",
+    "id_clase": "955"
+  },
+  {
+    "idSedeClase": "554",
+    "id_sede": "19",
+    "id_clase": "956"
+  },
+  {
+    "idSedeClase": "207",
+    "id_sede": "4",
+    "id_clase": "958"
+  },
+  {
+    "idSedeClase": "371",
+    "id_sede": "36",
+    "id_clase": "960"
+  },
+  {
+    "idSedeClase": "869",
+    "id_sede": "29",
+    "id_clase": "960"
+  },
+  {
+    "idSedeClase": "902",
+    "id_sede": "29",
+    "id_clase": "960"
+  },
+  {
+    "idSedeClase": "896",
+    "id_sede": "51",
+    "id_clase": "963"
+  },
+  {
+    "idSedeClase": "1469",
+    "id_sede": "17",
+    "id_clase": "965"
+  },
+  {
+    "idSedeClase": "1487",
+    "id_sede": "43",
+    "id_clase": "967"
+  },
+  {
+    "idSedeClase": "1827",
+    "id_sede": "85",
+    "id_clase": "967"
+  },
+  {
+    "idSedeClase": "45",
+    "id_sede": "70",
+    "id_clase": "972"
+  },
+  {
+    "idSedeClase": "764",
+    "id_sede": "67",
+    "id_clase": "972"
+  },
+  {
+    "idSedeClase": "1219",
+    "id_sede": "95",
+    "id_clase": "972"
+  },
+  {
+    "idSedeClase": "676",
+    "id_sede": "76",
+    "id_clase": "973"
+  },
+  {
+    "idSedeClase": "778",
+    "id_sede": "43",
+    "id_clase": "973"
+  },
+  {
+    "idSedeClase": "1862",
+    "id_sede": "20",
+    "id_clase": "973"
+  },
+  {
+    "idSedeClase": "656",
+    "id_sede": "75",
+    "id_clase": "975"
+  },
+  {
+    "idSedeClase": "1474",
+    "id_sede": "1",
+    "id_clase": "975"
+  },
+  {
+    "idSedeClase": "298",
+    "id_sede": "32",
+    "id_clase": "976"
+  },
+  {
+    "idSedeClase": "1006",
+    "id_sede": "22",
+    "id_clase": "976"
+  },
+  {
+    "idSedeClase": "1338",
+    "id_sede": "70",
+    "id_clase": "976"
+  },
+  {
+    "idSedeClase": "1122",
+    "id_sede": "37",
+    "id_clase": "977"
+  },
+  {
+    "idSedeClase": "1123",
+    "id_sede": "3",
+    "id_clase": "977"
+  },
+  {
+    "idSedeClase": "1427",
+    "id_sede": "60",
+    "id_clase": "977"
+  },
+  {
+    "idSedeClase": "535",
+    "id_sede": "99",
+    "id_clase": "978"
+  },
+  {
+    "idSedeClase": "50",
+    "id_sede": "48",
+    "id_clase": "983"
+  },
+  {
+    "idSedeClase": "360",
+    "id_sede": "51",
+    "id_clase": "983"
+  },
+  {
+    "idSedeClase": "1719",
+    "id_sede": "7",
+    "id_clase": "984"
+  },
+  {
+    "idSedeClase": "1753",
+    "id_sede": "13",
+    "id_clase": "984"
+  },
+  {
+    "idSedeClase": "1198",
+    "id_sede": "48",
+    "id_clase": "986"
+  },
+  {
+    "idSedeClase": "500",
+    "id_sede": "43",
+    "id_clase": "991"
+  },
+  {
+    "idSedeClase": "803",
+    "id_sede": "66",
+    "id_clase": "992"
+  },
+  {
+    "idSedeClase": "1917",
+    "id_sede": "20",
+    "id_clase": "992"
+  },
+  {
+    "idSedeClase": "699",
+    "id_sede": "13",
+    "id_clase": "993"
+  },
+  {
+    "idSedeClase": "1024",
+    "id_sede": "36",
+    "id_clase": "993"
+  },
+  {
+    "idSedeClase": "1167",
+    "id_sede": "11",
+    "id_clase": "993"
+  },
+  {
+    "idSedeClase": "1532",
+    "id_sede": "35",
+    "id_clase": "993"
+  },
+  {
+    "idSedeClase": "1388",
+    "id_sede": "47",
+    "id_clase": "995"
+  },
+  {
+    "idSedeClase": "1158",
+    "id_sede": "44",
+    "id_clase": "997"
+  },
+  {
+    "idSedeClase": "153",
+    "id_sede": "80",
+    "id_clase": "998"
+  },
+  {
+    "idSedeClase": "179",
+    "id_sede": "31",
+    "id_clase": "999"
+  },
+  {
+    "idSedeClase": "955",
+    "id_sede": "31",
+    "id_clase": "999"
+  },
+  {
+    "idSedeClase": "622",
+    "id_sede": "22",
+    "id_clase": "1001"
+  },
+  {
+    "idSedeClase": "843",
+    "id_sede": "21",
+    "id_clase": "1005"
+  },
+  {
+    "idSedeClase": "1133",
+    "id_sede": "63",
+    "id_clase": "1005"
+  },
+  {
+    "idSedeClase": "175",
+    "id_sede": "82",
+    "id_clase": "1007"
+  },
+  {
+    "idSedeClase": "283",
+    "id_sede": "38",
+    "id_clase": "1007"
+  },
+  {
+    "idSedeClase": "1307",
+    "id_sede": "57",
+    "id_clase": "1007"
+  },
+  {
+    "idSedeClase": "1860",
+    "id_sede": "82",
+    "id_clase": "1008"
+  },
+  {
+    "idSedeClase": "166",
+    "id_sede": "35",
+    "id_clase": "1010"
+  },
+  {
+    "idSedeClase": "357",
+    "id_sede": "46",
+    "id_clase": "1010"
+  },
+  {
+    "idSedeClase": "1411",
+    "id_sede": "75",
+    "id_clase": "1011"
+  },
+  {
+    "idSedeClase": "668",
+    "id_sede": "57",
+    "id_clase": "1013"
+  },
+  {
+    "idSedeClase": "1854",
+    "id_sede": "33",
+    "id_clase": "1013"
+  },
+  {
+    "idSedeClase": "300",
+    "id_sede": "57",
+    "id_clase": "1014"
+  },
+  {
+    "idSedeClase": "1306",
+    "id_sede": "55",
+    "id_clase": "1014"
+  },
+  {
+    "idSedeClase": "837",
+    "id_sede": "99",
+    "id_clase": "1016"
+  },
+  {
+    "idSedeClase": "842",
+    "id_sede": "14",
+    "id_clase": "1016"
+  },
+  {
+    "idSedeClase": "49",
+    "id_sede": "92",
+    "id_clase": "1018"
+  },
+  {
+    "idSedeClase": "310",
+    "id_sede": "93",
+    "id_clase": "1018"
+  },
+  {
+    "idSedeClase": "1414",
+    "id_sede": "97",
+    "id_clase": "1020"
+  },
+  {
+    "idSedeClase": "1590",
+    "id_sede": "68",
+    "id_clase": "1020"
+  },
+  {
+    "idSedeClase": "1640",
+    "id_sede": "22",
+    "id_clase": "1020"
+  },
+  {
+    "idSedeClase": "1864",
+    "id_sede": "89",
+    "id_clase": "1020"
+  },
+  {
+    "idSedeClase": "694",
+    "id_sede": "65",
+    "id_clase": "1022"
+  },
+  {
+    "idSedeClase": "1242",
+    "id_sede": "17",
+    "id_clase": "1022"
+  },
+  {
+    "idSedeClase": "1441",
+    "id_sede": "70",
+    "id_clase": "1022"
+  },
+  {
+    "idSedeClase": "133",
+    "id_sede": "81",
+    "id_clase": "1023"
+  },
+  {
+    "idSedeClase": "941",
+    "id_sede": "88",
+    "id_clase": "1023"
+  },
+  {
+    "idSedeClase": "1050",
+    "id_sede": "2",
+    "id_clase": "1023"
+  },
+  {
+    "idSedeClase": "380",
+    "id_sede": "56",
+    "id_clase": "1025"
+  },
+  {
+    "idSedeClase": "1761",
+    "id_sede": "99",
+    "id_clase": "1025"
+  },
+  {
+    "idSedeClase": "1537",
+    "id_sede": "19",
+    "id_clase": "1028"
+  },
+  {
+    "idSedeClase": "267",
+    "id_sede": "10",
+    "id_clase": "1029"
+  },
+  {
+    "idSedeClase": "1182",
+    "id_sede": "95",
+    "id_clase": "1029"
+  },
+  {
+    "idSedeClase": "1893",
+    "id_sede": "99",
+    "id_clase": "1030"
+  },
+  {
+    "idSedeClase": "1511",
+    "id_sede": "74",
+    "id_clase": "1032"
+  },
+  {
+    "idSedeClase": "1485",
+    "id_sede": "23",
+    "id_clase": "1034"
+  },
+  {
+    "idSedeClase": "139",
+    "id_sede": "71",
+    "id_clase": "1036"
+  },
+  {
+    "idSedeClase": "1337",
+    "id_sede": "48",
+    "id_clase": "1038"
+  },
+  {
+    "idSedeClase": "1463",
+    "id_sede": "53",
+    "id_clase": "1039"
+  },
+  {
+    "idSedeClase": "1661",
+    "id_sede": "99",
+    "id_clase": "1039"
+  },
+  {
+    "idSedeClase": "1760",
+    "id_sede": "55",
+    "id_clase": "1039"
+  },
+  {
+    "idSedeClase": "1416",
+    "id_sede": "82",
+    "id_clase": "1040"
+  },
+  {
+    "idSedeClase": "982",
+    "id_sede": "13",
+    "id_clase": "1043"
+  },
+  {
+    "idSedeClase": "1005",
+    "id_sede": "55",
+    "id_clase": "1043"
+  },
+  {
+    "idSedeClase": "1263",
+    "id_sede": "28",
+    "id_clase": "1046"
+  },
+  {
+    "idSedeClase": "736",
+    "id_sede": "63",
+    "id_clase": "1048"
+  },
+  {
+    "idSedeClase": "100",
+    "id_sede": "96",
+    "id_clase": "1049"
+  },
+  {
+    "idSedeClase": "1104",
+    "id_sede": "47",
+    "id_clase": "1050"
+  },
+  {
+    "idSedeClase": "1836",
+    "id_sede": "91",
+    "id_clase": "1050"
+  },
+  {
+    "idSedeClase": "1780",
+    "id_sede": "14",
+    "id_clase": "1052"
+  },
+  {
+    "idSedeClase": "1633",
+    "id_sede": "23",
+    "id_clase": "1053"
+  },
+  {
+    "idSedeClase": "707",
+    "id_sede": "71",
+    "id_clase": "1054"
+  },
+  {
+    "idSedeClase": "336",
+    "id_sede": "37",
+    "id_clase": "1055"
+  },
+  {
+    "idSedeClase": "247",
+    "id_sede": "21",
+    "id_clase": "1056"
+  },
+  {
+    "idSedeClase": "301",
+    "id_sede": "67",
+    "id_clase": "1056"
+  },
+  {
+    "idSedeClase": "701",
+    "id_sede": "38",
+    "id_clase": "1056"
+  },
+  {
+    "idSedeClase": "1377",
+    "id_sede": "87",
+    "id_clase": "1056"
+  },
+  {
+    "idSedeClase": "1629",
+    "id_sede": "34",
+    "id_clase": "1057"
+  },
+  {
+    "idSedeClase": "868",
+    "id_sede": "18",
+    "id_clase": "1058"
+  },
+  {
+    "idSedeClase": "1817",
+    "id_sede": "67",
+    "id_clase": "1058"
+  },
+  {
+    "idSedeClase": "144",
+    "id_sede": "88",
+    "id_clase": "1059"
+  },
+  {
+    "idSedeClase": "485",
+    "id_sede": "65",
+    "id_clase": "1059"
+  },
+  {
+    "idSedeClase": "1014",
+    "id_sede": "83",
+    "id_clase": "1060"
+  },
+  {
+    "idSedeClase": "1729",
+    "id_sede": "42",
+    "id_clase": "1061"
+  },
+  {
+    "idSedeClase": "1668",
+    "id_sede": "72",
+    "id_clase": "1062"
+  },
+  {
+    "idSedeClase": "352",
+    "id_sede": "17",
+    "id_clase": "1063"
+  },
+  {
+    "idSedeClase": "437",
+    "id_sede": "5",
+    "id_clase": "1064"
+  },
+  {
+    "idSedeClase": "1924",
+    "id_sede": "33",
+    "id_clase": "1064"
+  },
+  {
+    "idSedeClase": "805",
+    "id_sede": "29",
+    "id_clase": "1065"
+  },
+  {
+    "idSedeClase": "1803",
+    "id_sede": "30",
+    "id_clase": "1065"
+  },
+  {
+    "idSedeClase": "741",
+    "id_sede": "5",
+    "id_clase": "1067"
+  },
+  {
+    "idSedeClase": "1326",
+    "id_sede": "23",
+    "id_clase": "1068"
+  },
+  {
+    "idSedeClase": "862",
+    "id_sede": "40",
+    "id_clase": "1070"
+  },
+  {
+    "idSedeClase": "729",
+    "id_sede": "10",
+    "id_clase": "1071"
+  },
+  {
+    "idSedeClase": "1642",
+    "id_sede": "44",
+    "id_clase": "1072"
+  },
+  {
+    "idSedeClase": "129",
+    "id_sede": "1",
+    "id_clase": "1075"
+  },
+  {
+    "idSedeClase": "345",
+    "id_sede": "2",
+    "id_clase": "1077"
+  },
+  {
+    "idSedeClase": "1858",
+    "id_sede": "54",
+    "id_clase": "1077"
+  },
+  {
+    "idSedeClase": "195",
+    "id_sede": "3",
+    "id_clase": "1078"
+  },
+  {
+    "idSedeClase": "1466",
+    "id_sede": "68",
+    "id_clase": "1079"
+  },
+  {
+    "idSedeClase": "327",
+    "id_sede": "20",
+    "id_clase": "1080"
+  },
+  {
+    "idSedeClase": "1575",
+    "id_sede": "55",
+    "id_clase": "1081"
+  },
+  {
+    "idSedeClase": "782",
+    "id_sede": "26",
+    "id_clase": "1082"
+  },
+  {
+    "idSedeClase": "1889",
+    "id_sede": "37",
+    "id_clase": "1084"
+  },
+  {
+    "idSedeClase": "1283",
+    "id_sede": "72",
+    "id_clase": "1085"
+  },
+  {
+    "idSedeClase": "1520",
+    "id_sede": "23",
+    "id_clase": "1087"
+  },
+  {
+    "idSedeClase": "669",
+    "id_sede": "5",
+    "id_clase": "1088"
+  },
+  {
+    "idSedeClase": "1538",
+    "id_sede": "37",
+    "id_clase": "1088"
+  },
+  {
+    "idSedeClase": "355",
+    "id_sede": "17",
+    "id_clase": "1089"
+  },
+  {
+    "idSedeClase": "593",
+    "id_sede": "45",
+    "id_clase": "1090"
+  },
+  {
+    "idSedeClase": "641",
+    "id_sede": "38",
+    "id_clase": "1090"
+  },
+  {
+    "idSedeClase": "1074",
+    "id_sede": "32",
+    "id_clase": "1090"
+  },
+  {
+    "idSedeClase": "1644",
+    "id_sede": "95",
+    "id_clase": "1090"
+  },
+  {
+    "idSedeClase": "375",
+    "id_sede": "96",
+    "id_clase": "1091"
+  },
+  {
+    "idSedeClase": "1594",
+    "id_sede": "41",
+    "id_clase": "1091"
+  },
+  {
+    "idSedeClase": "915",
+    "id_sede": "22",
+    "id_clase": "1092"
+  },
+  {
+    "idSedeClase": "821",
+    "id_sede": "22",
+    "id_clase": "1094"
+  },
+  {
+    "idSedeClase": "987",
+    "id_sede": "73",
+    "id_clase": "1096"
+  },
+  {
+    "idSedeClase": "370",
+    "id_sede": "39",
+    "id_clase": "1097"
+  },
+  {
+    "idSedeClase": "403",
+    "id_sede": "5",
+    "id_clase": "1097"
+  },
+  {
+    "idSedeClase": "329",
+    "id_sede": "53",
+    "id_clase": "1098"
+  },
+  {
+    "idSedeClase": "723",
+    "id_sede": "40",
+    "id_clase": "1102"
+  },
+  {
+    "idSedeClase": "516",
+    "id_sede": "11",
+    "id_clase": "1103"
+  },
+  {
+    "idSedeClase": "703",
+    "id_sede": "70",
+    "id_clase": "1103"
+  },
+  {
+    "idSedeClase": "514",
+    "id_sede": "61",
+    "id_clase": "1105"
+  },
+  {
+    "idSedeClase": "537",
+    "id_sede": "14",
+    "id_clase": "1105"
+  },
+  {
+    "idSedeClase": "687",
+    "id_sede": "45",
+    "id_clase": "1105"
+  },
+  {
+    "idSedeClase": "1678",
+    "id_sede": "75",
+    "id_clase": "1105"
+  },
+  {
+    "idSedeClase": "1610",
+    "id_sede": "54",
+    "id_clase": "1106"
+  },
+  {
+    "idSedeClase": "241",
+    "id_sede": "84",
+    "id_clase": "1107"
+  },
+  {
+    "idSedeClase": "197",
+    "id_sede": "48",
+    "id_clase": "1108"
+  },
+  {
+    "idSedeClase": "859",
+    "id_sede": "78",
+    "id_clase": "1108"
+  },
+  {
+    "idSedeClase": "739",
+    "id_sede": "93",
+    "id_clase": "1109"
+  },
+  {
+    "idSedeClase": "545",
+    "id_sede": "28",
+    "id_clase": "1110"
+  },
+  {
+    "idSedeClase": "184",
+    "id_sede": "72",
+    "id_clase": "1111"
+  },
+  {
+    "idSedeClase": "191",
+    "id_sede": "95",
+    "id_clase": "1111"
+  },
+  {
+    "idSedeClase": "1287",
+    "id_sede": "67",
+    "id_clase": "1111"
+  },
+  {
+    "idSedeClase": "1039",
+    "id_sede": "23",
+    "id_clase": "1114"
+  },
+  {
+    "idSedeClase": "1912",
+    "id_sede": "96",
+    "id_clase": "1115"
+  },
+  {
+    "idSedeClase": "1501",
+    "id_sede": "91",
+    "id_clase": "1116"
+  },
+  {
+    "idSedeClase": "653",
+    "id_sede": "33",
+    "id_clase": "1119"
+  },
+  {
+    "idSedeClase": "601",
+    "id_sede": "70",
+    "id_clase": "1120"
+  },
+  {
+    "idSedeClase": "848",
+    "id_sede": "65",
+    "id_clase": "1120"
+  },
+  {
+    "idSedeClase": "1781",
+    "id_sede": "54",
+    "id_clase": "1122"
+  },
+  {
+    "idSedeClase": "421",
+    "id_sede": "50",
+    "id_clase": "1123"
+  },
+  {
+    "idSedeClase": "560",
+    "id_sede": "54",
+    "id_clase": "1123"
+  },
+  {
+    "idSedeClase": "1275",
+    "id_sede": "58",
+    "id_clase": "1123"
+  },
+  {
+    "idSedeClase": "1751",
+    "id_sede": "36",
+    "id_clase": "1123"
+  },
+  {
+    "idSedeClase": "455",
+    "id_sede": "70",
+    "id_clase": "1124"
+  },
+  {
+    "idSedeClase": "841",
+    "id_sede": "60",
+    "id_clase": "1124"
+  },
+  {
+    "idSedeClase": "1040",
+    "id_sede": "99",
+    "id_clase": "1124"
+  },
+  {
+    "idSedeClase": "973",
+    "id_sede": "53",
+    "id_clase": "1125"
+  },
+  {
+    "idSedeClase": "1855",
+    "id_sede": "58",
+    "id_clase": "1126"
+  },
+  {
+    "idSedeClase": "1867",
+    "id_sede": "74",
+    "id_clase": "1127"
+  },
+  {
+    "idSedeClase": "5",
+    "id_sede": "97",
+    "id_clase": "1128"
+  },
+  {
+    "idSedeClase": "1763",
+    "id_sede": "7",
+    "id_clase": "1128"
+  },
+  {
+    "idSedeClase": "1928",
+    "id_sede": "93",
+    "id_clase": "1128"
+  },
+  {
+    "idSedeClase": "1253",
+    "id_sede": "47",
+    "id_clase": "1129"
+  },
+  {
+    "idSedeClase": "1604",
+    "id_sede": "46",
+    "id_clase": "1129"
+  },
+  {
+    "idSedeClase": "428",
+    "id_sede": "95",
+    "id_clase": "1130"
+  },
+  {
+    "idSedeClase": "338",
+    "id_sede": "12",
+    "id_clase": "1131"
+  },
+  {
+    "idSedeClase": "431",
+    "id_sede": "5",
+    "id_clase": "1131"
+  },
+  {
+    "idSedeClase": "1721",
+    "id_sede": "17",
+    "id_clase": "1132"
+  },
+  {
+    "idSedeClase": "1536",
+    "id_sede": "26",
+    "id_clase": "1134"
+  },
+  {
+    "idSedeClase": "1970",
+    "id_sede": "26",
+    "id_clase": "1134"
+  },
+  {
+    "idSedeClase": "771",
+    "id_sede": "87",
+    "id_clase": "1135"
+  },
+  {
+    "idSedeClase": "1584",
+    "id_sede": "34",
+    "id_clase": "1136"
+  },
+  {
+    "idSedeClase": "567",
+    "id_sede": "92",
+    "id_clase": "1137"
+  },
+  {
+    "idSedeClase": "711",
+    "id_sede": "93",
+    "id_clase": "1137"
+  },
+  {
+    "idSedeClase": "824",
+    "id_sede": "31",
+    "id_clase": "1138"
+  },
+  {
+    "idSedeClase": "1213",
+    "id_sede": "5",
+    "id_clase": "1140"
+  },
+  {
+    "idSedeClase": "1435",
+    "id_sede": "77",
+    "id_clase": "1140"
+  },
+  {
+    "idSedeClase": "232",
+    "id_sede": "53",
+    "id_clase": "1142"
+  },
+  {
+    "idSedeClase": "319",
+    "id_sede": "31",
+    "id_clase": "1142"
+  },
+  {
+    "idSedeClase": "339",
+    "id_sede": "41",
+    "id_clase": "1142"
+  },
+  {
+    "idSedeClase": "1593",
+    "id_sede": "91",
+    "id_clase": "1145"
+  },
+  {
+    "idSedeClase": "1835",
+    "id_sede": "82",
+    "id_clase": "1145"
+  },
+  {
+    "idSedeClase": "1096",
+    "id_sede": "57",
+    "id_clase": "1146"
+  },
+  {
+    "idSedeClase": "188",
+    "id_sede": "28",
+    "id_clase": "1147"
+  },
+  {
+    "idSedeClase": "1495",
+    "id_sede": "49",
+    "id_clase": "1148"
+  },
+  {
+    "idSedeClase": "1405",
+    "id_sede": "60",
+    "id_clase": "1152"
+  },
+  {
+    "idSedeClase": "1919",
+    "id_sede": "34",
+    "id_clase": "1152"
+  },
+  {
+    "idSedeClase": "581",
+    "id_sede": "55",
+    "id_clase": "1157"
+  },
+  {
+    "idSedeClase": "1126",
+    "id_sede": "9",
+    "id_clase": "1162"
+  },
+  {
+    "idSedeClase": "688",
+    "id_sede": "38",
+    "id_clase": "1163"
+  },
+  {
+    "idSedeClase": "1058",
+    "id_sede": "57",
+    "id_clase": "1163"
+  },
+  {
+    "idSedeClase": "2",
+    "id_sede": "50",
+    "id_clase": "1164"
+  },
+  {
+    "idSedeClase": "1828",
+    "id_sede": "89",
+    "id_clase": "1165"
+  },
+  {
+    "idSedeClase": "234",
+    "id_sede": "62",
+    "id_clase": "1169"
+  },
+  {
+    "idSedeClase": "638",
+    "id_sede": "33",
+    "id_clase": "1170"
+  },
+  {
+    "idSedeClase": "1208",
+    "id_sede": "54",
+    "id_clase": "1172"
+  },
+  {
+    "idSedeClase": "1292",
+    "id_sede": "100",
+    "id_clase": "1173"
+  },
+  {
+    "idSedeClase": "954",
+    "id_sede": "88",
+    "id_clase": "1175"
+  },
+  {
+    "idSedeClase": "647",
+    "id_sede": "5",
+    "id_clase": "1177"
+  },
+  {
+    "idSedeClase": "695",
+    "id_sede": "71",
+    "id_clase": "1177"
+  },
+  {
+    "idSedeClase": "295",
+    "id_sede": "12",
+    "id_clase": "1180"
+  },
+  {
+    "idSedeClase": "215",
+    "id_sede": "52",
+    "id_clase": "1181"
+  },
+  {
+    "idSedeClase": "263",
+    "id_sede": "20",
+    "id_clase": "1181"
+  },
+  {
+    "idSedeClase": "857",
+    "id_sede": "80",
+    "id_clase": "1182"
+  },
+  {
+    "idSedeClase": "1250",
+    "id_sede": "8",
+    "id_clase": "1182"
+  },
+  {
+    "idSedeClase": "1951",
+    "id_sede": "95",
+    "id_clase": "1183"
+  },
+  {
+    "idSedeClase": "407",
+    "id_sede": "62",
+    "id_clase": "1186"
+  },
+  {
+    "idSedeClase": "502",
+    "id_sede": "25",
+    "id_clase": "1186"
+  },
+  {
+    "idSedeClase": "871",
+    "id_sede": "78",
+    "id_clase": "1186"
+  },
+  {
+    "idSedeClase": "1745",
+    "id_sede": "28",
+    "id_clase": "1186"
+  },
+  {
+    "idSedeClase": "1693",
+    "id_sede": "79",
+    "id_clase": "1187"
+  },
+  {
+    "idSedeClase": "141",
+    "id_sede": "21",
+    "id_clase": "1188"
+  },
+  {
+    "idSedeClase": "275",
+    "id_sede": "93",
+    "id_clase": "1190"
+  },
+  {
+    "idSedeClase": "332",
+    "id_sede": "73",
+    "id_clase": "1190"
+  },
+  {
+    "idSedeClase": "791",
+    "id_sede": "39",
+    "id_clase": "1190"
+  },
+  {
+    "idSedeClase": "809",
+    "id_sede": "31",
+    "id_clase": "1192"
+  },
+  {
+    "idSedeClase": "189",
+    "id_sede": "71",
+    "id_clase": "1193"
+  },
+  {
+    "idSedeClase": "264",
+    "id_sede": "69",
+    "id_clase": "1193"
+  },
+  {
+    "idSedeClase": "1269",
+    "id_sede": "69",
+    "id_clase": "1193"
+  },
+  {
+    "idSedeClase": "1673",
+    "id_sede": "81",
+    "id_clase": "1194"
+  },
+  {
+    "idSedeClase": "1957",
+    "id_sede": "39",
+    "id_clase": "1194"
+  },
+  {
+    "idSedeClase": "326",
+    "id_sede": "26",
+    "id_clase": "1195"
+  },
+  {
+    "idSedeClase": "1649",
+    "id_sede": "61",
+    "id_clase": "1195"
+  },
+  {
+    "idSedeClase": "1434",
+    "id_sede": "12",
+    "id_clase": "1196"
+  },
+  {
+    "idSedeClase": "1491",
+    "id_sede": "41",
+    "id_clase": "1196"
+  },
+  {
+    "idSedeClase": "288",
+    "id_sede": "15",
+    "id_clase": "1201"
+  },
+  {
+    "idSedeClase": "700",
+    "id_sede": "16",
+    "id_clase": "1201"
+  },
+  {
+    "idSedeClase": "52",
+    "id_sede": "80",
+    "id_clase": "1202"
+  },
+  {
+    "idSedeClase": "1243",
+    "id_sede": "46",
+    "id_clase": "1202"
+  },
+  {
+    "idSedeClase": "1440",
+    "id_sede": "99",
+    "id_clase": "1202"
+  },
+  {
+    "idSedeClase": "1444",
+    "id_sede": "79",
+    "id_clase": "1202"
+  },
+  {
+    "idSedeClase": "1923",
+    "id_sede": "87",
+    "id_clase": "1202"
+  },
+  {
+    "idSedeClase": "756",
+    "id_sede": "26",
+    "id_clase": "1203"
+  },
+  {
+    "idSedeClase": "846",
+    "id_sede": "83",
+    "id_clase": "1203"
+  },
+  {
+    "idSedeClase": "1785",
+    "id_sede": "6",
+    "id_clase": "1203"
+  },
+  {
+    "idSedeClase": "1846",
+    "id_sede": "43",
+    "id_clase": "1204"
+  },
+  {
+    "idSedeClase": "429",
+    "id_sede": "46",
+    "id_clase": "1205"
+  },
+  {
+    "idSedeClase": "1654",
+    "id_sede": "39",
+    "id_clase": "1206"
+  },
+  {
+    "idSedeClase": "1255",
+    "id_sede": "4",
+    "id_clase": "1207"
+  },
+  {
+    "idSedeClase": "1054",
+    "id_sede": "75",
+    "id_clase": "1208"
+  },
+  {
+    "idSedeClase": "1665",
+    "id_sede": "65",
+    "id_clase": "1213"
+  },
+  {
+    "idSedeClase": "1315",
+    "id_sede": "95",
+    "id_clase": "1216"
+  },
+  {
+    "idSedeClase": "1885",
+    "id_sede": "8",
+    "id_clase": "1217"
+  },
+  {
+    "idSedeClase": "393",
+    "id_sede": "69",
+    "id_clase": "1218"
+  },
+  {
+    "idSedeClase": "1343",
+    "id_sede": "99",
+    "id_clase": "1221"
+  },
+  {
+    "idSedeClase": "404",
+    "id_sede": "61",
+    "id_clase": "1222"
+  },
+  {
+    "idSedeClase": "1932",
+    "id_sede": "83",
+    "id_clase": "1222"
+  },
+  {
+    "idSedeClase": "172",
+    "id_sede": "22",
+    "id_clase": "1224"
+  },
+  {
+    "idSedeClase": "1406",
+    "id_sede": "62",
+    "id_clase": "1224"
+  },
+  {
+    "idSedeClase": "80",
+    "id_sede": "4",
+    "id_clase": "1225"
+  },
+  {
+    "idSedeClase": "124",
+    "id_sede": "12",
+    "id_clase": "1225"
+  },
+  {
+    "idSedeClase": "1464",
+    "id_sede": "2",
+    "id_clase": "1226"
+  },
+  {
+    "idSedeClase": "259",
+    "id_sede": "31",
+    "id_clase": "1227"
+  },
+  {
+    "idSedeClase": "835",
+    "id_sede": "86",
+    "id_clase": "1228"
+  },
+  {
+    "idSedeClase": "1801",
+    "id_sede": "88",
+    "id_clase": "1230"
+  },
+  {
+    "idSedeClase": "94",
+    "id_sede": "31",
+    "id_clase": "1231"
+  },
+  {
+    "idSedeClase": "1256",
+    "id_sede": "63",
+    "id_clase": "1232"
+  },
+  {
+    "idSedeClase": "1866",
+    "id_sede": "93",
+    "id_clase": "1232"
+  },
+  {
+    "idSedeClase": "1239",
+    "id_sede": "10",
+    "id_clase": "1234"
+  },
+  {
+    "idSedeClase": "1996",
+    "id_sede": "22",
+    "id_clase": "1235"
+  },
+  {
+    "idSedeClase": "373",
+    "id_sede": "71",
+    "id_clase": "1237"
+  },
+  {
+    "idSedeClase": "3",
+    "id_sede": "87",
+    "id_clase": "1238"
+  },
+  {
+    "idSedeClase": "768",
+    "id_sede": "93",
+    "id_clase": "1239"
+  },
+  {
+    "idSedeClase": "112",
+    "id_sede": "94",
+    "id_clase": "1241"
+  },
+  {
+    "idSedeClase": "18",
+    "id_sede": "9",
+    "id_clase": "1242"
+  },
+  {
+    "idSedeClase": "251",
+    "id_sede": "36",
+    "id_clase": "1242"
+  },
+  {
+    "idSedeClase": "1192",
+    "id_sede": "80",
+    "id_clase": "1242"
+  },
+  {
+    "idSedeClase": "1998",
+    "id_sede": "67",
+    "id_clase": "1242"
+  },
+  {
+    "idSedeClase": "808",
+    "id_sede": "3",
+    "id_clase": "1243"
+  },
+  {
+    "idSedeClase": "1223",
+    "id_sede": "40",
+    "id_clase": "1244"
+  },
+  {
+    "idSedeClase": "784",
+    "id_sede": "73",
+    "id_clase": "1245"
+  },
+  {
+    "idSedeClase": "1333",
+    "id_sede": "52",
+    "id_clase": "1245"
+  },
+  {
+    "idSedeClase": "239",
+    "id_sede": "85",
+    "id_clase": "1247"
+  },
+  {
+    "idSedeClase": "754",
+    "id_sede": "16",
+    "id_clase": "1247"
+  },
+  {
+    "idSedeClase": "1376",
+    "id_sede": "45",
+    "id_clase": "1247"
+  },
+  {
+    "idSedeClase": "1834",
+    "id_sede": "79",
+    "id_clase": "1247"
+  },
+  {
+    "idSedeClase": "13",
+    "id_sede": "50",
+    "id_clase": "1248"
+  },
+  {
+    "idSedeClase": "341",
+    "id_sede": "53",
+    "id_clase": "1248"
+  },
+  {
+    "idSedeClase": "564",
+    "id_sede": "37",
+    "id_clase": "1249"
+  },
+  {
+    "idSedeClase": "1424",
+    "id_sede": "37",
+    "id_clase": "1250"
+  },
+  {
+    "idSedeClase": "1572",
+    "id_sede": "46",
+    "id_clase": "1250"
+  },
+  {
+    "idSedeClase": "1267",
+    "id_sede": "43",
+    "id_clase": "1252"
+  },
+  {
+    "idSedeClase": "1577",
+    "id_sede": "93",
+    "id_clase": "1256"
+  },
+  {
+    "idSedeClase": "1750",
+    "id_sede": "70",
+    "id_clase": "1256"
+  },
+  {
+    "idSedeClase": "85",
+    "id_sede": "20",
+    "id_clase": "1257"
+  },
+  {
+    "idSedeClase": "364",
+    "id_sede": "50",
+    "id_clase": "1257"
+  },
+  {
+    "idSedeClase": "1870",
+    "id_sede": "80",
+    "id_clase": "1257"
+  },
+  {
+    "idSedeClase": "773",
+    "id_sede": "47",
+    "id_clase": "1259"
+  },
+  {
+    "idSedeClase": "825",
+    "id_sede": "87",
+    "id_clase": "1260"
+  },
+  {
+    "idSedeClase": "965",
+    "id_sede": "72",
+    "id_clase": "1260"
+  },
+  {
+    "idSedeClase": "1173",
+    "id_sede": "60",
+    "id_clase": "1261"
+  },
+  {
+    "idSedeClase": "24",
+    "id_sede": "29",
+    "id_clase": "1264"
+  },
+  {
+    "idSedeClase": "531",
+    "id_sede": "65",
+    "id_clase": "1264"
+  },
+  {
+    "idSedeClase": "1458",
+    "id_sede": "16",
+    "id_clase": "1265"
+  },
+  {
+    "idSedeClase": "922",
+    "id_sede": "14",
+    "id_clase": "1266"
+  },
+  {
+    "idSedeClase": "985",
+    "id_sede": "62",
+    "id_clase": "1268"
+  },
+  {
+    "idSedeClase": "1588",
+    "id_sede": "73",
+    "id_clase": "1270"
+  },
+  {
+    "idSedeClase": "1857",
+    "id_sede": "71",
+    "id_clase": "1270"
+  },
+  {
+    "idSedeClase": "980",
+    "id_sede": "16",
+    "id_clase": "1271"
+  },
+  {
+    "idSedeClase": "1606",
+    "id_sede": "34",
+    "id_clase": "1271"
+  },
+  {
+    "idSedeClase": "1696",
+    "id_sede": "99",
+    "id_clase": "1271"
+  },
+  {
+    "idSedeClase": "1615",
+    "id_sede": "9",
+    "id_clase": "1272"
+  },
+  {
+    "idSedeClase": "372",
+    "id_sede": "8",
+    "id_clase": "1273"
+  },
+  {
+    "idSedeClase": "1875",
+    "id_sede": "86",
+    "id_clase": "1274"
+  },
+  {
+    "idSedeClase": "54",
+    "id_sede": "19",
+    "id_clase": "1277"
+  },
+  {
+    "idSedeClase": "409",
+    "id_sede": "45",
+    "id_clase": "1277"
+  },
+  {
+    "idSedeClase": "1293",
+    "id_sede": "4",
+    "id_clase": "1277"
+  },
+  {
+    "idSedeClase": "1856",
+    "id_sede": "28",
+    "id_clase": "1278"
+  },
+  {
+    "idSedeClase": "79",
+    "id_sede": "90",
+    "id_clase": "1282"
+  },
+  {
+    "idSedeClase": "174",
+    "id_sede": "64",
+    "id_clase": "1282"
+  },
+  {
+    "idSedeClase": "1680",
+    "id_sede": "67",
+    "id_clase": "1283"
+  },
+  {
+    "idSedeClase": "244",
+    "id_sede": "81",
+    "id_clase": "1286"
+  },
+  {
+    "idSedeClase": "1016",
+    "id_sede": "83",
+    "id_clase": "1286"
+  },
+  {
+    "idSedeClase": "1563",
+    "id_sede": "57",
+    "id_clase": "1287"
+  },
+  {
+    "idSedeClase": "1137",
+    "id_sede": "11",
+    "id_clase": "1288"
+  },
+  {
+    "idSedeClase": "227",
+    "id_sede": "6",
+    "id_clase": "1290"
+  },
+  {
+    "idSedeClase": "1134",
+    "id_sede": "100",
+    "id_clase": "1291"
+  },
+  {
+    "idSedeClase": "907",
+    "id_sede": "29",
+    "id_clase": "1292"
+  },
+  {
+    "idSedeClase": "539",
+    "id_sede": "45",
+    "id_clase": "1293"
+  },
+  {
+    "idSedeClase": "704",
+    "id_sede": "76",
+    "id_clase": "1293"
+  },
+  {
+    "idSedeClase": "1057",
+    "id_sede": "73",
+    "id_clase": "1294"
+  },
+  {
+    "idSedeClase": "1794",
+    "id_sede": "56",
+    "id_clase": "1296"
+  },
+  {
+    "idSedeClase": "396",
+    "id_sede": "83",
+    "id_clase": "1298"
+  },
+  {
+    "idSedeClase": "192",
+    "id_sede": "17",
+    "id_clase": "1299"
+  },
+  {
+    "idSedeClase": "664",
+    "id_sede": "10",
+    "id_clase": "1301"
+  },
+  {
+    "idSedeClase": "1101",
+    "id_sede": "90",
+    "id_clase": "1302"
+  },
+  {
+    "idSedeClase": "1922",
+    "id_sede": "91",
+    "id_clase": "1303"
+  },
+  {
+    "idSedeClase": "1230",
+    "id_sede": "67",
+    "id_clase": "1311"
+  },
+  {
+    "idSedeClase": "1358",
+    "id_sede": "17",
+    "id_clase": "1311"
+  },
+  {
+    "idSedeClase": "1897",
+    "id_sede": "75",
+    "id_clase": "1311"
+  },
+  {
+    "idSedeClase": "222",
+    "id_sede": "36",
+    "id_clase": "1314"
+  },
+  {
+    "idSedeClase": "1395",
+    "id_sede": "68",
+    "id_clase": "1314"
+  },
+  {
+    "idSedeClase": "1153",
+    "id_sede": "22",
+    "id_clase": "1317"
+  },
+  {
+    "idSedeClase": "1357",
+    "id_sede": "85",
+    "id_clase": "1317"
+  },
+  {
+    "idSedeClase": "1429",
+    "id_sede": "82",
+    "id_clase": "1317"
+  },
+  {
+    "idSedeClase": "889",
+    "id_sede": "48",
+    "id_clase": "1319"
+  },
+  {
+    "idSedeClase": "807",
+    "id_sede": "29",
+    "id_clase": "1320"
+  },
+  {
+    "idSedeClase": "995",
+    "id_sede": "20",
+    "id_clase": "1321"
+  },
+  {
+    "idSedeClase": "304",
+    "id_sede": "18",
+    "id_clase": "1323"
+  },
+  {
+    "idSedeClase": "971",
+    "id_sede": "25",
+    "id_clase": "1323"
+  },
+  {
+    "idSedeClase": "366",
+    "id_sede": "68",
+    "id_clase": "1324"
+  },
+  {
+    "idSedeClase": "587",
+    "id_sede": "12",
+    "id_clase": "1325"
+  },
+  {
+    "idSedeClase": "761",
+    "id_sede": "96",
+    "id_clase": "1326"
+  },
+  {
+    "idSedeClase": "1880",
+    "id_sede": "67",
+    "id_clase": "1326"
+  },
+  {
+    "idSedeClase": "1139",
+    "id_sede": "33",
+    "id_clase": "1327"
+  },
+  {
+    "idSedeClase": "577",
+    "id_sede": "94",
+    "id_clase": "1329"
+  },
+  {
+    "idSedeClase": "1266",
+    "id_sede": "54",
+    "id_clase": "1329"
+  },
+  {
+    "idSedeClase": "225",
+    "id_sede": "13",
+    "id_clase": "1330"
+  },
+  {
+    "idSedeClase": "988",
+    "id_sede": "29",
+    "id_clase": "1333"
+  },
+  {
+    "idSedeClase": "1737",
+    "id_sede": "16",
+    "id_clase": "1333"
+  },
+  {
+    "idSedeClase": "618",
+    "id_sede": "61",
+    "id_clase": "1335"
+  },
+  {
+    "idSedeClase": "1800",
+    "id_sede": "98",
+    "id_clase": "1335"
+  },
+  {
+    "idSedeClase": "1926",
+    "id_sede": "82",
+    "id_clase": "1335"
+  },
+  {
+    "idSedeClase": "1945",
+    "id_sede": "92",
+    "id_clase": "1335"
+  },
+  {
+    "idSedeClase": "1095",
+    "id_sede": "5",
+    "id_clase": "1336"
+  },
+  {
+    "idSedeClase": "245",
+    "id_sede": "47",
+    "id_clase": "1337"
+  },
+  {
+    "idSedeClase": "486",
+    "id_sede": "30",
+    "id_clase": "1338"
+  },
+  {
+    "idSedeClase": "1582",
+    "id_sede": "77",
+    "id_clase": "1339"
+  },
+  {
+    "idSedeClase": "1909",
+    "id_sede": "50",
+    "id_clase": "1339"
+  },
+  {
+    "idSedeClase": "670",
+    "id_sede": "4",
+    "id_clase": "1340"
+  },
+  {
+    "idSedeClase": "795",
+    "id_sede": "4",
+    "id_clase": "1340"
+  },
+  {
+    "idSedeClase": "1663",
+    "id_sede": "14",
+    "id_clase": "1341"
+  },
+  {
+    "idSedeClase": "1064",
+    "id_sede": "10",
+    "id_clase": "1343"
+  },
+  {
+    "idSedeClase": "1888",
+    "id_sede": "46",
+    "id_clase": "1343"
+  },
+  {
+    "idSedeClase": "1216",
+    "id_sede": "67",
+    "id_clase": "1344"
+  },
+  {
+    "idSedeClase": "1400",
+    "id_sede": "99",
+    "id_clase": "1344"
+  },
+  {
+    "idSedeClase": "1587",
+    "id_sede": "52",
+    "id_clase": "1344"
+  },
+  {
+    "idSedeClase": "1439",
+    "id_sede": "27",
+    "id_clase": "1345"
+  },
+  {
+    "idSedeClase": "930",
+    "id_sede": "70",
+    "id_clase": "1346"
+  },
+  {
+    "idSedeClase": "1937",
+    "id_sede": "4",
+    "id_clase": "1347"
+  },
+  {
+    "idSedeClase": "692",
+    "id_sede": "33",
+    "id_clase": "1348"
+  },
+  {
+    "idSedeClase": "900",
+    "id_sede": "81",
+    "id_clase": "1348"
+  },
+  {
+    "idSedeClase": "936",
+    "id_sede": "16",
+    "id_clase": "1348"
+  },
+  {
+    "idSedeClase": "1421",
+    "id_sede": "13",
+    "id_clase": "1349"
+  },
+  {
+    "idSedeClase": "21",
+    "id_sede": "58",
+    "id_clase": "1352"
+  },
+  {
+    "idSedeClase": "1915",
+    "id_sede": "85",
+    "id_clase": "1353"
+  },
+  {
+    "idSedeClase": "101",
+    "id_sede": "95",
+    "id_clase": "1354"
+  },
+  {
+    "idSedeClase": "218",
+    "id_sede": "39",
+    "id_clase": "1355"
+  },
+  {
+    "idSedeClase": "1204",
+    "id_sede": "74",
+    "id_clase": "1355"
+  },
+  {
+    "idSedeClase": "1601",
+    "id_sede": "78",
+    "id_clase": "1355"
+  },
+  {
+    "idSedeClase": "388",
+    "id_sede": "25",
+    "id_clase": "1357"
+  },
+  {
+    "idSedeClase": "484",
+    "id_sede": "31",
+    "id_clase": "1357"
+  },
+  {
+    "idSedeClase": "1892",
+    "id_sede": "13",
+    "id_clase": "1359"
+  },
+  {
+    "idSedeClase": "933",
+    "id_sede": "68",
+    "id_clase": "1361"
+  },
+  {
+    "idSedeClase": "1346",
+    "id_sede": "30",
+    "id_clase": "1362"
+  },
+  {
+    "idSedeClase": "1323",
+    "id_sede": "88",
+    "id_clase": "1364"
+  },
+  {
+    "idSedeClase": "36",
+    "id_sede": "20",
+    "id_clase": "1365"
+  },
+  {
+    "idSedeClase": "116",
+    "id_sede": "8",
+    "id_clase": "1366"
+  },
+  {
+    "idSedeClase": "208",
+    "id_sede": "33",
+    "id_clase": "1366"
+  },
+  {
+    "idSedeClase": "582",
+    "id_sede": "43",
+    "id_clase": "1366"
+  },
+  {
+    "idSedeClase": "931",
+    "id_sede": "89",
+    "id_clase": "1366"
+  },
+  {
+    "idSedeClase": "883",
+    "id_sede": "3",
+    "id_clase": "1368"
+  },
+  {
+    "idSedeClase": "1393",
+    "id_sede": "64",
+    "id_clase": "1368"
+  },
+  {
+    "idSedeClase": "1035",
+    "id_sede": "97",
+    "id_clase": "1371"
+  },
+  {
+    "idSedeClase": "1744",
+    "id_sede": "53",
+    "id_clase": "1371"
+  },
+  {
+    "idSedeClase": "377",
+    "id_sede": "16",
+    "id_clase": "1373"
+  },
+  {
+    "idSedeClase": "1168",
+    "id_sede": "82",
+    "id_clase": "1373"
+  },
+  {
+    "idSedeClase": "1220",
+    "id_sede": "25",
+    "id_clase": "1374"
+  },
+  {
+    "idSedeClase": "1351",
+    "id_sede": "40",
+    "id_clase": "1374"
+  },
+  {
+    "idSedeClase": "1807",
+    "id_sede": "95",
+    "id_clase": "1374"
+  },
+  {
+    "idSedeClase": "1234",
+    "id_sede": "59",
+    "id_clase": "1375"
+  },
+  {
+    "idSedeClase": "1214",
+    "id_sede": "52",
+    "id_clase": "1376"
+  },
+  {
+    "idSedeClase": "1470",
+    "id_sede": "17",
+    "id_clase": "1376"
+  },
+  {
+    "idSedeClase": "220",
+    "id_sede": "87",
+    "id_clase": "1377"
+  },
+  {
+    "idSedeClase": "1564",
+    "id_sede": "93",
+    "id_clase": "1377"
+  },
+  {
+    "idSedeClase": "87",
+    "id_sede": "95",
+    "id_clase": "1380"
+  },
+  {
+    "idSedeClase": "1891",
+    "id_sede": "7",
+    "id_clase": "1380"
+  },
+  {
+    "idSedeClase": "261",
+    "id_sede": "87",
+    "id_clase": "1381"
+  },
+  {
+    "idSedeClase": "1049",
+    "id_sede": "76",
+    "id_clase": "1382"
+  },
+  {
+    "idSedeClase": "714",
+    "id_sede": "12",
+    "id_clase": "1383"
+  },
+  {
+    "idSedeClase": "1350",
+    "id_sede": "17",
+    "id_clase": "1383"
+  },
+  {
+    "idSedeClase": "712",
+    "id_sede": "19",
+    "id_clase": "1385"
+  },
+  {
+    "idSedeClase": "1386",
+    "id_sede": "42",
+    "id_clase": "1386"
+  },
+  {
+    "idSedeClase": "102",
+    "id_sede": "71",
+    "id_clase": "1388"
+  },
+  {
+    "idSedeClase": "1773",
+    "id_sede": "69",
+    "id_clase": "1389"
+  },
+  {
+    "idSedeClase": "1067",
+    "id_sede": "47",
+    "id_clase": "1391"
+  },
+  {
+    "idSedeClase": "63",
+    "id_sede": "27",
+    "id_clase": "1395"
+  },
+  {
+    "idSedeClase": "378",
+    "id_sede": "30",
+    "id_clase": "1395"
+  },
+  {
+    "idSedeClase": "1120",
+    "id_sede": "45",
+    "id_clase": "1395"
+  },
+  {
+    "idSedeClase": "1837",
+    "id_sede": "54",
+    "id_clase": "1395"
+  },
+  {
+    "idSedeClase": "853",
+    "id_sede": "50",
+    "id_clase": "1396"
+  },
+  {
+    "idSedeClase": "400",
+    "id_sede": "28",
+    "id_clase": "1398"
+  },
+  {
+    "idSedeClase": "632",
+    "id_sede": "18",
+    "id_clase": "1398"
+  },
+  {
+    "idSedeClase": "758",
+    "id_sede": "20",
+    "id_clase": "1398"
+  },
+  {
+    "idSedeClase": "1299",
+    "id_sede": "13",
+    "id_clase": "1399"
+  },
+  {
+    "idSedeClase": "196",
+    "id_sede": "79",
+    "id_clase": "1400"
+  },
+  {
+    "idSedeClase": "766",
+    "id_sede": "14",
+    "id_clase": "1401"
+  },
+  {
+    "idSedeClase": "1091",
+    "id_sede": "23",
+    "id_clase": "1405"
+  },
+  {
+    "idSedeClase": "759",
+    "id_sede": "12",
+    "id_clase": "1406"
+  },
+  {
+    "idSedeClase": "83",
+    "id_sede": "34",
+    "id_clase": "1407"
+  },
+  {
+    "idSedeClase": "1175",
+    "id_sede": "56",
+    "id_clase": "1407"
+  },
+  {
+    "idSedeClase": "1975",
+    "id_sede": "44",
+    "id_clase": "1408"
+  },
+  {
+    "idSedeClase": "597",
+    "id_sede": "70",
+    "id_clase": "1410"
+  },
+  {
+    "idSedeClase": "1028",
+    "id_sede": "91",
+    "id_clase": "1410"
+  },
+  {
+    "idSedeClase": "1072",
+    "id_sede": "7",
+    "id_clase": "1410"
+  },
+  {
+    "idSedeClase": "72",
+    "id_sede": "3",
+    "id_clase": "1411"
+  },
+  {
+    "idSedeClase": "617",
+    "id_sede": "98",
+    "id_clase": "1412"
+  },
+  {
+    "idSedeClase": "1036",
+    "id_sede": "56",
+    "id_clase": "1412"
+  },
+  {
+    "idSedeClase": "1308",
+    "id_sede": "86",
+    "id_clase": "1412"
+  },
+  {
+    "idSedeClase": "1895",
+    "id_sede": "75",
+    "id_clase": "1412"
+  },
+  {
+    "idSedeClase": "1995",
+    "id_sede": "75",
+    "id_clase": "1412"
+  },
+  {
+    "idSedeClase": "1934",
+    "id_sede": "13",
+    "id_clase": "1413"
+  },
+  {
+    "idSedeClase": "635",
+    "id_sede": "96",
+    "id_clase": "1414"
+  },
+  {
+    "idSedeClase": "1332",
+    "id_sede": "99",
+    "id_clase": "1414"
+  },
+  {
+    "idSedeClase": "1449",
+    "id_sede": "23",
+    "id_clase": "1414"
+  },
+  {
+    "idSedeClase": "170",
+    "id_sede": "20",
+    "id_clase": "1416"
+  },
+  {
+    "idSedeClase": "462",
+    "id_sede": "100",
+    "id_clase": "1417"
+  },
+  {
+    "idSedeClase": "1062",
+    "id_sede": "21",
+    "id_clase": "1420"
+  },
+  {
+    "idSedeClase": "1667",
+    "id_sede": "13",
+    "id_clase": "1420"
+  },
+  {
+    "idSedeClase": "33",
+    "id_sede": "84",
+    "id_clase": "1422"
+  },
+  {
+    "idSedeClase": "460",
+    "id_sede": "30",
+    "id_clase": "1422"
+  },
+  {
+    "idSedeClase": "1712",
+    "id_sede": "14",
+    "id_clase": "1422"
+  },
+  {
+    "idSedeClase": "1879",
+    "id_sede": "71",
+    "id_clase": "1423"
+  },
+  {
+    "idSedeClase": "1585",
+    "id_sede": "30",
+    "id_clase": "1426"
+  },
+  {
+    "idSedeClase": "333",
+    "id_sede": "52",
+    "id_clase": "1427"
+  },
+  {
+    "idSedeClase": "1349",
+    "id_sede": "99",
+    "id_clase": "1427"
+  },
+  {
+    "idSedeClase": "659",
+    "id_sede": "53",
+    "id_clase": "1428"
+  },
+  {
+    "idSedeClase": "1650",
+    "id_sede": "91",
+    "id_clase": "1429"
+  },
+  {
+    "idSedeClase": "1117",
+    "id_sede": "87",
+    "id_clase": "1430"
+  },
+  {
+    "idSedeClase": "1171",
+    "id_sede": "87",
+    "id_clase": "1430"
+  },
+  {
+    "idSedeClase": "1340",
+    "id_sede": "35",
+    "id_clase": "1431"
+  },
+  {
+    "idSedeClase": "570",
+    "id_sede": "72",
+    "id_clase": "1433"
+  },
+  {
+    "idSedeClase": "1592",
+    "id_sede": "71",
+    "id_clase": "1433"
+  },
+  {
+    "idSedeClase": "444",
+    "id_sede": "58",
+    "id_clase": "1436"
+  },
+  {
+    "idSedeClase": "783",
+    "id_sede": "7",
+    "id_clase": "1436"
+  },
+  {
+    "idSedeClase": "1622",
+    "id_sede": "19",
+    "id_clase": "1436"
+  },
+  {
+    "idSedeClase": "1905",
+    "id_sede": "10",
+    "id_clase": "1436"
+  },
+  {
+    "idSedeClase": "269",
+    "id_sede": "57",
+    "id_clase": "1437"
+  },
+  {
+    "idSedeClase": "1015",
+    "id_sede": "41",
+    "id_clase": "1437"
+  },
+  {
+    "idSedeClase": "89",
+    "id_sede": "18",
+    "id_clase": "1438"
+  },
+  {
+    "idSedeClase": "584",
+    "id_sede": "97",
+    "id_clase": "1438"
+  },
+  {
+    "idSedeClase": "1978",
+    "id_sede": "27",
+    "id_clase": "1438"
+  },
+  {
+    "idSedeClase": "347",
+    "id_sede": "97",
+    "id_clase": "1439"
+  },
+  {
+    "idSedeClase": "940",
+    "id_sede": "42",
+    "id_clase": "1439"
+  },
+  {
+    "idSedeClase": "967",
+    "id_sede": "91",
+    "id_clase": "1439"
+  },
+  {
+    "idSedeClase": "775",
+    "id_sede": "49",
+    "id_clase": "1441"
+  },
+  {
+    "idSedeClase": "1453",
+    "id_sede": "87",
+    "id_clase": "1441"
+  },
+  {
+    "idSedeClase": "710",
+    "id_sede": "81",
+    "id_clase": "1442"
+  },
+  {
+    "idSedeClase": "1900",
+    "id_sede": "31",
+    "id_clase": "1442"
+  },
+  {
+    "idSedeClase": "1821",
+    "id_sede": "99",
+    "id_clase": "1444"
+  },
+  {
+    "idSedeClase": "1159",
+    "id_sede": "50",
+    "id_clase": "1445"
+  },
+  {
+    "idSedeClase": "1273",
+    "id_sede": "59",
+    "id_clase": "1445"
+  },
+  {
+    "idSedeClase": "306",
+    "id_sede": "69",
+    "id_clase": "1446"
+  },
+  {
+    "idSedeClase": "1517",
+    "id_sede": "8",
+    "id_clase": "1446"
+  },
+  {
+    "idSedeClase": "681",
+    "id_sede": "65",
+    "id_clase": "1447"
+  },
+  {
+    "idSedeClase": "93",
+    "id_sede": "79",
+    "id_clase": "1448"
+  },
+  {
+    "idSedeClase": "882",
+    "id_sede": "44",
+    "id_clase": "1448"
+  },
+  {
+    "idSedeClase": "1655",
+    "id_sede": "47",
+    "id_clase": "1448"
+  },
+  {
+    "idSedeClase": "958",
+    "id_sede": "51",
+    "id_clase": "1451"
+  },
+  {
+    "idSedeClase": "1034",
+    "id_sede": "52",
+    "id_clase": "1451"
+  },
+  {
+    "idSedeClase": "1141",
+    "id_sede": "59",
+    "id_clase": "1451"
+  },
+  {
+    "idSedeClase": "1822",
+    "id_sede": "40",
+    "id_clase": "1451"
+  },
+  {
+    "idSedeClase": "1169",
+    "id_sede": "29",
+    "id_clase": "1452"
+  },
+  {
+    "idSedeClase": "1985",
+    "id_sede": "65",
+    "id_clase": "1452"
+  },
+  {
+    "idSedeClase": "309",
+    "id_sede": "59",
+    "id_clase": "1453"
+  },
+  {
+    "idSedeClase": "1793",
+    "id_sede": "25",
+    "id_clase": "1456"
+  },
+  {
+    "idSedeClase": "732",
+    "id_sede": "88",
+    "id_clase": "1460"
+  },
+  {
+    "idSedeClase": "465",
+    "id_sede": "75",
+    "id_clase": "1461"
+  },
+  {
+    "idSedeClase": "1138",
+    "id_sede": "32",
+    "id_clase": "1462"
+  },
+  {
+    "idSedeClase": "1022",
+    "id_sede": "85",
+    "id_clase": "1463"
+  },
+  {
+    "idSedeClase": "1189",
+    "id_sede": "35",
+    "id_clase": "1463"
+  },
+  {
+    "idSedeClase": "899",
+    "id_sede": "55",
+    "id_clase": "1466"
+  },
+  {
+    "idSedeClase": "1779",
+    "id_sede": "95",
+    "id_clase": "1467"
+  },
+  {
+    "idSedeClase": "1478",
+    "id_sede": "74",
+    "id_clase": "1470"
+  },
+  {
+    "idSedeClase": "165",
+    "id_sede": "95",
+    "id_clase": "1471"
+  },
+  {
+    "idSedeClase": "787",
+    "id_sede": "30",
+    "id_clase": "1472"
+  },
+  {
+    "idSedeClase": "289",
+    "id_sede": "17",
+    "id_clase": "1473"
+  },
+  {
+    "idSedeClase": "1769",
+    "id_sede": "64",
+    "id_clase": "1474"
+  },
+  {
+    "idSedeClase": "391",
+    "id_sede": "5",
+    "id_clase": "1475"
+  },
+  {
+    "idSedeClase": "1222",
+    "id_sede": "39",
+    "id_clase": "1475"
+  },
+  {
+    "idSedeClase": "1229",
+    "id_sede": "16",
+    "id_clase": "1476"
+  },
+  {
+    "idSedeClase": "1447",
+    "id_sede": "65",
+    "id_clase": "1477"
+  },
+  {
+    "idSedeClase": "1591",
+    "id_sede": "72",
+    "id_clase": "1477"
+  },
+  {
+    "idSedeClase": "1348",
+    "id_sede": "58",
+    "id_clase": "1478"
+  },
+  {
+    "idSedeClase": "1569",
+    "id_sede": "79",
+    "id_clase": "1481"
+  },
+  {
+    "idSedeClase": "268",
+    "id_sede": "49",
+    "id_clase": "1482"
+  },
+  {
+    "idSedeClase": "416",
+    "id_sede": "38",
+    "id_clase": "1482"
+  },
+  {
+    "idSedeClase": "258",
+    "id_sede": "99",
+    "id_clase": "1483"
+  },
+  {
+    "idSedeClase": "376",
+    "id_sede": "68",
+    "id_clase": "1487"
+  },
+  {
+    "idSedeClase": "948",
+    "id_sede": "4",
+    "id_clase": "1487"
+  },
+  {
+    "idSedeClase": "978",
+    "id_sede": "46",
+    "id_clase": "1487"
+  },
+  {
+    "idSedeClase": "697",
+    "id_sede": "40",
+    "id_clase": "1488"
+  },
+  {
+    "idSedeClase": "854",
+    "id_sede": "34",
+    "id_clase": "1490"
+  },
+  {
+    "idSedeClase": "200",
+    "id_sede": "19",
+    "id_clase": "1491"
+  },
+  {
+    "idSedeClase": "579",
+    "id_sede": "29",
+    "id_clase": "1491"
+  },
+  {
+    "idSedeClase": "1883",
+    "id_sede": "11",
+    "id_clase": "1491"
+  },
+  {
+    "idSedeClase": "827",
+    "id_sede": "38",
+    "id_clase": "1492"
+  },
+  {
+    "idSedeClase": "1098",
+    "id_sede": "33",
+    "id_clase": "1492"
+  },
+  {
+    "idSedeClase": "1080",
+    "id_sede": "42",
+    "id_clase": "1495"
+  },
+  {
+    "idSedeClase": "122",
+    "id_sede": "86",
+    "id_clase": "1497"
+  },
+  {
+    "idSedeClase": "1732",
+    "id_sede": "50",
+    "id_clase": "1497"
+  },
+  {
+    "idSedeClase": "945",
+    "id_sede": "49",
+    "id_clase": "1498"
+  },
+  {
+    "idSedeClase": "533",
+    "id_sede": "86",
+    "id_clase": "1499"
+  },
+  {
+    "idSedeClase": "213",
+    "id_sede": "68",
+    "id_clase": "1500"
+  },
+  {
+    "idSedeClase": "1927",
+    "id_sede": "60",
+    "id_clase": "1500"
+  },
+  {
+    "idSedeClase": "1151",
+    "id_sede": "34",
+    "id_clase": "1501"
+  },
+  {
+    "idSedeClase": "1380",
+    "id_sede": "30",
+    "id_clase": "1504"
+  },
+  {
+    "idSedeClase": "1586",
+    "id_sede": "12",
+    "id_clase": "1504"
+  },
+  {
+    "idSedeClase": "1936",
+    "id_sede": "54",
+    "id_clase": "1504"
+  },
+  {
+    "idSedeClase": "223",
+    "id_sede": "66",
+    "id_clase": "1507"
+  },
+  {
+    "idSedeClase": "551",
+    "id_sede": "22",
+    "id_clase": "1509"
+  },
+  {
+    "idSedeClase": "1200",
+    "id_sede": "62",
+    "id_clase": "1511"
+  },
+  {
+    "idSedeClase": "1708",
+    "id_sede": "14",
+    "id_clase": "1511"
+  },
+  {
+    "idSedeClase": "679",
+    "id_sede": "55",
+    "id_clase": "1512"
+  },
+  {
+    "idSedeClase": "1473",
+    "id_sede": "39",
+    "id_clase": "1512"
+  },
+  {
+    "idSedeClase": "573",
+    "id_sede": "84",
+    "id_clase": "1513"
+  },
+  {
+    "idSedeClase": "925",
+    "id_sede": "82",
+    "id_clase": "1513"
+  },
+  {
+    "idSedeClase": "1596",
+    "id_sede": "89",
+    "id_clase": "1513"
+  },
+  {
+    "idSedeClase": "22",
+    "id_sede": "95",
+    "id_clase": "1515"
+  },
+  {
+    "idSedeClase": "330",
+    "id_sede": "9",
+    "id_clase": "1515"
+  },
+  {
+    "idSedeClase": "789",
+    "id_sede": "31",
+    "id_clase": "1515"
+  },
+  {
+    "idSedeClase": "1276",
+    "id_sede": "15",
+    "id_clase": "1517"
+  },
+  {
+    "idSedeClase": "563",
+    "id_sede": "63",
+    "id_clase": "1519"
+  },
+  {
+    "idSedeClase": "650",
+    "id_sede": "20",
+    "id_clase": "1519"
+  },
+  {
+    "idSedeClase": "1181",
+    "id_sede": "10",
+    "id_clase": "1519"
+  },
+  {
+    "idSedeClase": "1755",
+    "id_sede": "58",
+    "id_clase": "1519"
+  },
+  {
+    "idSedeClase": "160",
+    "id_sede": "91",
+    "id_clase": "1520"
+  },
+  {
+    "idSedeClase": "242",
+    "id_sede": "4",
+    "id_clase": "1520"
+  },
+  {
+    "idSedeClase": "1187",
+    "id_sede": "87",
+    "id_clase": "1520"
+  },
+  {
+    "idSedeClase": "708",
+    "id_sede": "39",
+    "id_clase": "1521"
+  },
+  {
+    "idSedeClase": "1297",
+    "id_sede": "35",
+    "id_clase": "1522"
+  },
+  {
+    "idSedeClase": "524",
+    "id_sede": "62",
+    "id_clase": "1524"
+  },
+  {
+    "idSedeClase": "1152",
+    "id_sede": "80",
+    "id_clase": "1524"
+  },
+  {
+    "idSedeClase": "596",
+    "id_sede": "3",
+    "id_clase": "1527"
+  },
+  {
+    "idSedeClase": "612",
+    "id_sede": "29",
+    "id_clase": "1527"
+  },
+  {
+    "idSedeClase": "633",
+    "id_sede": "28",
+    "id_clase": "1528"
+  },
+  {
+    "idSedeClase": "1765",
+    "id_sede": "46",
+    "id_clase": "1528"
+  },
+  {
+    "idSedeClase": "562",
+    "id_sede": "61",
+    "id_clase": "1529"
+  },
+  {
+    "idSedeClase": "1589",
+    "id_sede": "2",
+    "id_clase": "1531"
+  },
+  {
+    "idSedeClase": "911",
+    "id_sede": "87",
+    "id_clase": "1532"
+  },
+  {
+    "idSedeClase": "1557",
+    "id_sede": "30",
+    "id_clase": "1535"
+  },
+  {
+    "idSedeClase": "1809",
+    "id_sede": "62",
+    "id_clase": "1536"
+  },
+  {
+    "idSedeClase": "447",
+    "id_sede": "87",
+    "id_clase": "1537"
+  },
+  {
+    "idSedeClase": "1506",
+    "id_sede": "31",
+    "id_clase": "1538"
+  },
+  {
+    "idSedeClase": "543",
+    "id_sede": "98",
+    "id_clase": "1539"
+  },
+  {
+    "idSedeClase": "894",
+    "id_sede": "93",
+    "id_clase": "1539"
+  },
+  {
+    "idSedeClase": "1570",
+    "id_sede": "20",
+    "id_clase": "1539"
+  },
+  {
+    "idSedeClase": "831",
+    "id_sede": "89",
+    "id_clase": "1540"
+  },
+  {
+    "idSedeClase": "451",
+    "id_sede": "62",
+    "id_clase": "1541"
+  },
+  {
+    "idSedeClase": "1061",
+    "id_sede": "85",
+    "id_clase": "1542"
+  },
+  {
+    "idSedeClase": "1125",
+    "id_sede": "80",
+    "id_clase": "1543"
+  },
+  {
+    "idSedeClase": "1955",
+    "id_sede": "27",
+    "id_clase": "1543"
+  },
+  {
+    "idSedeClase": "11",
+    "id_sede": "98",
+    "id_clase": "1544"
+  },
+  {
+    "idSedeClase": "1530",
+    "id_sede": "48",
+    "id_clase": "1546"
+  },
+  {
+    "idSedeClase": "1999",
+    "id_sede": "100",
+    "id_clase": "1547"
+  },
+  {
+    "idSedeClase": "849",
+    "id_sede": "42",
+    "id_clase": "1549"
+  },
+  {
+    "idSedeClase": "30",
+    "id_sede": "6",
+    "id_clase": "1550"
+  },
+  {
+    "idSedeClase": "950",
+    "id_sede": "55",
+    "id_clase": "1551"
+  },
+  {
+    "idSedeClase": "1078",
+    "id_sede": "88",
+    "id_clase": "1551"
+  },
+  {
+    "idSedeClase": "1724",
+    "id_sede": "50",
+    "id_clase": "1551"
+  },
+  {
+    "idSedeClase": "1149",
+    "id_sede": "86",
+    "id_clase": "1555"
+  },
+  {
+    "idSedeClase": "324",
+    "id_sede": "46",
+    "id_clase": "1557"
+  },
+  {
+    "idSedeClase": "1805",
+    "id_sede": "93",
+    "id_clase": "1557"
+  },
+  {
+    "idSedeClase": "1982",
+    "id_sede": "69",
+    "id_clase": "1559"
+  },
+  {
+    "idSedeClase": "655",
+    "id_sede": "37",
+    "id_clase": "1561"
+  },
+  {
+    "idSedeClase": "230",
+    "id_sede": "85",
+    "id_clase": "1562"
+  },
+  {
+    "idSedeClase": "240",
+    "id_sede": "20",
+    "id_clase": "1562"
+  },
+  {
+    "idSedeClase": "1401",
+    "id_sede": "19",
+    "id_clase": "1562"
+  },
+  {
+    "idSedeClase": "1938",
+    "id_sede": "74",
+    "id_clase": "1563"
+  },
+  {
+    "idSedeClase": "164",
+    "id_sede": "93",
+    "id_clase": "1565"
+  },
+  {
+    "idSedeClase": "569",
+    "id_sede": "72",
+    "id_clase": "1567"
+  },
+  {
+    "idSedeClase": "1425",
+    "id_sede": "82",
+    "id_clase": "1567"
+  },
+  {
+    "idSedeClase": "1567",
+    "id_sede": "77",
+    "id_clase": "1567"
+  },
+  {
+    "idSedeClase": "947",
+    "id_sede": "81",
+    "id_clase": "1568"
+  },
+  {
+    "idSedeClase": "1085",
+    "id_sede": "67",
+    "id_clase": "1569"
+  },
+  {
+    "idSedeClase": "1754",
+    "id_sede": "35",
+    "id_clase": "1570"
+  },
+  {
+    "idSedeClase": "1848",
+    "id_sede": "75",
+    "id_clase": "1570"
+  },
+  {
+    "idSedeClase": "1265",
+    "id_sede": "37",
+    "id_clase": "1571"
+  },
+  {
+    "idSedeClase": "1327",
+    "id_sede": "37",
+    "id_clase": "1571"
+  },
+  {
+    "idSedeClase": "1526",
+    "id_sede": "100",
+    "id_clase": "1574"
+  },
+  {
+    "idSedeClase": "1403",
+    "id_sede": "8",
+    "id_clase": "1575"
+  },
+  {
+    "idSedeClase": "1991",
+    "id_sede": "54",
+    "id_clase": "1575"
+  },
+  {
+    "idSedeClase": "1037",
+    "id_sede": "86",
+    "id_clase": "1578"
+  },
+  {
+    "idSedeClase": "1757",
+    "id_sede": "86",
+    "id_clase": "1580"
+  },
+  {
+    "idSedeClase": "12",
+    "id_sede": "19",
+    "id_clase": "1581"
+  },
+  {
+    "idSedeClase": "1959",
+    "id_sede": "23",
+    "id_clase": "1581"
+  },
+  {
+    "idSedeClase": "1929",
+    "id_sede": "26",
+    "id_clase": "1582"
+  },
+  {
+    "idSedeClase": "850",
+    "id_sede": "79",
+    "id_clase": "1583"
+  },
+  {
+    "idSedeClase": "571",
+    "id_sede": "8",
+    "id_clase": "1584"
+  },
+  {
+    "idSedeClase": "550",
+    "id_sede": "94",
+    "id_clase": "1585"
+  },
+  {
+    "idSedeClase": "1519",
+    "id_sede": "54",
+    "id_clase": "1585"
+  },
+  {
+    "idSedeClase": "542",
+    "id_sede": "80",
+    "id_clase": "1586"
+  },
+  {
+    "idSedeClase": "586",
+    "id_sede": "21",
+    "id_clase": "1587"
+  },
+  {
+    "idSedeClase": "512",
+    "id_sede": "3",
+    "id_clase": "1590"
+  },
+  {
+    "idSedeClase": "91",
+    "id_sede": "21",
+    "id_clase": "1592"
+  },
+  {
+    "idSedeClase": "410",
+    "id_sede": "39",
+    "id_clase": "1594"
+  },
+  {
+    "idSedeClase": "753",
+    "id_sede": "56",
+    "id_clase": "1594"
+  },
+  {
+    "idSedeClase": "456",
+    "id_sede": "14",
+    "id_clase": "1595"
+  },
+  {
+    "idSedeClase": "726",
+    "id_sede": "29",
+    "id_clase": "1595"
+  },
+  {
+    "idSedeClase": "904",
+    "id_sede": "9",
+    "id_clase": "1595"
+  },
+  {
+    "idSedeClase": "483",
+    "id_sede": "64",
+    "id_clase": "1597"
+  },
+  {
+    "idSedeClase": "830",
+    "id_sede": "87",
+    "id_clase": "1600"
+  },
+  {
+    "idSedeClase": "28",
+    "id_sede": "11",
+    "id_clase": "1601"
+  },
+  {
+    "idSedeClase": "1286",
+    "id_sede": "10",
+    "id_clase": "1601"
+  },
+  {
+    "idSedeClase": "2000",
+    "id_sede": "64",
+    "id_clase": "1602"
+  },
+  {
+    "idSedeClase": "1369",
+    "id_sede": "66",
+    "id_clase": "1604"
+  },
+  {
+    "idSedeClase": "1102",
+    "id_sede": "50",
+    "id_clase": "1605"
+  },
+  {
+    "idSedeClase": "1118",
+    "id_sede": "68",
+    "id_clase": "1606"
+  },
+  {
+    "idSedeClase": "1140",
+    "id_sede": "43",
+    "id_clase": "1606"
+  },
+  {
+    "idSedeClase": "1196",
+    "id_sede": "78",
+    "id_clase": "1606"
+  },
+  {
+    "idSedeClase": "1185",
+    "id_sede": "30",
+    "id_clase": "1607"
+  },
+  {
+    "idSedeClase": "864",
+    "id_sede": "73",
+    "id_clase": "1608"
+  },
+  {
+    "idSedeClase": "986",
+    "id_sede": "68",
+    "id_clase": "1608"
+  },
+  {
+    "idSedeClase": "1600",
+    "id_sede": "20",
+    "id_clase": "1608"
+  },
+  {
+    "idSedeClase": "1953",
+    "id_sede": "66",
+    "id_clase": "1608"
+  },
+  {
+    "idSedeClase": "1212",
+    "id_sede": "10",
+    "id_clase": "1609"
+  },
+  {
+    "idSedeClase": "432",
+    "id_sede": "40",
+    "id_clase": "1610"
+  },
+  {
+    "idSedeClase": "1498",
+    "id_sede": "54",
+    "id_clase": "1611"
+  },
+  {
+    "idSedeClase": "1646",
+    "id_sede": "40",
+    "id_clase": "1611"
+  },
+  {
+    "idSedeClase": "104",
+    "id_sede": "86",
+    "id_clase": "1612"
+  },
+  {
+    "idSedeClase": "1813",
+    "id_sede": "9",
+    "id_clase": "1614"
+  },
+  {
+    "idSedeClase": "1550",
+    "id_sede": "17",
+    "id_clase": "1616"
+  },
+  {
+    "idSedeClase": "743",
+    "id_sede": "25",
+    "id_clase": "1620"
+  },
+  {
+    "idSedeClase": "221",
+    "id_sede": "1",
+    "id_clase": "1624"
+  },
+  {
+    "idSedeClase": "1379",
+    "id_sede": "11",
+    "id_clase": "1625"
+  },
+  {
+    "idSedeClase": "733",
+    "id_sede": "57",
+    "id_clase": "1626"
+  },
+  {
+    "idSedeClase": "559",
+    "id_sede": "5",
+    "id_clase": "1627"
+  },
+  {
+    "idSedeClase": "989",
+    "id_sede": "32",
+    "id_clase": "1628"
+  },
+  {
+    "idSedeClase": "1808",
+    "id_sede": "36",
+    "id_clase": "1630"
+  },
+  {
+    "idSedeClase": "696",
+    "id_sede": "92",
+    "id_clase": "1631"
+  },
+  {
+    "idSedeClase": "611",
+    "id_sede": "18",
+    "id_clase": "1634"
+  },
+  {
+    "idSedeClase": "1853",
+    "id_sede": "67",
+    "id_clase": "1638"
+  },
+  {
+    "idSedeClase": "682",
+    "id_sede": "59",
+    "id_clase": "1639"
+  },
+  {
+    "idSedeClase": "890",
+    "id_sede": "99",
+    "id_clase": "1639"
+  },
+  {
+    "idSedeClase": "436",
+    "id_sede": "21",
+    "id_clase": "1640"
+  },
+  {
+    "idSedeClase": "966",
+    "id_sede": "62",
+    "id_clase": "1640"
+  },
+  {
+    "idSedeClase": "1339",
+    "id_sede": "27",
+    "id_clase": "1640"
+  },
+  {
+    "idSedeClase": "1961",
+    "id_sede": "11",
+    "id_clase": "1640"
+  },
+  {
+    "idSedeClase": "1472",
+    "id_sede": "38",
+    "id_clase": "1641"
+  },
+  {
+    "idSedeClase": "1736",
+    "id_sede": "34",
+    "id_clase": "1641"
+  },
+  {
+    "idSedeClase": "730",
+    "id_sede": "63",
+    "id_clase": "1643"
+  },
+  {
+    "idSedeClase": "1876",
+    "id_sede": "8",
+    "id_clase": "1644"
+  },
+  {
+    "idSedeClase": "128",
+    "id_sede": "52",
+    "id_clase": "1647"
+  },
+  {
+    "idSedeClase": "1384",
+    "id_sede": "30",
+    "id_clase": "1647"
+  },
+  {
+    "idSedeClase": "1728",
+    "id_sede": "67",
+    "id_clase": "1647"
+  },
+  {
+    "idSedeClase": "905",
+    "id_sede": "57",
+    "id_clase": "1648"
+  },
+  {
+    "idSedeClase": "1334",
+    "id_sede": "26",
+    "id_clase": "1648"
+  },
+  {
+    "idSedeClase": "964",
+    "id_sede": "65",
+    "id_clase": "1649"
+  },
+  {
+    "idSedeClase": "877",
+    "id_sede": "6",
+    "id_clase": "1650"
+  },
+  {
+    "idSedeClase": "1634",
+    "id_sede": "85",
+    "id_clase": "1650"
+  },
+  {
+    "idSedeClase": "1331",
+    "id_sede": "14",
+    "id_clase": "1651"
+  },
+  {
+    "idSedeClase": "575",
+    "id_sede": "32",
+    "id_clase": "1652"
+  },
+  {
+    "idSedeClase": "727",
+    "id_sede": "21",
+    "id_clase": "1652"
+  },
+  {
+    "idSedeClase": "1525",
+    "id_sede": "87",
+    "id_clase": "1652"
+  },
+  {
+    "idSedeClase": "1233",
+    "id_sede": "90",
+    "id_clase": "1653"
+  },
+  {
+    "idSedeClase": "774",
+    "id_sede": "35",
+    "id_clase": "1656"
+  },
+  {
+    "idSedeClase": "1467",
+    "id_sede": "86",
+    "id_clase": "1657"
+  },
+  {
+    "idSedeClase": "1499",
+    "id_sede": "87",
+    "id_clase": "1657"
+  },
+  {
+    "idSedeClase": "344",
+    "id_sede": "21",
+    "id_clase": "1658"
+  },
+  {
+    "idSedeClase": "897",
+    "id_sede": "27",
+    "id_clase": "1659"
+  },
+  {
+    "idSedeClase": "95",
+    "id_sede": "78",
+    "id_clase": "1663"
+  },
+  {
+    "idSedeClase": "769",
+    "id_sede": "95",
+    "id_clase": "1664"
+  },
+  {
+    "idSedeClase": "1869",
+    "id_sede": "63",
+    "id_clase": "1664"
+  },
+  {
+    "idSedeClase": "276",
+    "id_sede": "50",
+    "id_clase": "1665"
+  },
+  {
+    "idSedeClase": "1683",
+    "id_sede": "14",
+    "id_clase": "1665"
+  },
+  {
+    "idSedeClase": "574",
+    "id_sede": "17",
+    "id_clase": "1666"
+  },
+  {
+    "idSedeClase": "962",
+    "id_sede": "86",
+    "id_clase": "1667"
+  },
+  {
+    "idSedeClase": "1056",
+    "id_sede": "73",
+    "id_clase": "1669"
+  },
+  {
+    "idSedeClase": "1497",
+    "id_sede": "3",
+    "id_clase": "1669"
+  },
+  {
+    "idSedeClase": "1659",
+    "id_sede": "80",
+    "id_clase": "1669"
+  },
+  {
+    "idSedeClase": "1734",
+    "id_sede": "31",
+    "id_clase": "1670"
+  },
+  {
+    "idSedeClase": "1979",
+    "id_sede": "98",
+    "id_clase": "1671"
+  },
+  {
+    "idSedeClase": "25",
+    "id_sede": "19",
+    "id_clase": "1672"
+  },
+  {
+    "idSedeClase": "709",
+    "id_sede": "56",
+    "id_clase": "1672"
+  },
+  {
+    "idSedeClase": "1329",
+    "id_sede": "51",
+    "id_clase": "1672"
+  },
+  {
+    "idSedeClase": "1738",
+    "id_sede": "48",
+    "id_clase": "1674"
+  },
+  {
+    "idSedeClase": "308",
+    "id_sede": "13",
+    "id_clase": "1676"
+  },
+  {
+    "idSedeClase": "491",
+    "id_sede": "61",
+    "id_clase": "1676"
+  },
+  {
+    "idSedeClase": "528",
+    "id_sede": "10",
+    "id_clase": "1677"
+  },
+  {
+    "idSedeClase": "77",
+    "id_sede": "41",
+    "id_clase": "1679"
+  },
+  {
+    "idSedeClase": "538",
+    "id_sede": "28",
+    "id_clase": "1679"
+  },
+  {
+    "idSedeClase": "1119",
+    "id_sede": "86",
+    "id_clase": "1679"
+  },
+  {
+    "idSedeClase": "212",
+    "id_sede": "24",
+    "id_clase": "1680"
+  },
+  {
+    "idSedeClase": "316",
+    "id_sede": "65",
+    "id_clase": "1680"
+  },
+  {
+    "idSedeClase": "1768",
+    "id_sede": "46",
+    "id_clase": "1684"
+  },
+  {
+    "idSedeClase": "99",
+    "id_sede": "55",
+    "id_clase": "1685"
+  },
+  {
+    "idSedeClase": "1132",
+    "id_sede": "62",
+    "id_clase": "1685"
+  },
+  {
+    "idSedeClase": "1842",
+    "id_sede": "97",
+    "id_clase": "1685"
+  },
+  {
+    "idSedeClase": "844",
+    "id_sede": "98",
+    "id_clase": "1686"
+  },
+  {
+    "idSedeClase": "1641",
+    "id_sede": "29",
+    "id_clase": "1686"
+  },
+  {
+    "idSedeClase": "880",
+    "id_sede": "99",
+    "id_clase": "1687"
+  },
+  {
+    "idSedeClase": "1201",
+    "id_sede": "51",
+    "id_clase": "1688"
+  },
+  {
+    "idSedeClase": "1703",
+    "id_sede": "37",
+    "id_clase": "1688"
+  },
+  {
+    "idSedeClase": "1010",
+    "id_sede": "37",
+    "id_clase": "1689"
+  },
+  {
+    "idSedeClase": "1309",
+    "id_sede": "26",
+    "id_clase": "1690"
+  },
+  {
+    "idSedeClase": "1971",
+    "id_sede": "14",
+    "id_clase": "1690"
+  },
+  {
+    "idSedeClase": "1662",
+    "id_sede": "70",
+    "id_clase": "1691"
+  },
+  {
+    "idSedeClase": "822",
+    "id_sede": "51",
+    "id_clase": "1692"
+  },
+  {
+    "idSedeClase": "1413",
+    "id_sede": "8",
+    "id_clase": "1692"
+  },
+  {
+    "idSedeClase": "1335",
+    "id_sede": "36",
+    "id_clase": "1694"
+  },
+  {
+    "idSedeClase": "1166",
+    "id_sede": "67",
+    "id_clase": "1695"
+  },
+  {
+    "idSedeClase": "1658",
+    "id_sede": "8",
+    "id_clase": "1695"
+  },
+  {
+    "idSedeClase": "903",
+    "id_sede": "64",
+    "id_clase": "1700"
+  },
+  {
+    "idSedeClase": "481",
+    "id_sede": "28",
+    "id_clase": "1702"
+  },
+  {
+    "idSedeClase": "1810",
+    "id_sede": "20",
+    "id_clase": "1702"
+  },
+  {
+    "idSedeClase": "111",
+    "id_sede": "60",
+    "id_clase": "1703"
+  },
+  {
+    "idSedeClase": "107",
+    "id_sede": "5",
+    "id_clase": "1704"
+  },
+  {
+    "idSedeClase": "1360",
+    "id_sede": "68",
+    "id_clase": "1705"
+  },
+  {
+    "idSedeClase": "425",
+    "id_sede": "47",
+    "id_clase": "1707"
+  },
+  {
+    "idSedeClase": "888",
+    "id_sede": "63",
+    "id_clase": "1708"
+  },
+  {
+    "idSedeClase": "580",
+    "id_sede": "10",
+    "id_clase": "1710"
+  },
+  {
+    "idSedeClase": "780",
+    "id_sede": "60",
+    "id_clase": "1710"
+  },
+  {
+    "idSedeClase": "125",
+    "id_sede": "59",
+    "id_clase": "1713"
+  },
+  {
+    "idSedeClase": "794",
+    "id_sede": "87",
+    "id_clase": "1715"
+  },
+  {
+    "idSedeClase": "1852",
+    "id_sede": "90",
+    "id_clase": "1718"
+  },
+  {
+    "idSedeClase": "654",
+    "id_sede": "8",
+    "id_clase": "1719"
+  },
+  {
+    "idSedeClase": "790",
+    "id_sede": "74",
+    "id_clase": "1719"
+  },
+  {
+    "idSedeClase": "1154",
+    "id_sede": "77",
+    "id_clase": "1719"
+  },
+  {
+    "idSedeClase": "1359",
+    "id_sede": "78",
+    "id_clase": "1719"
+  },
+  {
+    "idSedeClase": "1916",
+    "id_sede": "99",
+    "id_clase": "1722"
+  },
+  {
+    "idSedeClase": "1262",
+    "id_sede": "11",
+    "id_clase": "1723"
+  },
+  {
+    "idSedeClase": "1833",
+    "id_sede": "38",
+    "id_clase": "1723"
+  },
+  {
+    "idSedeClase": "7",
+    "id_sede": "94",
+    "id_clase": "1726"
+  },
+  {
+    "idSedeClase": "1130",
+    "id_sede": "33",
+    "id_clase": "1726"
+  },
+  {
+    "idSedeClase": "1542",
+    "id_sede": "9",
+    "id_clase": "1727"
+  },
+  {
+    "idSedeClase": "1949",
+    "id_sede": "42",
+    "id_clase": "1730"
+  },
+  {
+    "idSedeClase": "219",
+    "id_sede": "20",
+    "id_clase": "1731"
+  },
+  {
+    "idSedeClase": "1685",
+    "id_sede": "98",
+    "id_clase": "1731"
+  },
+  {
+    "idSedeClase": "1041",
+    "id_sede": "19",
+    "id_clase": "1732"
+  },
+  {
+    "idSedeClase": "1494",
+    "id_sede": "15",
+    "id_clase": "1734"
+  },
+  {
+    "idSedeClase": "1546",
+    "id_sede": "36",
+    "id_clase": "1734"
+  },
+  {
+    "idSedeClase": "1993",
+    "id_sede": "64",
+    "id_clase": "1735"
+  },
+  {
+    "idSedeClase": "119",
+    "id_sede": "61",
+    "id_clase": "1739"
+  },
+  {
+    "idSedeClase": "1437",
+    "id_sede": "95",
+    "id_clase": "1739"
+  },
+  {
+    "idSedeClase": "302",
+    "id_sede": "61",
+    "id_clase": "1740"
+  },
+  {
+    "idSedeClase": "1211",
+    "id_sede": "90",
+    "id_clase": "1740"
+  },
+  {
+    "idSedeClase": "1407",
+    "id_sede": "82",
+    "id_clase": "1743"
+  },
+  {
+    "idSedeClase": "1322",
+    "id_sede": "1",
+    "id_clase": "1744"
+  },
+  {
+    "idSedeClase": "118",
+    "id_sede": "96",
+    "id_clase": "1745"
+  },
+  {
+    "idSedeClase": "660",
+    "id_sede": "14",
+    "id_clase": "1747"
+  },
+  {
+    "idSedeClase": "605",
+    "id_sede": "80",
+    "id_clase": "1748"
+  },
+  {
+    "idSedeClase": "446",
+    "id_sede": "10",
+    "id_clase": "1749"
+  },
+  {
+    "idSedeClase": "291",
+    "id_sede": "84",
+    "id_clase": "1751"
+  },
+  {
+    "idSedeClase": "816",
+    "id_sede": "95",
+    "id_clase": "1751"
+  },
+  {
+    "idSedeClase": "513",
+    "id_sede": "75",
+    "id_clase": "1752"
+  },
+  {
+    "idSedeClase": "1559",
+    "id_sede": "75",
+    "id_clase": "1754"
+  },
+  {
+    "idSedeClase": "1849",
+    "id_sede": "83",
+    "id_clase": "1755"
+  },
+  {
+    "idSedeClase": "777",
+    "id_sede": "21",
+    "id_clase": "1756"
+  },
+  {
+    "idSedeClase": "454",
+    "id_sede": "94",
+    "id_clase": "1757"
+  },
+  {
+    "idSedeClase": "1397",
+    "id_sede": "58",
+    "id_clase": "1758"
+  },
+  {
+    "idSedeClase": "1442",
+    "id_sede": "77",
+    "id_clase": "1759"
+  },
+  {
+    "idSedeClase": "1756",
+    "id_sede": "97",
+    "id_clase": "1760"
+  },
+  {
+    "idSedeClase": "438",
+    "id_sede": "44",
+    "id_clase": "1761"
+  },
+  {
+    "idSedeClase": "1188",
+    "id_sede": "78",
+    "id_clase": "1762"
+  },
+  {
+    "idSedeClase": "20",
+    "id_sede": "68",
+    "id_clase": "1764"
+  },
+  {
+    "idSedeClase": "1523",
+    "id_sede": "59",
+    "id_clase": "1764"
+  },
+  {
+    "idSedeClase": "76",
+    "id_sede": "92",
+    "id_clase": "1766"
+  },
+  {
+    "idSedeClase": "1710",
+    "id_sede": "3",
+    "id_clase": "1766"
+  },
+  {
+    "idSedeClase": "742",
+    "id_sede": "37",
+    "id_clase": "1767"
+  },
+  {
+    "idSedeClase": "1556",
+    "id_sede": "23",
+    "id_clase": "1767"
+  },
+  {
+    "idSedeClase": "1865",
+    "id_sede": "50",
+    "id_clase": "1768"
+  },
+  {
+    "idSedeClase": "1278",
+    "id_sede": "53",
+    "id_clase": "1770"
+  },
+  {
+    "idSedeClase": "307",
+    "id_sede": "93",
+    "id_clase": "1771"
+  },
+  {
+    "idSedeClase": "359",
+    "id_sede": "99",
+    "id_clase": "1773"
+  },
+  {
+    "idSedeClase": "677",
+    "id_sede": "100",
+    "id_clase": "1773"
+  },
+  {
+    "idSedeClase": "402",
+    "id_sede": "9",
+    "id_clase": "1775"
+  },
+  {
+    "idSedeClase": "923",
+    "id_sede": "4",
+    "id_clase": "1776"
+  },
+  {
+    "idSedeClase": "417",
+    "id_sede": "93",
+    "id_clase": "1777"
+  },
+  {
+    "idSedeClase": "1958",
+    "id_sede": "62",
+    "id_clase": "1778"
+  },
+  {
+    "idSedeClase": "143",
+    "id_sede": "98",
+    "id_clase": "1780"
+  },
+  {
+    "idSedeClase": "1235",
+    "id_sede": "33",
+    "id_clase": "1784"
+  },
+  {
+    "idSedeClase": "1264",
+    "id_sede": "33",
+    "id_clase": "1785"
+  },
+  {
+    "idSedeClase": "755",
+    "id_sede": "54",
+    "id_clase": "1786"
+  },
+  {
+    "idSedeClase": "1581",
+    "id_sede": "17",
+    "id_clase": "1787"
+  },
+  {
+    "idSedeClase": "1148",
+    "id_sede": "16",
+    "id_clase": "1788"
+  },
+  {
+    "idSedeClase": "1496",
+    "id_sede": "14",
+    "id_clase": "1788"
+  },
+  {
+    "idSedeClase": "1868",
+    "id_sede": "87",
+    "id_clase": "1788"
+  },
+  {
+    "idSedeClase": "1579",
+    "id_sede": "80",
+    "id_clase": "1791"
+  },
+  {
+    "idSedeClase": "639",
+    "id_sede": "88",
+    "id_clase": "1794"
+  },
+  {
+    "idSedeClase": "522",
+    "id_sede": "50",
+    "id_clase": "1795"
+  },
+  {
+    "idSedeClase": "1510",
+    "id_sede": "48",
+    "id_clase": "1795"
+  },
+  {
+    "idSedeClase": "98",
+    "id_sede": "91",
+    "id_clase": "1798"
+  },
+  {
+    "idSedeClase": "1094",
+    "id_sede": "56",
+    "id_clase": "1798"
+  },
+  {
+    "idSedeClase": "1017",
+    "id_sede": "42",
+    "id_clase": "1799"
+  },
+  {
+    "idSedeClase": "202",
+    "id_sede": "75",
+    "id_clase": "1802"
+  },
+  {
+    "idSedeClase": "1456",
+    "id_sede": "59",
+    "id_clase": "1802"
+  },
+  {
+    "idSedeClase": "381",
+    "id_sede": "70",
+    "id_clase": "1804"
+  },
+  {
+    "idSedeClase": "1628",
+    "id_sede": "72",
+    "id_clase": "1804"
+  },
+  {
+    "idSedeClase": "1839",
+    "id_sede": "40",
+    "id_clase": "1804"
+  },
+  {
+    "idSedeClase": "334",
+    "id_sede": "8",
+    "id_clase": "1805"
+  },
+  {
+    "idSedeClase": "1394",
+    "id_sede": "44",
+    "id_clase": "1805"
+  },
+  {
+    "idSedeClase": "667",
+    "id_sede": "81",
+    "id_clase": "1806"
+  },
+  {
+    "idSedeClase": "1290",
+    "id_sede": "84",
+    "id_clase": "1810"
+  },
+  {
+    "idSedeClase": "1513",
+    "id_sede": "83",
+    "id_clase": "1810"
+  },
+  {
+    "idSedeClase": "1459",
+    "id_sede": "20",
+    "id_clase": "1814"
+  },
+  {
+    "idSedeClase": "1691",
+    "id_sede": "13",
+    "id_clase": "1814"
+  },
+  {
+    "idSedeClase": "728",
+    "id_sede": "68",
+    "id_clase": "1815"
+  },
+  {
+    "idSedeClase": "168",
+    "id_sede": "74",
+    "id_clase": "1816"
+  },
+  {
+    "idSedeClase": "1422",
+    "id_sede": "77",
+    "id_clase": "1816"
+  },
+  {
+    "idSedeClase": "1431",
+    "id_sede": "69",
+    "id_clase": "1816"
+  },
+  {
+    "idSedeClase": "1446",
+    "id_sede": "42",
+    "id_clase": "1816"
+  },
+  {
+    "idSedeClase": "683",
+    "id_sede": "46",
+    "id_clase": "1818"
+  },
+  {
+    "idSedeClase": "1324",
+    "id_sede": "36",
+    "id_clase": "1818"
+  },
+  {
+    "idSedeClase": "725",
+    "id_sede": "22",
+    "id_clase": "1819"
+  },
+  {
+    "idSedeClase": "284",
+    "id_sede": "98",
+    "id_clase": "1823"
+  },
+  {
+    "idSedeClase": "121",
+    "id_sede": "44",
+    "id_clase": "1824"
+  },
+  {
+    "idSedeClase": "1",
+    "id_sede": "36",
+    "id_clase": "1825"
+  },
+  {
+    "idSedeClase": "767",
+    "id_sede": "94",
+    "id_clase": "1825"
+  },
+  {
+    "idSedeClase": "1288",
+    "id_sede": "9",
+    "id_clase": "1825"
+  },
+  {
+    "idSedeClase": "1845",
+    "id_sede": "24",
+    "id_clase": "1825"
+  },
+  {
+    "idSedeClase": "1802",
+    "id_sede": "36",
+    "id_clase": "1827"
+  },
+  {
+    "idSedeClase": "928",
+    "id_sede": "63",
+    "id_clase": "1828"
+  },
+  {
+    "idSedeClase": "751",
+    "id_sede": "100",
+    "id_clase": "1829"
+  },
+  {
+    "idSedeClase": "963",
+    "id_sede": "98",
+    "id_clase": "1829"
+  },
+  {
+    "idSedeClase": "613",
+    "id_sede": "60",
+    "id_clase": "1830"
+  },
+  {
+    "idSedeClase": "459",
+    "id_sede": "90",
+    "id_clase": "1832"
+  },
+  {
+    "idSedeClase": "671",
+    "id_sede": "75",
+    "id_clase": "1832"
+  },
+  {
+    "idSedeClase": "1114",
+    "id_sede": "93",
+    "id_clase": "1832"
+  },
+  {
+    "idSedeClase": "1871",
+    "id_sede": "58",
+    "id_clase": "1832"
+  },
+  {
+    "idSedeClase": "365",
+    "id_sede": "92",
+    "id_clase": "1833"
+  },
+  {
+    "idSedeClase": "443",
+    "id_sede": "8",
+    "id_clase": "1833"
+  },
+  {
+    "idSedeClase": "523",
+    "id_sede": "37",
+    "id_clase": "1833"
+  },
+  {
+    "idSedeClase": "418",
+    "id_sede": "54",
+    "id_clase": "1836"
+  },
+  {
+    "idSedeClase": "1531",
+    "id_sede": "71",
+    "id_clase": "1836"
+  },
+  {
+    "idSedeClase": "1562",
+    "id_sede": "94",
+    "id_clase": "1836"
+  },
+  {
+    "idSedeClase": "800",
+    "id_sede": "26",
+    "id_clase": "1837"
+  },
+  {
+    "idSedeClase": "977",
+    "id_sede": "39",
+    "id_clase": "1837"
+  },
+  {
+    "idSedeClase": "1529",
+    "id_sede": "98",
+    "id_clase": "1837"
+  },
+  {
+    "idSedeClase": "1150",
+    "id_sede": "16",
+    "id_clase": "1839"
+  },
+  {
+    "idSedeClase": "262",
+    "id_sede": "36",
+    "id_clase": "1840"
+  },
+  {
+    "idSedeClase": "1107",
+    "id_sede": "68",
+    "id_clase": "1840"
+  },
+  {
+    "idSedeClase": "1547",
+    "id_sede": "82",
+    "id_clase": "1840"
+  },
+  {
+    "idSedeClase": "1535",
+    "id_sede": "12",
+    "id_clase": "1841"
+  },
+  {
+    "idSedeClase": "715",
+    "id_sede": "45",
+    "id_clase": "1842"
+  },
+  {
+    "idSedeClase": "1516",
+    "id_sede": "68",
+    "id_clase": "1843"
+  },
+  {
+    "idSedeClase": "1990",
+    "id_sede": "87",
+    "id_clase": "1845"
+  },
+  {
+    "idSedeClase": "1026",
+    "id_sede": "50",
+    "id_clase": "1846"
+  },
+  {
+    "idSedeClase": "1722",
+    "id_sede": "34",
+    "id_clase": "1847"
+  },
+  {
+    "idSedeClase": "19",
+    "id_sede": "48",
+    "id_clase": "1848"
+  },
+  {
+    "idSedeClase": "374",
+    "id_sede": "78",
+    "id_clase": "1849"
+  },
+  {
+    "idSedeClase": "1981",
+    "id_sede": "75",
+    "id_clase": "1849"
+  },
+  {
+    "idSedeClase": "607",
+    "id_sede": "77",
+    "id_clase": "1854"
+  },
+  {
+    "idSedeClase": "1771",
+    "id_sede": "4",
+    "id_clase": "1856"
+  },
+  {
+    "idSedeClase": "1314",
+    "id_sede": "94",
+    "id_clase": "1857"
+  },
+  {
+    "idSedeClase": "1617",
+    "id_sede": "49",
+    "id_clase": "1858"
+  },
+  {
+    "idSedeClase": "1960",
+    "id_sede": "76",
+    "id_clase": "1858"
+  },
+  {
+    "idSedeClase": "405",
+    "id_sede": "73",
+    "id_clase": "1859"
+  },
+  {
+    "idSedeClase": "397",
+    "id_sede": "36",
+    "id_clase": "1860"
+  },
+  {
+    "idSedeClase": "847",
+    "id_sede": "21",
+    "id_clase": "1861"
+  },
+  {
+    "idSedeClase": "464",
+    "id_sede": "17",
+    "id_clase": "1863"
+  },
+  {
+    "idSedeClase": "1602",
+    "id_sede": "25",
+    "id_clase": "1863"
+  },
+  {
+    "idSedeClase": "1704",
+    "id_sede": "4",
+    "id_clase": "1863"
+  },
+  {
+    "idSedeClase": "1713",
+    "id_sede": "65",
+    "id_clase": "1863"
+  },
+  {
+    "idSedeClase": "398",
+    "id_sede": "27",
+    "id_clase": "1865"
+  },
+  {
+    "idSedeClase": "881",
+    "id_sede": "22",
+    "id_clase": "1868"
+  },
+  {
+    "idSedeClase": "1097",
+    "id_sede": "77",
+    "id_clase": "1869"
+  },
+  {
+    "idSedeClase": "1438",
+    "id_sede": "78",
+    "id_clase": "1869"
+  },
+  {
+    "idSedeClase": "238",
+    "id_sede": "87",
+    "id_clase": "1870"
+  },
+  {
+    "idSedeClase": "392",
+    "id_sede": "59",
+    "id_clase": "1870"
+  },
+  {
+    "idSedeClase": "127",
+    "id_sede": "49",
+    "id_clase": "1871"
+  },
+  {
+    "idSedeClase": "1374",
+    "id_sede": "50",
+    "id_clase": "1871"
+  },
+  {
+    "idSedeClase": "1477",
+    "id_sede": "56",
+    "id_clase": "1871"
+  },
+  {
+    "idSedeClase": "1976",
+    "id_sede": "16",
+    "id_clase": "1871"
+  },
+  {
+    "idSedeClase": "476",
+    "id_sede": "43",
+    "id_clase": "1873"
+  },
+  {
+    "idSedeClase": "555",
+    "id_sede": "55",
+    "id_clase": "1873"
+  },
+  {
+    "idSedeClase": "1527",
+    "id_sede": "36",
+    "id_clase": "1874"
+  },
+  {
+    "idSedeClase": "1705",
+    "id_sede": "29",
+    "id_clase": "1874"
+  },
+  {
+    "idSedeClase": "748",
+    "id_sede": "47",
+    "id_clase": "1876"
+  },
+  {
+    "idSedeClase": "1105",
+    "id_sede": "40",
+    "id_clase": "1876"
+  },
+  {
+    "idSedeClase": "997",
+    "id_sede": "21",
+    "id_clase": "1879"
+  },
+  {
+    "idSedeClase": "1090",
+    "id_sede": "19",
+    "id_clase": "1881"
+  },
+  {
+    "idSedeClase": "1660",
+    "id_sede": "13",
+    "id_clase": "1881"
+  },
+  {
+    "idSedeClase": "1804",
+    "id_sede": "16",
+    "id_clase": "1881"
+  },
+  {
+    "idSedeClase": "35",
+    "id_sede": "25",
+    "id_clase": "1883"
+  },
+  {
+    "idSedeClase": "161",
+    "id_sede": "29",
+    "id_clase": "1883"
+  },
+  {
+    "idSedeClase": "951",
+    "id_sede": "63",
+    "id_clase": "1883"
+  },
+  {
+    "idSedeClase": "1528",
+    "id_sede": "19",
+    "id_clase": "1886"
+  },
+  {
+    "idSedeClase": "26",
+    "id_sede": "26",
+    "id_clase": "1887"
+  },
+  {
+    "idSedeClase": "786",
+    "id_sede": "32",
+    "id_clase": "1888"
+  },
+  {
+    "idSedeClase": "134",
+    "id_sede": "26",
+    "id_clase": "1889"
+  },
+  {
+    "idSedeClase": "69",
+    "id_sede": "16",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "716",
+    "id_sede": "11",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "953",
+    "id_sede": "34",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "1344",
+    "id_sede": "11",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "1352",
+    "id_sede": "77",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "1783",
+    "id_sede": "86",
+    "id_clase": "1891"
+  },
+  {
+    "idSedeClase": "1829",
+    "id_sede": "17",
+    "id_clase": "1892"
+  },
+  {
+    "idSedeClase": "9",
+    "id_sede": "17",
+    "id_clase": "1894"
+  },
+  {
+    "idSedeClase": "48",
+    "id_sede": "70",
+    "id_clase": "1894"
+  },
+  {
+    "idSedeClase": "67",
+    "id_sede": "32",
+    "id_clase": "1894"
+  },
+  {
+    "idSedeClase": "395",
+    "id_sede": "5",
+    "id_clase": "1895"
+  },
+  {
+    "idSedeClase": "39",
+    "id_sede": "8",
+    "id_clase": "1897"
+  },
+  {
+    "idSedeClase": "1777",
+    "id_sede": "14",
+    "id_clase": "1897"
+  },
+  {
+    "idSedeClase": "666",
+    "id_sede": "23",
+    "id_clase": "1898"
+  },
+  {
+    "idSedeClase": "356",
+    "id_sede": "20",
+    "id_clase": "1902"
+  },
+  {
+    "idSedeClase": "770",
+    "id_sede": "97",
+    "id_clase": "1902"
+  },
+  {
+    "idSedeClase": "833",
+    "id_sede": "91",
+    "id_clase": "1903"
+  },
+  {
+    "idSedeClase": "1081",
+    "id_sede": "17",
+    "id_clase": "1903"
+  },
+  {
+    "idSedeClase": "598",
+    "id_sede": "42",
+    "id_clase": "1904"
+  },
+  {
+    "idSedeClase": "1055",
+    "id_sede": "51",
+    "id_clase": "1907"
+  },
+  {
+    "idSedeClase": "235",
+    "id_sede": "57",
+    "id_clase": "1908"
+  },
+  {
+    "idSedeClase": "40",
+    "id_sede": "13",
+    "id_clase": "1909"
+  },
+  {
+    "idSedeClase": "976",
+    "id_sede": "3",
+    "id_clase": "1909"
+  },
+  {
+    "idSedeClase": "299",
+    "id_sede": "9",
+    "id_clase": "1910"
+  },
+  {
+    "idSedeClase": "1251",
+    "id_sede": "63",
+    "id_clase": "1910"
+  },
+  {
+    "idSedeClase": "1008",
+    "id_sede": "97",
+    "id_clase": "1914"
+  },
+  {
+    "idSedeClase": "1598",
+    "id_sede": "24",
+    "id_clase": "1914"
+  },
+  {
+    "idSedeClase": "82",
+    "id_sede": "2",
+    "id_clase": "1916"
+  },
+  {
+    "idSedeClase": "320",
+    "id_sede": "65",
+    "id_clase": "1916"
+  },
+  {
+    "idSedeClase": "34",
+    "id_sede": "10",
+    "id_clase": "1917"
+  },
+  {
+    "idSedeClase": "568",
+    "id_sede": "23",
+    "id_clase": "1917"
+  },
+  {
+    "idSedeClase": "1271",
+    "id_sede": "68",
+    "id_clase": "1917"
+  },
+  {
+    "idSedeClase": "181",
+    "id_sede": "94",
+    "id_clase": "1918"
+  },
+  {
+    "idSedeClase": "969",
+    "id_sede": "2",
+    "id_clase": "1918"
+  },
+  {
+    "idSedeClase": "1228",
+    "id_sede": "77",
+    "id_clase": "1919"
+  },
+  {
+    "idSedeClase": "185",
+    "id_sede": "31",
+    "id_clase": "1920"
+  },
+  {
+    "idSedeClase": "1259",
+    "id_sede": "50",
+    "id_clase": "1920"
+  },
+  {
+    "idSedeClase": "1190",
+    "id_sede": "1",
+    "id_clase": "1921"
+  },
+  {
+    "idSedeClase": "1791",
+    "id_sede": "18",
+    "id_clase": "1923"
+  },
+  {
+    "idSedeClase": "797",
+    "id_sede": "22",
+    "id_clase": "1924"
+  },
+  {
+    "idSedeClase": "893",
+    "id_sede": "34",
+    "id_clase": "1925"
+  },
+  {
+    "idSedeClase": "1731",
+    "id_sede": "93",
+    "id_clase": "1925"
+  },
+  {
+    "idSedeClase": "248",
+    "id_sede": "87",
+    "id_clase": "1926"
+  },
+  {
+    "idSedeClase": "1963",
+    "id_sede": "53",
+    "id_clase": "1926"
+  },
+  {
+    "idSedeClase": "478",
+    "id_sede": "86",
+    "id_clase": "1928"
+  },
+  {
+    "idSedeClase": "845",
+    "id_sede": "99",
+    "id_clase": "1928"
+  },
+  {
+    "idSedeClase": "942",
+    "id_sede": "55",
+    "id_clase": "1928"
+  },
+  {
+    "idSedeClase": "1046",
+    "id_sede": "64",
+    "id_clase": "1929"
+  },
+  {
+    "idSedeClase": "1746",
+    "id_sede": "99",
+    "id_clase": "1930"
+  },
+  {
+    "idSedeClase": "1179",
+    "id_sede": "29",
+    "id_clase": "1931"
+  },
+  {
+    "idSedeClase": "1541",
+    "id_sede": "73",
+    "id_clase": "1931"
+  },
+  {
+    "idSedeClase": "1670",
+    "id_sede": "29",
+    "id_clase": "1931"
+  },
+  {
+    "idSedeClase": "648",
+    "id_sede": "25",
+    "id_clase": "1932"
+  },
+  {
+    "idSedeClase": "788",
+    "id_sede": "36",
+    "id_clase": "1932"
+  },
+  {
+    "idSedeClase": "1021",
+    "id_sede": "96",
+    "id_clase": "1932"
+  },
+  {
+    "idSedeClase": "912",
+    "id_sede": "87",
+    "id_clase": "1933"
+  },
+  {
+    "idSedeClase": "62",
+    "id_sede": "75",
+    "id_clase": "1934"
+  },
+  {
+    "idSedeClase": "186",
+    "id_sede": "24",
+    "id_clase": "1934"
+  },
+  {
+    "idSedeClase": "561",
+    "id_sede": "44",
+    "id_clase": "1935"
+  },
+  {
+    "idSedeClase": "1320",
+    "id_sede": "19",
+    "id_clase": "1935"
+  },
+  {
+    "idSedeClase": "887",
+    "id_sede": "82",
+    "id_clase": "1936"
+  },
+  {
+    "idSedeClase": "280",
+    "id_sede": "70",
+    "id_clase": "1937"
+  },
+  {
+    "idSedeClase": "1404",
+    "id_sede": "50",
+    "id_clase": "1937"
+  },
+  {
+    "idSedeClase": "1913",
+    "id_sede": "63",
+    "id_clase": "1937"
+  },
+  {
+    "idSedeClase": "1370",
+    "id_sede": "20",
+    "id_clase": "1939"
+  },
+  {
+    "idSedeClase": "1648",
+    "id_sede": "64",
+    "id_clase": "1939"
+  },
+  {
+    "idSedeClase": "544",
+    "id_sede": "82",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "549",
+    "id_sede": "38",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "745",
+    "id_sede": "5",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "747",
+    "id_sede": "83",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "1215",
+    "id_sede": "83",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "1890",
+    "id_sede": "22",
+    "id_clase": "1940"
+  },
+  {
+    "idSedeClase": "929",
+    "id_sede": "78",
+    "id_clase": "1941"
+  },
+  {
+    "idSedeClase": "463",
+    "id_sede": "92",
+    "id_clase": "1942"
+  },
+  {
+    "idSedeClase": "1656",
+    "id_sede": "48",
+    "id_clase": "1945"
+  },
+  {
+    "idSedeClase": "891",
+    "id_sede": "39",
+    "id_clase": "1948"
+  },
+  {
+    "idSedeClase": "198",
+    "id_sede": "76",
+    "id_clase": "1949"
+  },
+  {
+    "idSedeClase": "957",
+    "id_sede": "83",
+    "id_clase": "1949"
+  },
+  {
+    "idSedeClase": "1195",
+    "id_sede": "53",
+    "id_clase": "1949"
+  },
+  {
+    "idSedeClase": "1172",
+    "id_sede": "11",
+    "id_clase": "1950"
+  },
+  {
+    "idSedeClase": "1954",
+    "id_sede": "95",
+    "id_clase": "1950"
+  },
+  {
+    "idSedeClase": "1484",
+    "id_sede": "14",
+    "id_clase": "1951"
+  },
+  {
+    "idSedeClase": "917",
+    "id_sede": "42",
+    "id_clase": "1952"
+  },
+  {
+    "idSedeClase": "1549",
+    "id_sede": "39",
+    "id_clase": "1953"
+  },
+  {
+    "idSedeClase": "1772",
+    "id_sede": "22",
+    "id_clase": "1953"
+  },
+  {
+    "idSedeClase": "1347",
+    "id_sede": "52",
+    "id_clase": "1955"
+  },
+  {
+    "idSedeClase": "873",
+    "id_sede": "37",
+    "id_clase": "1956"
+  },
+  {
+    "idSedeClase": "529",
+    "id_sede": "66",
+    "id_clase": "1958"
+  },
+  {
+    "idSedeClase": "277",
+    "id_sede": "20",
+    "id_clase": "1959"
+  },
+  {
+    "idSedeClase": "66",
+    "id_sede": "89",
+    "id_clase": "1961"
+  },
+  {
+    "idSedeClase": "651",
+    "id_sede": "36",
+    "id_clase": "1961"
+  },
+  {
+    "idSedeClase": "1060",
+    "id_sede": "17",
+    "id_clase": "1961"
+  },
+  {
+    "idSedeClase": "720",
+    "id_sede": "15",
+    "id_clase": "1963"
+  },
+  {
+    "idSedeClase": "1462",
+    "id_sede": "25",
+    "id_clase": "1963"
+  },
+  {
+    "idSedeClase": "706",
+    "id_sede": "27",
+    "id_clase": "1964"
+  },
+  {
+    "idSedeClase": "115",
+    "id_sede": "89",
+    "id_clase": "1966"
+  },
+  {
+    "idSedeClase": "1933",
+    "id_sede": "12",
+    "id_clase": "1966"
+  },
+  {
+    "idSedeClase": "385",
+    "id_sede": "38",
+    "id_clase": "1967"
+  },
+  {
+    "idSedeClase": "73",
+    "id_sede": "35",
+    "id_clase": "1969"
+  },
+  {
+    "idSedeClase": "411",
+    "id_sede": "19",
+    "id_clase": "1969"
+  },
+  {
+    "idSedeClase": "829",
+    "id_sede": "99",
+    "id_clase": "1970"
+  },
+  {
+    "idSedeClase": "1274",
+    "id_sede": "96",
+    "id_clase": "1970"
+  },
+  {
+    "idSedeClase": "331",
+    "id_sede": "23",
+    "id_clase": "1971"
+  },
+  {
+    "idSedeClase": "1566",
+    "id_sede": "40",
+    "id_clase": "1974"
+  },
+  {
+    "idSedeClase": "70",
+    "id_sede": "33",
+    "id_clase": "1981"
+  },
+  {
+    "idSedeClase": "1423",
+    "id_sede": "51",
+    "id_clase": "1981"
+  },
+  {
+    "idSedeClase": "1653",
+    "id_sede": "21",
+    "id_clase": "1983"
+  },
+  {
+    "idSedeClase": "136",
+    "id_sede": "24",
+    "id_clase": "1984"
+  },
+  {
+    "idSedeClase": "812",
+    "id_sede": "50",
+    "id_clase": "1986"
+  },
+  {
+    "idSedeClase": "779",
+    "id_sede": "39",
+    "id_clase": "1990"
+  },
+  {
+    "idSedeClase": "1025",
+    "id_sede": "55",
+    "id_clase": "1990"
+  },
+  {
+    "idSedeClase": "1227",
+    "id_sede": "24",
+    "id_clase": "1993"
+  },
+  {
+    "idSedeClase": "1709",
+    "id_sede": "94",
+    "id_clase": "1993"
+  },
+  {
+    "idSedeClase": "1009",
+    "id_sede": "9",
+    "id_clase": "1994"
+  },
+  {
+    "idSedeClase": "1775",
+    "id_sede": "62",
+    "id_clase": "1994"
+  },
+  {
+    "idSedeClase": "255",
+    "id_sede": "52",
+    "id_clase": "1995"
+  },
+  {
+    "idSedeClase": "689",
+    "id_sede": "20",
+    "id_clase": "1995"
+  },
+  {
+    "idSedeClase": "1203",
+    "id_sede": "37",
+    "id_clase": "1995"
+  },
+  {
+    "idSedeClase": "290",
+    "id_sede": "25",
+    "id_clase": "1996"
+  },
+  {
+    "idSedeClase": "15",
+    "id_sede": "69",
+    "id_clase": "1999"
+  },
+  {
+    "idSedeClase": "190",
+    "id_sede": "16",
+    "id_clase": "1999"
+  },
+  {
+    "idSedeClase": "445",
+    "id_sede": "1",
+    "id_clase": "1999"
+  },
+  {
+    "idSedeClase": "645",
+    "id_sede": "10",
+    "id_clase": "1999"
+  },
+  {
+    "idSedeClase": "934",
+    "id_sede": "88",
+    "id_clase": "1999"
+  },
+  {
+    "idSedeClase": "1387",
+    "id_sede": "17",
+    "id_clase": "1999"
+  }
+]
